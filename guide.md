@@ -30,7 +30,7 @@ This guide covers everything needed for a perfect game. This guide's definition 
 - Each bazaar item unlocked at least once
 - All non-repeatable treasure obtained
 - Order of Ambrosia
-- At least one of every equipment obtained without buying it (bazaar is okay and buying extras is okay)
+- At least one of every equipment obtained without buying it (when possible; bazaar is okay and buying extras is okay)
 - Bestiary second pages complete
 
 If this is your first time playing, then the guide will be hard to follow. This is meant for someone who's relatively familiar with the game.
@@ -460,6 +460,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - Maps: 720 gil
 - Shell, Protect: 500 gil
 - Charge: 1500 gil
+- Spear\*: 1300 gil
 
 #Lhusu Mines
 
@@ -529,7 +530,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ![](https://i.imgur.com/sc8HOjJ.png)
 
-- [3] Partisan (80%, 40%)
+- [3] Partisan\* (80%, 40%)
 
 ##Large Freight Stores
 
@@ -985,7 +986,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - 3x Valeblossom Dew
 - [59] Black Cowl (80%, 32.5%)
 - [63] Viking Coat (80%, 32.5%)
-- [67] Obelisk (80%, 32.5%)
+- [67] Obelisk\* (80%, 32.5%)
 - [68] Dragon Shield (80%, 32.5%)
 - [70] Berserker Braces (100%)
 - [71] Diamond Helm (80%, 25%)
@@ -1235,6 +1236,9 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ##Field of Fallen Wings
 
+![](https://i.imgur.com/sEXEfDW.png)
+
+- [9] Heavy Lance\* (80%, 30%)
 - 2x Braid Wool (40% at L0 from Ozmone Hare or Bull Croc)
 - 3x Water Magicite (80% steal or 25% at L0 from Ozmone Hare)
 
@@ -1470,7 +1474,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 ![](https://i.imgur.com/Gbo19mH.png)
 
 - 9x Ice Magicite (40% at L0 from Yeti or White Wolf)
-- [50] Storm Spear (75%, 25%)
+- [50] Storm Spear\* (75%, 25%)
 
 #Mt Bur-Omisace
 
@@ -2549,7 +2553,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 ##Lasche Span
 
 - 4x Wyvern Fang (95% poach or 80% steal or 40% at L0 from Aeronite)
-- Dragon Whisker (100%)
+- Dragon Whisker\* (100%)
 - (R) Bombshell (20% per entry, 3% Yagyu Darkblade at L0)
     - 2x total Mallet (6% steal)
 
@@ -3183,7 +3187,7 @@ Maps:
 ![](https://i.imgur.com/1LKni7Q.png)
 
 - 8x Book of Orgain-Mille (80% steal or 25% at L0 from Etem)
-- [48] Zodiac Spear (1%, 100%)
+- [48] Zodiac Spear\* (1%)
 - [52] Renew (100%)
 - [53] Addle (100%)
 - [54] Brave Suit (25%)
@@ -3221,6 +3225,7 @@ Maps:
 ![](https://i.imgur.com/FhZuekB.png)
 
 - [13] Greataxe\* (75%, 25%)
+- [14] Holy Lance\* (75%, 25%)
 
 ##City of Other Days
 
