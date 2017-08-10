@@ -347,7 +347,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ![](https://i.imgur.com/wo8Z2qZ.png)
 
-- [24] Kotetsu (75%, 30%)
+- [24] Kotetsu\* (75%, 30%)
 
 ##Southern Sluiceway
 
@@ -465,7 +465,10 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ##Shaft Entry
 
-- [NW] Bronze Mace\* (70%, 32.5%)
+![](https://i.imgur.com/Od5B47t.png)
+
+- [2] Bronze Mace\* (70%, 32.5%)
+- [4] Osafune\* (70%, 30%)
 
 ##Oltam Span
 
@@ -585,6 +588,8 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - [1] Bhuj\* (75%, 25%)
 - [3] Wizard's Staff (75%, 25%)
 
+
+
 ##Platform 1 - Refinery
 
 ![](https://i.imgur.com/jMGh7wG.png)
@@ -631,6 +636,12 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - [44] Golden Shield (75%, 37.5%)
 - [46] Leather Gorget (75%, 37.5%)
 - (R) Urutan Exile (100 Urutan-Yensa kills, Unknown% chance, 18% Magoroku at L3)
+
+##Platform 1 - South Tanks
+
+![](https://i.imgur.com/nmXUNqk.png)
+
+- [51] Kogarasumaru\* (75%, 30%)
 
 #Nam-Yensa Sandsea
 
@@ -854,7 +865,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - 1x Throat Wolf Blood (10% monograph from Alpha Worgen or 5% poach from Worgen)
 - (R) Wary Wolf (7% per Worgen, 25% Power Armlet drop)
 - [8] Golden Staff (75%, 30%)
-- [11] Kiku-ichimonji (75%, 30%)
+- [11] Kiku-ichimonji\* (75%, 30%)
 
 ##[NE] Rays of Ashen Light
 
@@ -1076,7 +1087,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ![](https://i.imgur.com/6R1SNbN.png)
 
-- [65] Murasame (90%, 25%)
+- [65] Murasame\* (90%, 25%)
 - [66] Fumarole (100%)
 - [69] Fuzzy Miter (90%, 25%)
 - [71] Six-fluted Pole (90%, 25%)
@@ -1176,6 +1187,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - Wait for Bansat to show up
 - Gil Snapper (thunder)
 - [U] Feather of the Flock
+- [40] Magoroku\* (80%, 25%)
 - [41] Main Gauche\* (80%, 25%)
 - 2/3 Aries Gem (30% steal from Silicon Tortoise)
 - 10x total Water Crystal (25% at L0 from Silicon Tortoise)
@@ -1863,7 +1875,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ![](https://i.imgur.com/CWTrhm5.png)
 
-- [27] Yakei (30%, 35%)
+- [27] Yakei\* (30%, 35%)
 - [28] Protectga (100%)
 - [31] Burning Bow (30%, 35%)
 - [33] Hypnocrown (30%, 35%)
@@ -2567,7 +2579,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 ##Site 7
 
 - Gilgamesh (steal every phase, Fuzzy Miter, Enkidu first, L2 Sleep, L3 Disable, L4 Break)
-- Masamune (100%)
+- Masamune\* (100%)
 
 #Sochen Cave Palace
 
@@ -3297,7 +3309,7 @@ Maps:
 
 ##The Bounds of Truth
 
-- [NW] Muramasa (100%)
+- [NW] Muramasa\* (100%)
 - [NW] Hastega Mote (100%)
 
 ##Cleft of Profaning Wind
