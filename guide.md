@@ -62,6 +62,8 @@ A \* beside an equipment name means this is the easiest source apart from a shop
 
 A \*\* beside an equipment name means this is the easiest **repeatable** source, but that there's an easier source for just 1. This is outside the scope of the guide, but is provided as a nice gesture for trophy rare game, which don't respawn, making these sources missable.
 
+Equipment not listed is obtained through the bazaar or sidequests.
+
 ##Loot
 
 Some loot (like High Arcana) will be used in combination selling, where multiple bazaar items will be unlocked at once and the loot in question will count toward all of the unlocked bazaar items intead of only one.
@@ -316,6 +318,14 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - Dantro
 - Dantro's wife
 
+#Garamsythe Waterway
+
+##Northern Sluiceway
+
+![](https://i.imgur.com/Lp9qEIm.png)
+
+- [5] Broadsword\* (75%, 32.5%)
+
 #Royal Palace
 
 - 6+1 chests
@@ -522,7 +532,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 - [SE] Vega (80%, 30%)
 - [W] Infuse (100%)
-- [W] Zwill Blade (75%, 32.5%)
+- [W] Zwill Blade\* (75%, 32.5%)
 
 #Bhujerba
 
@@ -564,7 +574,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 ![](https://i.imgur.com/jMGh7wG.png)
 
 - (R) Pineapple (20% chance)
-- [5] Ancient Sword (75%, 32.5%)
+- [5] Ancient Sword\* (75%, 32.5%)
 - [11] Windbreaker (75%, 32.5%)
 - [12] Golden Amulet (100%)
 - [13] Killer Bow (75%, 32.5%)
@@ -628,6 +638,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - Wyvern (no wind)
 - 3x Large Feather (95% poach or 55% steal or 25% at L0 from Bagoly)
 - 3x Bent Staff (15% monograph or 40% at L0 from Bagoly)
+- [44] Lohengrin\* (75%, 35%)
 - [45] Embroidered Tippet (100%)
 - [46] Chopper (75%, 35%)
 - [47] Soldier's Hat (75%, 35%)
@@ -679,7 +690,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ##Cloister of Flame
 
-- [SW] Blood Sword (100%)
+- [SW] Blood Sword\* (100%)
 - [Boss] Shades of Black (100%)
 - [Boss] Elixir (100%)
 - Belias (water)
@@ -873,7 +884,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 ![](https://i.imgur.com/1XXiehF.png)
 
 - 4x Malboro Fruit (95% poach or 30% steal or 40% at L0 from Malboro King)
-- [17] Bastard Sword (65%, 22.5%)
+- [17] Bastard Sword\* (65%, 22.5%)
 - [20] Ras Algethi (65%, 22.5%)
 
 ##Sun-dappled Path
@@ -929,7 +940,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - 5x Giant Feather (95% poach or 80% steal from Dive Talon)
 - 1x Bundle of Needles (6% steal or 5% monograph from Cactoid)
 - 2x Tyrant Bone (12% monograph from Wild Saurian)
-- [46] Demonsbane (75%, 32.5%)
+- [46] Demonsbane\* (75%, 32.5%)
 - [49] Bone Helm (75%, 32.5%)
 - [50] Bone Mail (75%, 32.5%)
 - [56] Hammerhead (75%, 32.5%)
@@ -1548,7 +1559,10 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ##Walk of Reason
 
-- [SE] Ashura (100%)
+![](https://i.imgur.com/LoWqdsM.png)
+
+- [10] Ashura (100%)
+- [11] Platinum Sword\* (75%, 25%)
 
 ##Ward of Steel
 
@@ -1729,7 +1743,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - [S] Elixir (100%)
 - [N] 4416 gil (100%)
 - [W] Serum (100%)
-- (R) Velelu (HP < 20%, 40% Save the Queen at L3, 7% Durandal at L3)
+- (R) Velelu (HP < 20%, 40% Save the Queen at L3, 7% Durandal\* at L3)
 
 ##Overlooking Eternity
 
@@ -3495,7 +3509,7 @@ Maps:
 - [29] Baltoro's Seed (40%, 0.15%) DA
 - [30] Baltoro's Seed (40%, 0.15%) DA
 - [31] Megalixir (100%)
-- [32] Great Trango (2%, 1%) DA
+- [32] Great Trango\* (2%, 1%) DA
     - Use [RNG Manipulation](https://www.youtube.com/watch?v=e1e7Iy96bAI)
 - [33] Baltoro's Seed (40%, 0.15%) DA
 - [34] Baltoro's Seed (40%, 0.15%) DA
