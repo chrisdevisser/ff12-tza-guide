@@ -1523,7 +1523,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 - Antlion (wind)
 - [E] Indigo Pendant (100%)
-- [S] Iga Blade (100%)
+- [S] Iga Blade\* (100%)
 - [SW] Expose (100%)
 
 #Bhujerba
@@ -1606,7 +1606,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ![](https://i.imgur.com/LoWqdsM.png)
 
-- [10] Ashura (100%)
+- [10] Ashura\* (100%)
 - [11] Platinum Sword\* (75%, 25%)
 - [19] Hammerhead\* (75%, 25%)
 
@@ -2144,7 +2144,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 ##Falls of Time
 
 - Spiral to unlock centre, starting SE and moving inward on 4th zone change
-- Sakura-saezuri (100%)
+- Sakura-saezuri\* (100%)
 - 1000 Needles (100%)
 
 ##Mirror of the Soul
@@ -2541,7 +2541,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 ##Site 11
 
 - (R) Gemhorn (kill everything)
-- [SW] Orochi (100%)
+- [SW] Orochi\* (100%)
 - [SW] Zwill Crossblade (100%)
 - [W] Golden Skullcap (100%)
 - [NW] Renewing Morion (100%)
@@ -2891,7 +2891,7 @@ Maps:
     - Can get L3 from Gargoyle Baron and kill Necrophobe via poison/stone
 - [17] Crown of Laurels (100%)
 - [18] Meteorite D (5%, 4.5%)
-- [19] Yagyu Darkblade (25%)
+- [19] Yagyu Darkblade\* (25%)
 - [20] Meteorite D (5%, 4.5%)
 - 3x Ambrosia (8% monograph from Necrophobe)
 - L2
