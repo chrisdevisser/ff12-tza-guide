@@ -305,6 +305,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 ![](https://i.imgur.com/4txzPpg.png)
 
 - [39] Bangle (55%, 25%)
+- [42] Handaxe\* (55%, 25%)
 
 ##South Bank Village
 
@@ -679,6 +680,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - [Centre] (R) Barmuu (chain 12 seekers, 55% Lamia's Tiara steal)
 - [NE] Dispel (100%)
 - [SE] Vanish (100%)
+- Broadaxe (5% at L3 from Tallow)
 
 ##Northfall Passage
 
@@ -763,7 +765,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ##Hourglass Basin
 
-- [NE] Slasher (90%, 42.5%)
+- [NE] Slasher\* (90%, 42.5%)
 
 ##Halls of Ardent Darkness
 
@@ -1579,6 +1581,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 - [10] Ashura (100%)
 - [11] Platinum Sword\* (75%, 25%)
+- [19] Hammerhead\* (75%, 25%)
 
 ##Ward of Steel
 
@@ -3183,6 +3186,12 @@ Maps:
 - [2] Cleric's Robes* (75%, 25%)
 - [8] Celebrant's Miter (75%, 25%)
 - (T) Abelisk (30% per entry)
+
+##Colosseum
+
+![](https://i.imgur.com/FhZuekB.png)
+
+- [13] Greataxe\* (75%, 25%)
 
 ##City of Other Days
 
