@@ -384,6 +384,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 ![](https://i.imgur.com/oBeuhkV.png)
 
 - [31] Cypress Pole (75%, 30%)
+- [32] Iron Hammer\* (75%, 30%)
 - [35] Cherry Staff (75%, 32.5%)
 
 ##Terminus No. 4
@@ -1049,7 +1050,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - [E] (R) Minibug (20% chance)
     - 2x Wrath of the Gods (6% steal)
 
-##The Zeviah Subterrane
+##The Zeviah Span
 
 ![](https://i.imgur.com/azj7jSI.png)
 
@@ -1540,10 +1541,13 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ##Silverflow's End
 
+![](https://i.imgur.com/8Oe0Fp6.png)
+
 - 2/3 Gemini Gem (30% steal from Slaven Warder)
 - 2x Slaven Harness (24% monograph from Slaven Warder)
 - 2x Wyrm Carapace (95% poach or 30% steal or 40% at L0 from Emperor Aevis)
-- [SW] Glacial Staff (75%, 20%)
+- [28] Sledgehammer\* (80%, 20%)
+- [31] Glacial Staff (75%, 20%)
 
 #Stilshrine of Miriam
 
@@ -1965,6 +1969,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 ##The Vaddu Strand
 
 - 16x 100% treasures
+    - Warhammer\*
 
 ##Caima Hills
 
@@ -2784,6 +2789,7 @@ Maps:
 - [1] Cloud Staff (100%)
 - [2] Thief's Cap (100%)
 - 11x Book of Orgain-Cent (30% steal or 25% at L0 from Reaper, all way stone areas)
+- Morning Star\* (12% at L3 from Ose, also in other areas)
 
 ##Bhrum
 
@@ -3143,7 +3149,7 @@ Maps:
 
 - [39] Bubble Belt (25%)
 - [40] Germinas Boots (100%)
-- (R) Glaring Eye (3+ Hecteyes killed, 3% Scorpion Tail at L0, 25% Sweep at L0)
+- (R) Glaring Eye (3+ Hecteyes killed, 3% Scorpion Tail\* at L0, 25% Sweep at L0)
 
 ##Phase 2 Shaft
 
