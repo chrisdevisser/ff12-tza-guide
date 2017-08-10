@@ -20,7 +20,6 @@ chris.n.devisser@gmail.com
 - Playtesting (a complete run through, particularly for difficulty balancing)
 - Bestiary second pages
 - Equipment
-- Bazaar format rework
 - Updated job and esper assignments
 - Anything marked TODO
 
