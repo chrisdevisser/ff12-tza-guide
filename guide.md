@@ -645,7 +645,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 - [25] Reflect (100%)
 - [27] Musk Stick\* (75%, 40%)
-- [28] Sirius (80%, 35%)
+- [28] Sirius\* (80%, 35%)
 - [29] Wizard's Robes (75%, 40%)
 - [32] Linen Cuirass (75%, 40%)
 
@@ -1576,6 +1576,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - 6x Wind Magicite (80% steal or 25% at L0 from Baritine Croc)
 - [39] Power Rod\* (75%, 25%)
 - [40] Six-fluted Pole\* (75%, 25%)
+- [42] Betelgeuse\* (75%, 30%)
 - [46] Baltoro's Seed (1%)
 - [47] Death (100%)
 - [48] Ice Shield (75%, 30%)
@@ -1634,6 +1635,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 - [10] Ashura\* (100%)
 - [11] Platinum Sword\* (75%, 25%)
+- [18] Ras Algethi\* (75%, 25%)
 - [19] Hammerhead\* (75%, 25%)
 
 ##Ward of Steel
@@ -1964,7 +1966,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ![](https://i.imgur.com/kPMKVEB.png)
 
-- [56] Aldebaran (60%, 20%)
+- [56] Aldebaran\* (60%, 20%)
 
 ##Hunters' Camp
 
@@ -3185,7 +3187,7 @@ Maps:
 ![](https://i.imgur.com/409oCkp.png)
 
 - [20] Dueling Mask (100%)
-- [21] Fomalhaut (100%)
+- [21] Fomalhaut\* (100%)
 - [24] Nihopalaoa (25%)
 - [25] Grand Helm (25%)
 - [26] Circlet (100%)
@@ -3353,7 +3355,7 @@ Maps:
 
 - Green Sigil x2 for map
 - Black Sigil
-- [SE] Antares (100%)
+- [SE] Antares\* (100%)
 - [NE] Flare (100%)
 - [Hidden SE] Green Sigil
 
