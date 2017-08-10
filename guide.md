@@ -1788,6 +1788,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 #Nabreus Deadlands
 
+- Cameo Belt and black mage to hit things
 - Crown of Laurels (12% at L3 from Crusader)
 - 7x Storm Crystal (25% from Baknamy, also found in Necrohol of Nabudis)
 
