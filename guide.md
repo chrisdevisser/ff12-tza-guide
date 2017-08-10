@@ -361,6 +361,8 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 #Barheim Passage
 
+- Silver Bow\*: 720 gil
+
 ##Op Sector 29
 
 ![](https://i.imgur.com/D9qUbwY.png)
@@ -485,6 +487,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - [S] Topkapi Hat (75%, 30%)
 - (R) Aerieel (20% chance)
     - 1x Bat Wing (55% steal)
+- Aevis Killer (3% at L0 from Slaven)
 
 ##Transitway 1
 
@@ -609,7 +612,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - [5] Ancient Sword\* (75%, 32.5%)
 - [11] Windbreaker (75%, 32.5%)
 - [12] Golden Amulet (100%)
-- [13] Killer Bow (75%, 32.5%)
+- [13] Killer Bow\* (75%, 32.5%)
 - [14] Wizard's Hat (75%, 32.5%)
 
 ##[W] Central Junction
@@ -908,7 +911,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 - [35] Metal Jerkin (70%, 30%)
 - [36] Dragon Shield (70%, 30%) optional
-- [38] Giant Stonebow (70%, 30%)
+- [38] Giant Stonebow\* (70%, 30%)
 - 3x Beastlord Horn (8% monograph from Humbaba)
 
 ##Halny Crossing
@@ -2742,6 +2745,7 @@ Late-model Rifle
 - [58] Defender (100%)
 - [60] Baltoro's Seed (5%, 2.5%)
 - [63] Reflectga (100%)
+- [66] Traitor's Bow\* (75%, 25%)
 
 #Giruvegan
 
@@ -3598,7 +3602,7 @@ Maps:
 
 ##Umbra - South
 
-- [N Centre] (R) Luxollid (Vagrant Soul killed - no saving/leaving, 6% Sagittarius steal, 80% Staff of the Magi steal)
+- [N Centre] (R) Luxollid (Vagrant Soul killed - no saving/leaving, 6% Sagittarius\* steal, 80% Staff of the Magi steal)
 
 #Balfonheim
 
