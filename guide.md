@@ -374,6 +374,13 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - 8x Glass Jewel (40% at L0 from Specter, power drained)
 - 4x Foul Flesh (55% steal or 25% at L0 from Zombie (Male))
 
+##Op Sector 36
+
+![](https://i.imgur.com/EOJIQJt.png)
+
+- [15] Rod\* (75%, 35%)
+- [16] Battle Harness (100%)
+
 ##Special Op Sector 3
 
 - 5x Green Liquid (55% steal or 40% at L0 from Flan)
@@ -762,6 +769,9 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ##[NW] East Junction
 
+![](https://i.imgur.com/iZQbb31.png)
+
+- [23] Healing Rod\* (75%, 42.5%)
 - E
 
 #Zertinan Caverns
@@ -1554,7 +1564,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 - 7x Fine Wool (95% poach or 40% at L0 from Baritine Croc)
 - 6x Wind Magicite (80% steal or 25% at L0 from Baritine Croc)
-- [39] Power Rod (75%, 25%)
+- [39] Power Rod\* (75%, 25%)
 - [40] Six-fluted Pole\* (75%, 25%)
 - [46] Baltoro's Seed (1%)
 - [47] Death (100%)
@@ -1938,7 +1948,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 - 2/3 Libra Gem (30% steal from Silver Lobo)
 - 2x Frogspawn (30% monograph from Iguion)
-- [SE] (R) Apsara (kill 10 Piranha, 6% or 80% Empyrean Rod steal)
+- [SE] (R) Apsara (kill 10 Piranha, 6% or 80% Empyrean Rod\* steal)
 
 ##The Hakawea Shore
 
@@ -2824,7 +2834,7 @@ Maps:
 
 ![](https://i.imgur.com/lGkjdOp.png)
 
-- [3] Holy Rod (100%)
+- [3] Holy Rod\* (100%)
 - [4] Gold Hairpin (100%)
 
 ##Trahk
