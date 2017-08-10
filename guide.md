@@ -145,6 +145,8 @@ Location can be a direction (north, southeast, etc.) or a reference number to th
 
 Especially earlier on, some treasures are for convenience - the item can be obtained more easily elsewhere, but the ones I found notable are included for the fun of getting items early.
 
+Each chest has a chance to spawn on each area entry. If spawned, it has a chance to contain gil. If it doesn't contain gil, there are two item possibilities (which can be the same item). Without the Diamond Armlet, it's 50/50 which item is picked if not gil. With the Diamond Armlet, the rare item is 5% and the common is 95%.
+
 ##Rare Game
 
 - Notable drops/steals are listed
@@ -708,7 +710,7 @@ Poach rates:
 - [44] Lohengrin\* (75%, 35%)
 - [45] Embroidered Tippet (100%)
 - [46] Chopper (75%, 35%)
-- [47] Soldier's Hat (75%, 35%)
+- [47] Soldier's Cap (75%, 35%)
 - [48] Chanter's Djellaba (75%, 35%) optional
 - [50] Lambent Hat (75%, 35%)
 
@@ -1099,6 +1101,7 @@ Poach rates:
 ![](https://i.imgur.com/UIw4osw.png)
 
 - 4x Pointed Horn (95% poach from Suriander)
+- Horned Hat\* (1% at L0 from Suriander)
 - [40] Throned Mace\* (90%, 25%)
 - [41] Enchanter's Habit (90%, 25%)
 - [42] Diamond Shield (90%, 25%)
@@ -1234,6 +1237,7 @@ Poach rates:
 - [41] Main Gauche\* (80%, 25%)
 - 2/3 Aries Gem (30% steal from Silicon Tortoise)
 - 10x total Water Crystal (25% at L0 from Silicon Tortoise)
+- Officer's Hat (6% steal from Silicon Tortoise)
 
 ##Nomad Village
 
@@ -1409,6 +1413,14 @@ Poach rates:
 - Nanau (Gil Snapper)
     - 1/1 Phobo's Glaze
 - Come back when Rains (3h after initial rotation)
+
+#Ozmone Plain
+
+##The Shred
+
+![](https://i.imgur.com/QUekqIG.png)
+
+- [48] Green Beret\* (80%, 37.5%)
 
 #Henne Mines
 
@@ -1636,6 +1648,7 @@ Poach rates:
 
 ##Ward of Velitation
 
+- Goggle Mask\* (5% at L3)
 - [W] Countdown (100%)
 - [NE] ~65000 gil (5%, 5%)
 - [SE] Megalixir (10%, 2.5%)
@@ -1649,6 +1662,7 @@ Poach rates:
 
 - Ruby Ring (100%)
 - 3/4 Aquarius Gem (30% steal from Facer)
+- Pirate Hat\* (6% steal from Facer)
 
 ##Walk of Reason
 
@@ -2050,6 +2064,7 @@ Poach rates:
 - 16x 100% treasures
     - Warhammer\*
     - Round Shield\*
+    - Soldier's Cap\*
 
 ##Caima Hills
 
@@ -2603,7 +2618,7 @@ Poach rates:
 - [SW] Orochi\* (100%)
 - [SW] Zwill Crossblade (100%)
 - [W] Golden Skullcap (100%)
-- [NW] Renewing Morion (100%)
+- [NW] Renewing Morion\* (100%)
 
 ##Lasche Span
 
@@ -2872,7 +2887,7 @@ Maps:
 ![](https://i.imgur.com/ry5fWuL.png)
 
 - [1] Cloud Staff (100%)
-- [2] Thief's Cap (100%)
+- [2] Thief's Cap\* (100%)
 - 11x Book of Orgain-Cent (30% steal or 25% at L0 from Reaper, all way stone areas)
 - Morning Star\* (12% at L3 from Ose, also in other areas)
 
@@ -3219,7 +3234,7 @@ Maps:
 
 ![](https://i.imgur.com/409oCkp.png)
 
-- [20] Dueling Mask (100%)
+- [20] Dueling Mask\* (100%)
 - [21] Fomalhaut\* (100%)
 - [24] Nihopalaoa (25%)
 - [25] Grand Helm (25%)
@@ -3325,7 +3340,7 @@ Maps:
 
 ##2nd Flight
 
-- [Centre] Chaperon (100%)
+- [Centre] Chaperon\* (100%)
 - [NW] Perseus Bow (100%)
 
 ##3rd Flight
