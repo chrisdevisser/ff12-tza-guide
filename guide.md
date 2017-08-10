@@ -153,7 +153,25 @@ Especially earlier on, some treasures are for convenience - the item can be obta
 
 ##Rates
 
-Some rates might be wrong. Steal rates come from the wiki, which has inconsistencies (e.g., the Tarasque page claiming Hunting Crossbow is a common steal vs. the weapons page claiming it's a rare steal). Feel free to submit a PR with concrete evidence of the correct rate.
+Some exact rates might be wrong. Steal rates come from the wiki, which has inconsistencies (e.g., the Tarasque page claiming Hunting Crossbow is a common steal vs. the weapons page claiming it's a rare steal). Feel free to submit a PR with concrete evidence of the correct rate.
+
+Stealing rates:
+
+- 55% normal = 80% with Thief's Cuffs
+- 10% normal = 30% with Thief's Cuffs
+- 3% normal = 6% with Thief's Cuffs
+
+Drop rates:
+
+- 40% L0 = 45% L1 = 50% L2 = 55% L3
+- 25% L0 = 30% L1 = 35% L2 = 40% L3
+- 3% L0 = 6% L1 = 9% L2 = 12% L3
+- 1% L0 = 2% L1 = 3% L2 = 5% L3
+- monograph rates vary
+
+Poach rates:
+
+- 95% for common or 5% for rare
 
 ##Chaining
 
