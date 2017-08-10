@@ -244,6 +244,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 ##Shimmering Horizons
 
 - Steal Gladius* from Lindbur Wolf (3%)
+- [S] Leather Shield\* (60%, 30%)
 
 ##Shimmering Horizons
 
@@ -475,6 +476,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - Shell, Protect: 500 gil
 - Charge: 1500 gil
 - Spear\*: 1300 gil
+- Bronze Shield\*: 800 gil
 
 #Lhusu Mines
 
@@ -1009,7 +1011,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - [59] Black Cowl (80%, 32.5%)
 - [63] Viking Coat (80%, 32.5%)
 - [67] Obelisk\* (80%, 32.5%)
-- [68] Dragon Shield (80%, 32.5%)
+- [68] Dragon Shield\* (80%, 32.5%)
 - [70] Berserker Braces (100%)
 - [71] Diamond Helm (80%, 25%)
 
@@ -1402,7 +1404,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 ##Crossover A
 
 - 2x Tyrant Hide (95% poach from Tyranorox)
-- [S] Flame Shield (75%, 30%)
+- [S] Flame Shield\* (75%, 30%)
 
 #Rabanastre
 
@@ -1496,6 +1498,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 - 9x Ice Magicite (40% at L0 from Yeti or White Wolf)
 - [50] Storm Spear\* (75%, 25%)
+- [55] Diamond Shield\* (75%, 25%)
 
 #Mt Bur-Omisace
 
@@ -1873,11 +1876,11 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - 1/2 Einherjarium (8% monograph or 6% steal from Babil)
 - 10x Holy Crystal (80% steal or 25% at L0 from Babil)
 - 5x Quality Stone (40% at L0 from Babil)
-- [16] Kaiser Shield (30%, 35%)
+- [16] Kaiser Shield\* (30%, 35%)
 - [18] Carabineer Mail (30%, 35%)
 - [19] Jade Gown (30%, 35%)
 - [20] Black Robes (100%)
-- [22] Ensanguined Shield (3%)
+- [22] Ensanguined Shield\* (3%)
 - [23] Runeblade (30%, 35%)
 - [26] Bravery (100%)
 - Crimson Blade, The Leering Blade, Triage Kit, Magick Shards, Huntsman's Crossbow, Jag-tooth Ninja Sword, Armor-piercing Shot, Forbidding Shield, Shoes of the Dead
@@ -1963,6 +1966,12 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - 2x Frogspawn (30% monograph from Iguion)
 - [SE] (R) Apsara (kill 10 Piranha, 6% or 80% Empyrean Rod\* steal)
 
+##Cape Tialan
+
+![](https://i.imgur.com/BXG0M6I.png)
+
+- [40] Crystal Shield\* (70%, 25%)
+
 ##The Hakawea Shore
 
 ![](https://i.imgur.com/kPMKVEB.png)
@@ -2022,6 +2031,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 - 16x 100% treasures
     - Warhammer\*
+    - Round Shield\*
 
 ##Caima Hills
 
@@ -2565,7 +2575,9 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ##Tasche Span
 
-- Gilgamesh (steal every phase, 30% Genji Shield and Genji Gloves steal)
+- Gilgamesh (steal every phase)
+    - Genji Shield\* (30% steal)
+    - Genji Gloves\* (30% steal)
 
 ##Site 11
 
@@ -2608,6 +2620,8 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 ##Site 7
 
 - Gilgamesh (steal every phase, Fuzzy Miter, Enkidu first, L2 Sleep, L3 Disable, L4 Break)
+    - Genji Helm\* (30% steal)
+    - Genji Armor\* (30% steal)
 - Masamune\* (100%)
 
 #Sochen Cave Palace
@@ -2634,7 +2648,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - [48] Reverse Mote (100%)
 - [49] Hastega Mote (100%)
 - [50] Bubble Mote (100%)
-- [51] Zodiac Escutcheon (1%)
+- [51] Zodiac Escutcheon\* (1%)
 
 #Rabanastre
 
@@ -2949,7 +2963,7 @@ Maps:
 - Ultima (dark, Ribbon, holy protection)
     - Penelo
 - [27] Excalibur\* (100%)
-- [28] Gendarme (1%, 4%) DA
+- [28] Gendarme\* (1%, 4%) DA
     - Use [RNG Manipulation](https://www.youtube.com/watch?v=QRCMOAAWeJA)
 - Aquarius
 - XVIII
