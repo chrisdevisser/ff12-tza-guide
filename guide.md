@@ -243,7 +243,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ##Shimmering Horizons
 
-- Steal Gladius from Lindbur Wolf
+- Steal Gladius* from Lindbur Wolf (3%)
 
 ##Shimmering Horizons
 
@@ -372,6 +372,12 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 - 5x Green Liquid (55% steal or 40% at L0 from Flan)
 
+##Op Sector 37
+
+![](https://i.imgur.com/B0KD6U2.png)
+
+- [24] Mage Masher\* (85%, 37.5%)
+
 ##The Zeviah Subterrane
 
 ![](https://i.imgur.com/oBeuhkV.png)
@@ -473,7 +479,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 ![](https://i.imgur.com/jRYIR6G.png)
 
 - [17] Serpent Rod (70%, 35%)
-- [20] Assassin's Dagger (80%, 35%)
+- [20] Assassin's Dagger\* (80%, 35%)
 - [22] Battle Bamboo (70%, 35%)
 
 #Bhujerba
@@ -839,7 +845,9 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ##[NE] Rays of Ashen Light
 
-- [S] Avenger (70%, 30%)
+![](https://i.imgur.com/TyXZMs1.png)
+
+- [18] Avenger\* (70%, 30%)
 
 ##Babbling Vale
 
@@ -1149,9 +1157,12 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ##Tracks of the Beast
 
+![](https://i.imgur.com/3moyLQi.png)
+
 - Wait for Bansat to show up
 - Gil Snapper (thunder)
-- [SE] Feather of the Flock
+- [U] Feather of the Flock
+- [41] Main Gauche\* (80%, 25%)
 - 2/3 Aries Gem (30% steal from Silicon Tortoise)
 - 10x total Water Crystal (25% at L0 from Silicon Tortoise)
 
@@ -1189,6 +1200,12 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - 1x Destrier Mane (12% monograph from Mesmenir)
 - 4x Chocobo Feather (95% poach or 25% at L0 from Red Chocobo, also in other areas)
 - [31] Parallel Arrows (75%, 25%)
+
+##The Switchback
+
+![](https://i.imgur.com/VdKgCy6.png)
+
+- [20] Chopper\* (75%, 30%)
 
 ##Field of Fallen Wings
 
@@ -1786,7 +1803,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 - [7] Zephyr Pole (30%, 35%)
 - [8] Giant's Helmet (30%, 35%)
-- [9] Orichalcum Dirk (30%, 35%)
+- [9] Orichalcum Dirk\* (30%, 35%)
 - [12] Faith (100%)
 
 ##Cloister of the Highborn
@@ -3521,7 +3538,7 @@ Maps:
 
 ##Abyssal - North
 
-- [S Centre] (R) Vagrant Soul (Seer hunt done, 25% chance, 6% Shikari's Nagasa steal, 80% Eight-fluted Pole steal)
+- [S Centre] (R) Vagrant Soul (Seer hunt done, 25% chance, 6% Shikari's Nagasa\* steal, 80% Eight-fluted Pole steal)
 
 ##Umbra - South
 
