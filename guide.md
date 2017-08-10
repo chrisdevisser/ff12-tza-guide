@@ -347,6 +347,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ![](https://i.imgur.com/wo8Z2qZ.png)
 
+- [23] Oaken Pole\* (75%, 32.5%)
 - [24] Kotetsu\* (75%, 30%)
 
 ##Southern Sluiceway
@@ -494,7 +495,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 - [17] Serpent Rod (70%, 35%)
 - [20] Assassin's Dagger\* (80%, 35%)
-- [22] Battle Bamboo (70%, 35%)
+- [22] Battle Bamboo\* (70%, 35%)
 
 #Bhujerba
 
@@ -625,7 +626,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 ![](https://i.imgur.com/emFJ5ur.png)
 
 - [25] Reflect (100%)
-- [27] Musk Stick (75%, 40%)
+- [27] Musk Stick\* (75%, 40%)
 - [28] Sirius (80%, 35%)
 - [29] Wizard's Robes (75%, 40%)
 - [32] Linen Cuirass (75%, 40%)
@@ -909,7 +910,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 ![](https://i.imgur.com/M6Sv9tF.png)
 
 - 2x Stardust (8% monograph from Wyrdhare)
-- [4] Gokuu Pole (75%, 22.5%)
+- [4] Gokuu Pole\* (75%, 22.5%)
 - [7] Chaos Mace\* (75%, 22.5%)
 
 ##Diverging Way
@@ -1554,6 +1555,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - 7x Fine Wool (95% poach or 40% at L0 from Baritine Croc)
 - 6x Wind Magicite (80% steal or 25% at L0 from Baritine Croc)
 - [39] Power Rod (75%, 25%)
+- [40] Six-fluted Pole\* (75%, 25%)
 - [46] Baltoro's Seed (1%)
 - [47] Death (100%)
 - [48] Ice Shield (75%, 30%)
@@ -1835,7 +1837,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ![](https://i.imgur.com/ZjR3N3m.png)
 
-- [7] Zephyr Pole (30%, 35%)
+- [7] Zephyr Pole\* (30%, 35%)
 - [8] Giant's Helmet (30%, 35%)
 - [9] Orichalcum Dirk\* (30%, 35%)
 - [12] Faith (100%)
@@ -2569,7 +2571,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 ##Site 6 North
 
 - Maximillian (100%)
-- Whale Whisker (100%)
+- Whale Whisker\* (100%)
 
 ##Site 6 South
 
@@ -3235,7 +3237,7 @@ Maps:
 
 ##Path of Hidden Blessing
 
-- [NE] Sweep (100%)
+- [NE] Sweep\* (100%)
 
 #Pharos - First Ascent
 
@@ -3581,7 +3583,7 @@ Maps:
 
 ##Abyssal - North
 
-- [S Centre] (R) Vagrant Soul (Seer hunt done, 25% chance, 6% Shikari's Nagasa\* steal, 80% Eight-fluted Pole steal)
+- [S Centre] (R) Vagrant Soul (Seer hunt done, 25% chance, 6% Shikari's Nagasa\* steal, 80% Eight-fluted Pole\* steal)
 
 ##Umbra - South
 
