@@ -320,6 +320,10 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 #Garamsythe Waterway
 
+##No. 10 Channel
+
+- [S] Mace\* (70%, 27.5%)
+
 ##Northern Sluiceway
 
 ![](https://i.imgur.com/Lp9qEIm.png)
@@ -459,6 +463,10 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 #Lhusu Mines
 
+##Shaft Entry
+
+- [NW] Bronze Mace\* (70%, 32.5%)
+
 ##Oltam Span
 
 - [S] Topkapi Hat (75%, 30%)
@@ -574,6 +582,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ![](https://i.imgur.com/9RycsqX.png)
 
+- [1] Bhuj\* (75%, 25%)
 - [3] Wizard's Staff (75%, 25%)
 
 ##Platform 1 - Refinery
@@ -766,6 +775,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ##Hourglass Basin
 
+- [SW] Miter (90%, 42.5%)
 - [NE] Slasher\* (90%, 42.5%)
 
 ##Halls of Ardent Darkness
@@ -888,6 +898,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 - 2x Stardust (8% monograph from Wyrdhare)
 - [4] Gokuu Pole (75%, 22.5%)
+- [7] Chaos Mace\* (75%, 22.5%)
 
 ##Diverging Way
 
@@ -1034,7 +1045,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 ![](https://i.imgur.com/UIw4osw.png)
 
 - 4x Pointed Horn (95% poach from Suriander)
-- [40] Throned Mace (90%, 25%)
+- [40] Throned Mace\* (90%, 25%)
 - [41] Enchanter's Habit (90%, 25%)
 - [42] Diamond Shield (90%, 25%)
 - [43] Headband (90%, 25%)
@@ -1800,7 +1811,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ![](https://i.imgur.com/cgh3uaA.png)
 
-- [2] Doom Mace (30%, 35%)
+- [2] Doom Mace\* (30%, 35%)
 - [4] Power Vest (30%, 35%)
 - [6] Jade Collar (100%)
 
@@ -2045,7 +2056,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ![](https://i.imgur.com/xSZzPxr.png)
 
-- [46] Bonebreaker (10%, 1%) - 1% at L0 from Omega Mark XII
+- [46] Bonebreaker\* (10%, 1%) - 1% at L0 from Omega Mark XII
 - [51] Dark Energy (10%, 1%)
 - [55] Megalixir (20%, 1%)
 - [57] Meteorite D (10%, 1%)
@@ -2532,7 +2543,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ##Site 5
 
-- [NW] Bone of Byblos (25%)
+- [NW] Bone of Byblos\* (25%)
 - [S] Quasimodo Boots (25%)
 - [SE] Glimmering Robes (100%)
 - [NE] Arcturus (100%)
