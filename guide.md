@@ -2077,7 +2077,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ##South Liavell Hills
 
-- [E] Claymore (100%)
+- [E] Claymore\* (100%)
 
 #Balfonheim Port
 
@@ -2906,7 +2906,7 @@ Maps:
     - 3x Lifewick (80% steal)
 - Ultima (dark, Ribbon, holy protection)
     - Penelo
-- [27] Excalibur (100%)
+- [27] Excalibur\* (100%)
 - [28] Gendarme (1%, 4%) DA
     - Use [RNG Manipulation](https://www.youtube.com/watch?v=QRCMOAAWeJA)
 - Aquarius
