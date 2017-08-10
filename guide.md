@@ -388,7 +388,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ##Sky Saloon
 
-##Observation Parlour
+##Observation Parlor
 
 - 33x Gysahl Greens: 3564 gil
 - Wind Walkers, Gilt Shield, Light Spear
