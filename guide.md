@@ -1050,7 +1050,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - [42] Diamond Shield (90%, 25%)
 - [43] Headband (90%, 25%)
 - [44] Glacial Staff (90%, 25%)
-- [45] Arc Scale (100%)
+- [45] Arc Scale\* (100%)
 - (R) Ithuno (20% per entry, 6% Deathbringer steal)
 
 ##East-West Bypass
@@ -1333,7 +1333,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 ##No. 11 Channel
 
 - 3x Broken Sword (10% monograph from Baritine Croc)
-- [E] Gilt Measure (100%)
+- [E] Gilt Measure\* (100%)
 
 ##Central Waterway Control
 
@@ -1503,7 +1503,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ##Site 3
 
-- [SW] Multiscale (100%)
+- [SW] Multiscale\* (100%)
 - [NW] Koga Blade (100%)
 - [NW] Tumulus (100%)
 
@@ -1797,7 +1797,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ![](https://i.imgur.com/fpAQN3l.png)
 
-- [41] Cross Scale (100%)
+- [41] Cross Scale\* (100%)
 - [42] Barrel Coat (75%, 27.5%)
 - Equip Steel Polyens
 
