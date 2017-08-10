@@ -357,6 +357,9 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ##No. 10 Channel
 
+![](https://i.imgur.com/qCkr8LM.png)
+
+- [30] Bowgun\* (70%, 30%)
 - 3x Demon Eyeball (55% steal or 40% at L0 from Garchimacera)
 
 #Barheim Passage
@@ -617,6 +620,9 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ##[W] Central Junction
 
+![](https://i.imgur.com/EMEDMkc.png)
+
+- [34] Paramina Crossbow\* (80%, 25%)
 - NE
 
 #Zertinan Caverns
@@ -3248,7 +3254,7 @@ Maps:
 
 - [SE] Pheasant Netsuke (100%)
 - [NE] Gillie Boots (100%)
-- (R) Pallicant (kill everything and rezone, 6% or 80% Gastrophetes steal)
+- (R) Pallicant (kill everything and rezone, 6% or 80% Gastrophetes\* steal)
 
 ##Path of Hidden Blessing
 
@@ -3321,7 +3327,7 @@ Maps:
 - 3x Corpse Fly (12% monograph from Dragon Lich, also in Subterra)
 - 5x Solid Horn (95% poach or 80% steal from Abaddon)
 - [SW] Zeus Mace (100%)
-- [NW] Tula (100%)
+- [NW] Tula\* (100%)
 
 ##Station of Ascension
 
