@@ -389,6 +389,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 ![](https://i.imgur.com/B0KD6U2.png)
 
+- [20] Oak Staff\* (80%, 35%)
 - [24] Mage Masher\* (85%, 37.5%)
 
 ##The Zeviah Subterrane
@@ -397,7 +398,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 - [31] Cypress Pole (75%, 30%)
 - [32] Iron Hammer\* (75%, 30%)
-- [35] Cherry Staff (75%, 32.5%)
+- [35] Cherry Staff\* (75%, 32.5%)
 
 ##Terminus No. 4
 
@@ -595,7 +596,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 ![](https://i.imgur.com/9RycsqX.png)
 
 - [1] Bhuj\* (75%, 25%)
-- [3] Wizard's Staff (75%, 25%)
+- [3] Wizard's Staff\* (75%, 25%)
 
 
 
@@ -604,6 +605,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 ![](https://i.imgur.com/jMGh7wG.png)
 
 - (R) Pineapple (20% chance)
+    - 25% Storm Staff at L0
 - [5] Ancient Sword\* (75%, 32.5%)
 - [11] Windbreaker (75%, 32.5%)
 - [12] Golden Amulet (100%)
@@ -718,7 +720,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 - 2x Solid Stone (95% poach or 40% at L0 from Ragoh)
 - [6] Chanter's Djellaba (80%, 35%)
-- [11] Flame Staff (80%, 35%)
+- [11] Flame Staff\* (80%, 35%)
 
 ##Southfall Passage
 
@@ -876,7 +878,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - 6x Quality Pelt (95% poach from Worgen)
 - 1x Throat Wolf Blood (10% monograph from Alpha Worgen or 5% poach from Worgen)
 - (R) Wary Wolf (7% per Worgen, 25% Power Armlet drop)
-- [8] Golden Staff (75%, 30%)
+- [8] Golden Staff\* (75%, 30%)
 - [11] Kiku-ichimonji\* (75%, 30%)
 
 ##[NE] Rays of Ashen Light
@@ -1276,7 +1278,6 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 
 - Map: 60 gil
 - Esuna, Thundara, Break: 6600 gil
-- Storm Staff: 2590 gil
 - Assorted Leathers, Traveler's Garb, Eye Openers, Platinum Gear 
     - 2x Braid Wool (done)
     - 4x Chocobo Feather (done)
@@ -1586,7 +1587,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 - 2x Slaven Harness (24% monograph from Slaven Warder)
 - 2x Wyrm Carapace (95% poach or 30% steal or 40% at L0 from Emperor Aevis)
 - [28] Sledgehammer\* (80%, 20%)
-- [31] Glacial Staff (75%, 20%)
+- [31] Glacial Staff\* (75%, 20%)
 
 #Stilshrine of Miriam
 
@@ -2022,7 +2023,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 ![](https://i.imgur.com/Fni59pb.png)
 
 - [90] Francisca (70%, 25%)
-- [94] Judicer's Staff (70%, 25%)
+- [94] Judicer's Staff\* (70%, 25%)
 
 #Tchita Uplands
 
@@ -2874,7 +2875,7 @@ Maps:
 
 - [9] Caliper (100%)
 - [10] Meteorite D (5%, 4.5%)
-- [11] Staff of the Magi (25%)
+- [11] Staff of the Magi\* (25%)
 - [12] Meteorite D (5%, 4.5%)
 - G1
 - [13] Rubber Suit (100%)
