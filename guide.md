@@ -1360,7 +1360,7 @@ Some rates might be wrong. Steal rates come from the wiki, which has inconsisten
 ##No. 10 Channel
 
 - 2/3 Putrid Liquid (10% monograph from Malboro Overking)
-- [W] Hornito (100%)
+- [W] Hornito\* (100%)
 
 ##Central Waterway Control
 
@@ -3192,7 +3192,7 @@ Maps:
 - [25] Grand Helm (25%)
 - [26] Circlet (100%)
 - [28] Meteorite D (2%, 5%) DA
-- [29] Makara (100%)
+- [29] Makara\* (100%)
 - [31] Mythril Sword (100%)
 
 ##Crossover C
