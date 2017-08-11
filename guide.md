@@ -21,6 +21,10 @@ chris.n.devisser@gmail.com
 - Bestiary second pages
 - Anything marked TODO
 
+#Contributing
+
+Please visit the [GitHub repository](https://github.com/chrisdevisser/ff12-tza-guide) to contribute any objective information as long as it fits the guide's goals.
+
 #Intro
 
 This guide covers everything needed for a perfect game. This guide's definition is:
