@@ -522,6 +522,7 @@ Poach rates:
 
 - 5x Bone Fragment (55% at L3 or 55% steal from Skeleton)
 - 5x Dark Stone (40% at L3 from Skeleton)
+- Bronze Chestplate\* (3% steal from Skeleton)
 - Get lots of LP and gil (every monograph ASAP) to do optional stuff earlier
     - Sell extra loot from Skeleton farming
 
@@ -573,6 +574,7 @@ Poach rates:
 
 ![](https://i.imgur.com/XM8m7PV.png)
 
+- [9] Ringmail\* (80%, 37.5%)
 - [10] Shepherd's Bolero (80%, 37.5%)
 
 ##Brig No. 1
@@ -635,7 +637,7 @@ Poach rates:
 - (R) Pineapple (20% chance)
     - 25% Storm Staff at L0
 - [5] Ancient Sword\* (75%, 32.5%)
-- [11] Windbreaker (75%, 32.5%)
+- [11] Windbreaker\* (75%, 32.5%)
 - [12] Golden Amulet (100%)
 - [13] Killer Bow\* (75%, 32.5%)
 - [14] Wizard's Hat (75%, 32.5%)
@@ -755,6 +757,9 @@ Poach rates:
 
 ##Southfall Passage
 
+![](https://i.imgur.com/xTjL3fv.png)
+
+- [19] Heavy Coat\* (75%, 35%)
 - 2x Broken Spear (15% monograph from Skull Warrior)
 - (R) Cultsworn Lich (20% chance from Lich dividing at critical HP)
 
@@ -937,7 +942,7 @@ Poach rates:
 
 ![](https://i.imgur.com/u1VgXnJ.png)
 
-- [35] Metal Jerkin (70%, 30%)
+- [35] Metal Jerkin\* (70%, 30%)
 - [36] Dragon Shield (70%, 30%) optional
 - [38] Giant Stonebow\* (70%, 30%)
 - 3x Beastlord Horn (8% monograph from Humbaba)
@@ -1029,7 +1034,7 @@ Poach rates:
 - 9x Tanned Giantskin (95% poach or 80% steal or 40% at L0 from Slaven Wilder)
 - 3x Valeblossom Dew
 - [59] Black Cowl (80%, 32.5%)
-- [63] Viking Coat (80%, 32.5%)
+- [63] Viking Coat\* (80%, 32.5%)
 - [67] Obelisk\* (80%, 32.5%)
 - [68] Dragon Shield\* (80%, 32.5%)
 - [70] Berserker Braces (100%)
@@ -1874,7 +1879,7 @@ Poach rates:
 ![](https://i.imgur.com/fpAQN3l.png)
 
 - [41] Cross Scale\* (100%)
-- [42] Barrel Coat (75%, 27.5%)
+- [42] Barrel Coat\* (75%, 27.5%)
 - Equip Steel Polyens
 
 #Necrohol of Nabudis
@@ -2756,7 +2761,7 @@ Late-model Rifle
 
 #Mosphoran Highwaste
 
-- [Skyreach Ridge] (T) Dheed (40% chance, 6% Mirage Vest steal)
+- [Skyreach Ridge] (T) Dheed (40% chance, 6% Mirage Vest\* steal)
 
 #Feywood
 
@@ -2902,7 +2907,7 @@ Maps:
 
 ![](https://i.imgur.com/6gCg5ZR.png)
 
-- [5] Ninja Gear (100%)
+- [5] Ninja Gear\* (100%)
 - [6] Gaia Gear (100%)
 
 #Giruvegan
@@ -3263,7 +3268,7 @@ Maps:
 - [48] Zodiac Spear\* (1%)
 - [52] Renew (100%)
 - [53] Addle (100%)
-- [54] Brave Suit (25%)
+- [54] Brave Suit\* (25%)
 - [57] Ribbon (15%)
 - [59] Grand Armor (25%)
 - [60] Lordly Robes (100%)
