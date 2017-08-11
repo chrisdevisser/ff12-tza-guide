@@ -375,6 +375,7 @@ Poach rates:
 
 ![](https://i.imgur.com/wo8Z2qZ.png)
 
+- [20] Light-woven Shirt\* (75%, 30%)
 - [23] Oaken Pole\* (75%, 32.5%)
 - [24] Kotetsu\* (75%, 30%)
 
@@ -387,6 +388,7 @@ Poach rates:
 
 ![](https://i.imgur.com/qCkr8LM.png)
 
+- [29] Silken Shirt\* (70%, 30%)
 - [30] Bowgun\* (70%, 30%)
 - 3x Demon Eyeball (55% steal or 40% at L0 from Garchimacera)
 
@@ -400,12 +402,13 @@ Poach rates:
 
 - 3x Bomb Ashes (40% at L0 or 10% steal from Bomb)
 - 9x Fire Stone (55% steal or 25% at L0 from Bomb)
+- Kilimweave Shirt\* (3% steal from Zombie (female), power drained)
 - [4] Pointy Hat (75%, 30%)
 
 ##Great Eastern Passage
 
 - 8x Glass Jewel (40% at L0 from Specter, power drained)
-- 4x Foul Flesh (55% steal or 25% at L0 from Zombie (Male))
+- 4x Foul Flesh (55% steal or 25% at L0 from Zombie (Male), power drained)
 
 ##Op Sector 36
 
@@ -583,7 +586,7 @@ Poach rates:
 ![](https://i.imgur.com/XM8m7PV.png)
 
 - [9] Ringmail\* (80%, 37.5%)
-- [10] Shepherd's Bolero (80%, 37.5%)
+- [10] Shepherd's Bolero\* (80%, 37.5%)
 
 ##Brig No. 1
 
@@ -684,7 +687,7 @@ Poach rates:
 - [25] Reflect (100%)
 - [27] Musk Stick\* (75%, 40%)
 - [28] Sirius\* (80%, 35%)
-- [29] Wizard's Robes (75%, 40%)
+- [29] Wizard's Robes\* (75%, 40%)
 - [32] Linen Cuirass\* (75%, 40%)
 
 ##[W] Platform 2 - Refinery
@@ -766,7 +769,7 @@ Poach rates:
 ![](https://i.imgur.com/402jBpg.png)
 
 - 2x Solid Stone (95% poach or 40% at L0 from Ragoh)
-- [6] Chanter's Djellaba (80%, 35%)
+- [6] Chanter's Djellaba\* (80%, 35%)
 - [11] Flame Staff\* (80%, 35%)
 
 ##Southfall Passage
@@ -1561,6 +1564,12 @@ Poach rates:
 - [54] Close Helmet\* (75%, 25%)
 - [55] Diamond Shield\* (75%, 25%)
 
+##Freezing Gorge
+
+![](https://i.imgur.com/BUVglkZ.png)
+
+- [13] Mage's Habit\* (70%, 32.5%)
+
 #Mt Bur-Omisace
 
 - Maps: 3215 gil
@@ -1878,7 +1887,7 @@ Poach rates:
 - 1x Zombie Powder (12% monograph from Banshee)
 - Black Mask (5% at L3 from Banshee)
 - [20] Mythril Blade (100%)
-- [22] Maduin Gear (75%, 25%)
+- [22] Maduin Gear\* (75%, 25%)
 
 ##The Fog Mutters
 
@@ -1942,7 +1951,7 @@ Poach rates:
 - 5x Quality Stone (40% at L0 from Babil)
 - [16] Kaiser Shield\* (30%, 35%)
 - [18] Carabineer Mail\* (30%, 35%)
-- [19] Jade Gown (30%, 35%)
+- [19] Jade Gown\* (30%, 35%)
 - [20] Black Robes (100%)
 - [22] Ensanguined Shield\* (3%)
 - [23] Runeblade (30%, 35%)
@@ -2023,6 +2032,12 @@ Poach rates:
 - Moogle Boss
 
 #Phon Coast
+
+##Pora-Pora Sands
+
+![](https://i.imgur.com/w9fmQ4Q.png)
+
+- [21] Sorcerer's Habit\* (70%, 25%)
 
 ##The Mauleia Strand
 
@@ -2674,7 +2689,7 @@ Poach rates:
 
 - [NW] Bone of Byblos\* (25%)
 - [S] Quasimodo Boots (25%)
-- [SE] Glimmering Robes (100%)
+- [SE] Glimmering Robes\* (100%)
 - [NE] Arcturus (100%)
 - Caution: (T) Disma (5% per Dark Lord, Power Armlet, dark+holy+thunder protection, dispel, 6% Mirage Vest steal - farm Dheed instead)
 - Run E-N
@@ -2946,7 +2961,7 @@ Maps:
 ![](https://i.imgur.com/6gCg5ZR.png)
 
 - [5] Ninja Gear\* (100%)
-- [6] Gaia Gear (100%)
+- [6] Gaia Gear\* (100%)
 
 #Giruvegan
 
@@ -3309,7 +3324,7 @@ Maps:
 - [54] Brave Suit\* (25%)
 - [57] Ribbon (15%)
 - [59] Grand Armor\* (25%)
-- [60] Lordly Robes (100%)
+- [60] Lordly Robes\* (100%)
 - [!!] 2x Megalixir, 3x Bacchus's Wine
 
 ##Special Charter Dig
@@ -3332,7 +3347,7 @@ Maps:
 - 2x Ketu Board (4% monograph from Cassie, also in other areas)
 - 7x Malboro Flower (95% poach or 80% steal from Cassie)
 - 6/7 Virgo Gem (30% steal from Cassie)
-- [2] Cleric's Robes* (75%, 25%)
+- [2] Cleric's Robes\* (75%, 25%)
 - [8] Celebrant's Miter\* (75%, 25%)
 - (T) Abelisk (30% per entry)
 
