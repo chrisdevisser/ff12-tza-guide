@@ -392,7 +392,7 @@ Poach rates:
 
 #Barheim Passage
 
-- Silver Bow\*: 720 gil
+- Silver Bow\*, Magick Curch\*: 920 gil
 
 ##Op Sector 29
 
@@ -516,7 +516,7 @@ Poach rates:
 
 ##Oltam Span
 
-- [S] Topkapi Hat (75%, 30%)
+- [S] Topkapi Hat\* (75%, 30%)
 - (R) Aerieel (20% chance)
     - 1x Bat Wing (55% steal)
 - Aevis Killer (3% at L0 from Slaven)
@@ -649,7 +649,7 @@ Poach rates:
 - [11] Windbreaker\* (75%, 32.5%)
 - [12] Golden Amulet (100%)
 - [13] Killer Bow\* (75%, 32.5%)
-- [14] Wizard's Hat (75%, 32.5%)
+- [14] Wizard's Hat\* (75%, 32.5%)
 
 ##[W] Central Junction
 
@@ -773,6 +773,7 @@ Poach rates:
 
 ![](https://i.imgur.com/xTjL3fv.png)
 
+- [18] Lambent Hat\* (80%, 35%)
 - [19] Heavy Coat\* (75%, 35%)
 - 2x Broken Spear (15% monograph from Skull Warrior)
 - (R) Cultsworn Lich (20% chance from Lich dividing at critical HP)
@@ -1065,6 +1066,7 @@ Poach rates:
 
 ##Sandfalls
 
+- Gaia Hat\* (5% at L3 from Buer)
 - 7x Demon Tail (95% poach or 40% at L0 from Buer)
 - 1x Demon's Sigh (8% monograph from Buer)
 - 7x Ice Crystal (25% at L0 from Buer)
@@ -1544,7 +1546,13 @@ Poach rates:
 
 #Paramina Rift
 
-##[S] Icebound Flow
+##Head of the Silverflow
+
+![](https://i.imgur.com/Yy9F4u6.png)
+
+- [1] Mage's Hat\* (70%, 32.5%)
+
+##Icebound Flow
 
 ![](https://i.imgur.com/Gbo19mH.png)
 
@@ -1558,6 +1566,7 @@ Poach rates:
 - Maps: 3215 gil
 - 2x Bowline Sash: 2000 gil
 - Blizzara, Berserk, Darkra, Curaga: 10100 gil
+- Sorcerer's Hat\*: 4000 gil
 - Iron-forged Pole, Eye Drop Set, Arrows Alight, Smelling Salts & C., Burning Blade, Golden Garb
     - 3x Coeurl Pelt (4 more)
     - 2x Crooked Fang (4 more)
@@ -1965,7 +1974,7 @@ Poach rates:
 - [27] Yakei\* (30%, 35%)
 - [28] Protectga (100%)
 - [31] Burning Bow (30%, 35%)
-- [33] Hypnocrown (30%, 35%)
+- [33] Hypnocrown\* (30%, 35%)
 - [35] White Mask (100%)
 
 ##Hall of Effulgent Light
@@ -2026,6 +2035,12 @@ Poach rates:
 ![](https://i.imgur.com/BXG0M6I.png)
 
 - [40] Crystal Shield\* (70%, 25%)
+
+##Cape Uahuk
+
+![](https://i.imgur.com/jTrkm5n.png)
+
+- [38] Astrakhan Hat\* (70%, 25%)
 
 ##The Hakawea Shore
 
@@ -2088,6 +2103,8 @@ Poach rates:
     - Warhammer\*
     - Round Shield\*
     - Soldier's Cap\*
+    - Pointy Hat\*
+    - Calot Hat\*
 
 ##Caima Hills
 
@@ -2643,7 +2660,7 @@ Poach rates:
 - (R) Gemhorn (kill everything)
 - [SW] Orochi\* (100%)
 - [SW] Zwill Crossblade (100%)
-- [W] Golden Skullcap (100%)
+- [W] Golden Skullcap\* (100%)
 - [NW] Renewing Morion\* (100%)
 
 ##Lasche Span
@@ -2922,7 +2939,7 @@ Maps:
 ![](https://i.imgur.com/lGkjdOp.png)
 
 - [3] Holy Rod\* (100%)
-- [4] Gold Hairpin (100%)
+- [4] Gold Hairpin\* (100%)
 
 ##Trahk
 
@@ -3264,7 +3281,7 @@ Maps:
 - [21] Fomalhaut\* (100%)
 - [24] Nihopalaoa (25%)
 - [25] Grand Helm\* (25%)
-- [26] Circlet (100%)
+- [26] Circlet\* (100%)
 - [28] Meteorite D (2%, 5%) DA
 - [29] Makara\* (100%)
 - [31] Mythril Sword (100%)
@@ -3316,7 +3333,7 @@ Maps:
 - 7x Malboro Flower (95% poach or 80% steal from Cassie)
 - 6/7 Virgo Gem (30% steal from Cassie)
 - [2] Cleric's Robes* (75%, 25%)
-- [8] Celebrant's Miter (75%, 25%)
+- [8] Celebrant's Miter\* (75%, 25%)
 - (T) Abelisk (30% per entry)
 
 ##Colosseum
