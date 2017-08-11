@@ -2,7 +2,7 @@
 
 ## Where to get it
 
-Have a look at the Releases page, which contains HTML builds. Simply open the HTML file in a web browser.
+Have a look at the [Releases page](https://github.com/chrisdevisser/ff12-tza-guide/releases), which contains HTML builds. Simply open the HTML file in a web browser.
 
 ## Intro
 
