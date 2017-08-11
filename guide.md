@@ -272,7 +272,7 @@ Poach rates:
 
 ##Windtrace Dunes
 
-- [NW] Diamond Armlet (25%)
+- [NW] Diamond Armlet\* (25%)
 
 ##The Midfault
 
@@ -542,6 +542,7 @@ Poach rates:
 
 ![](https://i.imgur.com/jRYIR6G.png)
 
+- [16] Steel Gorget\* (70%, 35%)
 - [17] Serpent Rod (70%, 35%)
 - [20] Assassin's Dagger\* (80%, 35%)
 - [22] Battle Bamboo\* (70%, 35%)
@@ -696,7 +697,7 @@ Poach rates:
 ![](https://i.imgur.com/ZzAnbfD.png)
 
 - [44] Golden Shield (75%, 37.5%)
-- [46] Leather Gorget (75%, 37.5%)
+- [46] Leather Gorget\* (75%, 37.5%)
 - (R) Urutan Exile (100 Urutan-Yensa kills, Unknown% chance, 18% Magoroku at L3)
 
 ##Platform 1 - South Tanks
@@ -931,10 +932,11 @@ Poach rates:
 
 ![](https://i.imgur.com/kFSamJv.png)
 
+- Steel Polyens\* (6% steal from Worgen or Alpha Worgen)
 - 18x Fire Magicite (80% steal or 40% at L0 from Worgen)
 - 6x Quality Pelt (95% poach from Worgen)
 - 1x Throat Wolf Blood (10% monograph from Alpha Worgen or 5% poach from Worgen)
-- (R) Wary Wolf (7% per Worgen, 25% Power Armlet drop)
+- (R) Wary Wolf (7% per Worgen, 25% Power Armlet\* drop)
 - [8] Golden Staff\* (75%, 30%)
 - [11] Kiku-ichimonji\* (75%, 30%)
 
@@ -949,7 +951,7 @@ Poach rates:
 - Back Harness
     - 1x Throat Wolf Blood (done)
 - Map: 2400 gil
-- [NW] Thief's Cuffs (100%)
+- [NW] Thief's Cuffs\* (100%)
 - [W] 6636 gil (100%)
 
 ##Trail of Sky-flung Stone
@@ -1058,7 +1060,7 @@ Poach rates:
 - [63] Viking Coat\* (80%, 32.5%)
 - [67] Obelisk\* (80%, 32.5%)
 - [68] Dragon Shield\* (80%, 32.5%)
-- [70] Berserker Braces (100%)
+- [70] Berserker Braces\* (100%)
 - [71] Diamond Helm (80%, 25%)
 
 ##South Bank Village
@@ -1162,14 +1164,14 @@ Poach rates:
 
 - [65] Murasame\* (90%, 25%)
 - [66] Fumarole (100%)
-- [69] Fuzzy Miter (90%, 25%)
+- [69] Fuzzy Miter\* (90%, 25%)
 - [71] Six-fluted Pole (90%, 25%)
-- [74] Bowline Sash (90%, 25%)
-- [75] Agate Ring (90%, 25%)
+- [74] Bowline Sash\* (90%, 25%)
+- [75] Agate Ring\* (90%, 25%)
 
 ##Terminus No. 7 Adjunct
 
-- [SE] Cameo Belt (25%)
+- [SE] Cameo Belt\* (25%)
 
 ##Challenge
 
@@ -1521,7 +1523,7 @@ Poach rates:
 
 ##Antiquity's End
 
-- Embroidered Tippet (25%)
+- Embroidered Tippet\* (25%)
 
 #Henne Mines
 
@@ -1546,7 +1548,16 @@ Poach rates:
 
 ##The Branchway
 
+![](https://i.imgur.com/9fRlpGP.png)
+
 - [W dead ends] (R) Phyllo (20% chance)
+- [14] Black Belt\* (80%, 30%)
+
+##The Greenswathe
+
+![](https://i.imgur.com/BSdxFJD.png)
+
+- [17] Argyle Amulet\* (80%, 32.5%)
 
 #Paramina Rift
 
@@ -1622,7 +1633,7 @@ Poach rates:
 ##Site 9
 
 - Antlion (wind)
-- [E] Indigo Pendant (100%)
+- [E] Indigo Pendant\* (100%)
 - [S] Iga Blade\* (100%)
 - [SW] Expose (100%)
 
@@ -1678,7 +1689,7 @@ Poach rates:
 
 ##Walk of Sky
 
-- [W] Tourmaline Ring (100%)
+- [W] Tourmaline Ring\* (100%)
 - [E] Tourmaline Ring (100%)
 - [S] Battle Harness (100%)
 
@@ -1717,7 +1728,7 @@ Poach rates:
 
 ##Ward of Steel
 
-- [E] Sage's Ring (100%)
+- [E] Sage's Ring\* (100%)
 
 ##Ward of the Sword-King
 
@@ -2039,6 +2050,7 @@ Poach rates:
 ![](https://i.imgur.com/w9fmQ4Q.png)
 
 - [21] Sorcerer's Habit\* (70%, 25%)
+- [24] Nishijin Belt\* (70%, 25%)
 
 ##The Mauleia Strand
 
@@ -2062,6 +2074,7 @@ Poach rates:
 
 ![](https://i.imgur.com/kPMKVEB.png)
 
+- [50] Magick Gloves\* (70%, 25%)
 - [56] Aldebaran\* (60%, 20%)
 
 ##Hunters' Camp
@@ -2600,7 +2613,7 @@ Poach rates:
 
 - [The Muted Scarp] Nu mou
 - [Overlooking Eternity] Shrine
-- [The Slumbermead E] (T) Arioch (40% chance, 6% Sage's Ring steal)
+- [The Slumbermead E] (T) Arioch (40% chance, 6% Sage's Ring\*\* steal)
 
 #Salikawood
 
@@ -3307,7 +3320,7 @@ Maps:
 ![](https://i.imgur.com/LEStjkX.png)
 
 - [39] Bubble Belt (25%)
-- [40] Germinas Boots (100%)
+- [40] Germinas Boots\* (100%)
 - (R) Glaring Eye (3+ Hecteyes killed, 3% Scorpion Tail\* at L0, 25% Sweep at L0)
 
 ##Phase 2 Shaft
@@ -3323,7 +3336,7 @@ Maps:
 - [52] Renew (100%)
 - [53] Addle (100%)
 - [54] Brave Suit\* (25%)
-- [57] Ribbon (15%)
+- [57] Ribbon\* (15%)
 - [59] Grand Armor\* (25%)
 - [60] Lordly Robes\* (100%)
 - [!!] 2x Megalixir, 3x Bacchus's Wine
@@ -3378,7 +3391,7 @@ Maps:
 - Hydro (holy)
 - [1] Berserker Braces (25%)
 - [2] Cura Mote (75%)
-- [3] Ruby Ring (100%)
+- [3] Ruby Ring\* (100%)
 - [4] Bubble Mote (75%)
 
 ##Wellspring Labyrinth
