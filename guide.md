@@ -12,7 +12,7 @@ chris.n.devisser@gmail.com
 - Equipment: Wiki
 - Rare Game: Wiki
 - Shops: Wiki
-- [Jobs and Esper Assignments](https://www.youtube.com/watch?v=xsr47sSc9gs): xAshe10x
+- [Jobs and Esper Assignments](https://www.youtube.com/watch?v=MrgGnzpQJSE): xAshe10x
 - [Great Crystal Naming/Structure Information](http://finalfantasy.istad.org/2013/11/ffxii-giruvegan-map-of-the-great-crystal/): auronlu
 
 #Unfinished Work
