@@ -360,6 +360,7 @@ Poach rates:
 - Balthier: Monk
 - Fran: Black Mage
 - Ghost easier to kill now for bestiary
+- Leather Helm\* (3% steal from Gigantoad)
 - 2x Horn (55% steal or 25% at L0 from Gigantoad)
 - 6x Bat Fang (55% steal from Steeling)
 - 2x Rat Pelt (55% steal or 40% at L0 from Dire Rat)
@@ -523,6 +524,7 @@ Poach rates:
 - 5x Bone Fragment (55% at L3 or 55% steal from Skeleton)
 - 5x Dark Stone (40% at L3 from Skeleton)
 - Bronze Chestplate\* (3% steal from Skeleton)
+- Iron Helm\* (5% at L3 from Skeleton)
 - Get lots of LP and gil (every monograph ASAP) to do optional stuff earlier
     - Sell extra loot from Skeleton farming
 
@@ -656,7 +658,12 @@ Poach rates:
 
 #Nam-Yensa Sandsea
 
-- [W] Turtleshell Choker (100%)
+##Withering Shores
+
+![](https://i.imgur.com/U4txDsY.png)
+
+- [11] Winged Helm\* (70%, 22.5%)
+- [13] Turtleshell Choker (100%)
 - (R) Imdugud (kill everything and wait W, 3% Shielded Armor steal)
 
 #Ogir-Yensa Sandsea
@@ -809,6 +816,7 @@ Poach rates:
 
 ![](https://i.imgur.com/iZQbb31.png)
 
+- [17] Barbut\* (70%, 35%)
 - [23] Healing Rod\* (75%, 42.5%)
 - E
 
@@ -1023,7 +1031,7 @@ Poach rates:
 - 1x Bundle of Needles (6% steal or 5% monograph from Cactoid)
 - 2x Tyrant Bone (12% monograph from Wild Saurian)
 - [46] Demonsbane\* (75%, 32.5%)
-- [49] Bone Helm (75%, 32.5%)
+- [49] Bone Helm\* (75%, 32.5%)
 - [50] Bone Mail (75%, 32.5%)
 - [56] Hammerhead (75%, 32.5%)
 
@@ -1479,7 +1487,7 @@ Poach rates:
 - 8x Dark Magicite (55% at L3 from Dark Skeleton)
 - 2x Death's-Head (10% monograph from Dark Skeleton)
 - 5x Sturdy Bone (95% poach or 80% steal or 25% at L0 from Dark Skeleton)
-- (R) Grave Lord (40% Diamond Helm at L3)
+- (R) Grave Lord (40% Diamond Helm\* at L3)
 
 #Feywood
 
@@ -1533,6 +1541,7 @@ Poach rates:
 
 - 9x Ice Magicite (40% at L0 from Yeti or White Wolf)
 - [50] Storm Spear\* (75%, 25%)
+- [54] Close Helmet\* (75%, 25%)
 - [55] Diamond Shield\* (75%, 25%)
 
 #Mt Bur-Omisace
@@ -2076,6 +2085,7 @@ Poach rates:
 ![](https://i.imgur.com/lbeDpCP.png)
 
 - 2x Tanned Tyrant Hide (95% poach or 30% steal from Archaeosaur)
+- [78] Steel Mask\* (70%, 25%)
 - [83] Mirror Mail (70%, 25%)
 
 ##Limatra Hills
@@ -2345,6 +2355,8 @@ Poach rates:
     - Ashe
 
 #Draklor
+
+- Sallet\* (6% steal from Mastiff)
 
 ##67th Floor
 
@@ -3242,7 +3254,7 @@ Maps:
 - [20] Dueling Mask\* (100%)
 - [21] Fomalhaut\* (100%)
 - [24] Nihopalaoa (25%)
-- [25] Grand Helm (25%)
+- [25] Grand Helm\* (25%)
 - [26] Circlet (100%)
 - [28] Meteorite D (2%, 5%) DA
 - [29] Makara\* (100%)
@@ -3340,7 +3352,7 @@ Maps:
 ##1st Flight
 
 - [NW] Demon Shield (100%)
-- [SE] Dragon Helm (100%)
+- [SE] Dragon Helm\* (100%)
 - Kill 10+ Deidars by F47
 
 ##2nd Flight
