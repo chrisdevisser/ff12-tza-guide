@@ -19,7 +19,6 @@ chris.n.devisser@gmail.com
 
 - Playtesting (a complete run through, particularly for difficulty balancing)
 - Bestiary second pages
-- Updated job and esper assignments
 - Anything marked TODO
 
 #Intro
@@ -230,7 +229,7 @@ Poach rates:
 
 #Giza Plains
 
-- Penelo: White Mage
+- Penelo: Black Mage
 - Shadestone
 
 ##Throne Road
@@ -362,8 +361,8 @@ Poach rates:
 
 #Garamsythe Waterway
 
-- Balthier: Monk
-- Fran: Black Mage
+- Balthier: Machinist
+- Fran: White Mage
 - Ghost easier to kill now for bestiary
 - Leather Helm\* (3% steal from Gigantoad)
 - 2x Horn (55% steal or 25% at L0 from Gigantoad)
@@ -591,7 +590,7 @@ Poach rates:
 
 ##Brig No. 1
 
-- Ashe: Machinist
+- Ashe: Knight
 - Tourmaline Ring: 300 gil
 
 ##Starboard Section
@@ -788,16 +787,16 @@ Poach rates:
 - [Boss] Shades of Black (100%)
 - [Boss] Elixir (100%)
 - Belias (water)
-    - Fran
+    - Vaan
 
 #Second Jobs
 
-- Vaan: Time Battlemage
-- Balthier: Archer
-- Fran: Samurai
-- Basch: Knight
-- Ashe: Red Battlemage
-- Penelo: Foebreaker
+- Vaan: Foebreaker
+- Balthier: Red Battlemage
+- Fran: Time Battlemage
+- Basch: Bushi
+- Ashe: Archer
+- Penelo: Monk
 
 #Rabanastre
 
@@ -1093,7 +1092,7 @@ Poach rates:
 
 - Adrammelech (ice, thunder protection, Power Armlet)
     - 2/3 Capricorn Gem (30% steal)
-    - Penelo
+    - Basch
 - 3x Blood-stained Necklace (30% monograph from Shambling Corpse)
 
 ##The Balamka Fault
@@ -1175,7 +1174,7 @@ Poach rates:
 ##Challenge
 
 - Zalera (minions first, only healing magic, L2 Sleep, L3 Disable, L4 Break, L5 Reverse, LPrime Death)
-    - Basch
+    - Fran
 - [W] Reverse Mote (100%)
 - [W] Elixir (100%)
 
@@ -1402,7 +1401,7 @@ Poach rates:
 ##No. 1 Cloaca
 
 - Cuchulainn (Black Belt)
-    - Penelo
+    - Basch
 
 ##Central Waterway Control
 
@@ -1744,7 +1743,7 @@ Poach rates:
 ##Hall of Worth
 
 - Mateus (thunder)
-    - Basch
+    - Ashe
 - [W] Elixir (100%)
 - [E] Bubble Mote (100%)
 
@@ -2120,7 +2119,7 @@ Poach rates:
 ##Empyrean Seat
 
 - Exodus (Shear, Opal Ring)
-    - Fran
+    - Basch
 - 3x total Moon Ring (10% monograph from Ash Wyrm)
 
 #Phon Coast
@@ -2406,7 +2405,7 @@ Poach rates:
 #Stilshrine of Miriam
 
 - Zeromus (prebuff, Power Armlet, quickening spam)
-    - Ashe
+    - Fran
 
 #Draklor
 
@@ -2646,7 +2645,7 @@ Poach rates:
 
 - Door of Despair
 - Chaos (Black Belt+Rose Corsage, wind protection, mage Chaosjets with weakness/bio, dispel, slow, shear, expose, reflect+bio, souleater/telekinesis)
-    - Balthier
+    - Penelo
 - Megalixir (100%)
 
 #Nalbina
@@ -2981,7 +2980,7 @@ Maps:
 ##Gate of Wind
 
 - Shemhazai (changes weakness)
-    - Fran
+    - Balthier
 - Hastega Mote (100%)
 - Reverse Mote (100%)
 - Do not use Tellurian Way Stone
@@ -3065,7 +3064,7 @@ Maps:
     - Chain Necrophobe for L3
     - 3x Lifewick (80% steal)
 - Ultima (dark, Ribbon, holy protection)
-    - Penelo
+    - Vaan
 - [27] Excalibur\* (100%)
 - [28] Gendarme\* (1%, 4%) DA
     - Use [RNG Manipulation](https://www.youtube.com/watch?v=QRCMOAAWeJA)
@@ -3349,7 +3348,7 @@ Maps:
     - no dispel
     - constant shell
     - last phase (< 20% HP) Opal Ring
-    - Ashe
+    - Basch
 
 #Ridorana Cateract
 
@@ -3491,7 +3490,7 @@ Maps:
 - [F88] (R) Tower (20% chance)
     - Rezone between F79 and F88 to retry spawn
 - Hashmal (wind)
-    - Vaan
+    - Ashe
 
 ##Empyrean Ravel
 
@@ -3503,7 +3502,7 @@ Maps:
 - [15] Megalixir (2%) respawns
 - Cid (holy)
 - Famfrit (fire)
-    - Ashe
+    - Balthier
 
 #Balfonheim
 
