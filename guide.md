@@ -274,6 +274,12 @@ Poach rates:
 
 - [NW] Diamond Armlet (25%)
 
+##The Midfault
+
+![](https://i.imgur.com/fdkTREM.png)
+
+- [10] Leather Armor\* (65%, 30%)
+
 #Rabanastre
 
 - Thextera
@@ -497,7 +503,7 @@ Poach rates:
 - Shell, Protect: 500 gil
 - Charge: 1500 gil
 - Spear\*: 1300 gil
-- Bronze Shield\*: 800 gil
+- Bronze Shield\*, Scale Armor\*: 1600 gil
 
 #Lhusu Mines
 
@@ -586,7 +592,10 @@ Poach rates:
 
 ##Starboard Section
 
-- [SE] Sleep (100%)
+![](https://i.imgur.com/A4RJ1El.png)
+
+- [11] Sleep (100%)
+- [12] Iron Armor\* (75%, 30%)
 
 ##Sub-control Room
 
@@ -604,8 +613,6 @@ Poach rates:
 - 3x Black Belt: 1800 gil
 - 3x Rose Corsage: 2400 gil
 - Slow: 200 gil
-
-#Westersand
 
 - [The Midfault] (R) Fideliant (20% chance per entry)
 
@@ -678,7 +685,7 @@ Poach rates:
 - [27] Musk Stick\* (75%, 40%)
 - [28] Sirius\* (80%, 35%)
 - [29] Wizard's Robes (75%, 40%)
-- [32] Linen Cuirass (75%, 40%)
+- [32] Linen Cuirass\* (75%, 40%)
 
 ##[W] Platform 2 - Refinery
 
@@ -844,7 +851,8 @@ Poach rates:
 
 ##Hourglass Basin
 
-- [SW] Miter (90%, 42.5%)
+- [SW] Miter\* (90%, 42.5%)
+- [SE] Chainmail\* (90%, 45.5%)
 - [NE] Slasher\* (90%, 42.5%)
 
 ##Halls of Ardent Darkness
@@ -943,7 +951,7 @@ Poach rates:
 
 - 2x Great Serpent's Fang (10% monograph from Python)
 - [N] Gillie Boots (100%)
-- [S] Diamond Armor (75%, 30%)
+- [S] Diamond Armor\* (75%, 30%)
 - [S] Black Garb (75%, 30%)
 
 ##Northern Skirts
@@ -1032,7 +1040,7 @@ Poach rates:
 - 2x Tyrant Bone (12% monograph from Wild Saurian)
 - [46] Demonsbane\* (75%, 32.5%)
 - [49] Bone Helm\* (75%, 32.5%)
-- [50] Bone Mail (75%, 32.5%)
+- [50] Bone Mail\* (75%, 32.5%)
 - [56] Hammerhead (75%, 32.5%)
 
 ##Broken Sands
@@ -1139,7 +1147,7 @@ Poach rates:
 - [52] Icebrand (90%, 25%)
 - [58] Scathe Mote (100%)
 - [60] Kagenui (100%)
-- [61] Demon Mail (90%, 25%)
+- [61] Demon Mail\* (90%, 25%)
 - [62] Shear (100%)
 
 ##West Annex
@@ -1497,6 +1505,7 @@ Poach rates:
 
 ##Walk of Stolen Truths
 
+- Mirror Mail\* (12% at L3 from Mirror Knight)
 - 2x Mirror Scale (10% monograph from Mirrorknight)
 - 23x Wind Crystal (80% steal or 25% at L0 from Mirrorknight)
 - 5x Windslicer Pinion (95% poach or 40% at L0 from Mirrorknight)
@@ -1923,7 +1932,7 @@ Poach rates:
 - 10x Holy Crystal (80% steal or 25% at L0 from Babil)
 - 5x Quality Stone (40% at L0 from Babil)
 - [16] Kaiser Shield\* (30%, 35%)
-- [18] Carabineer Mail (30%, 35%)
+- [18] Carabineer Mail\* (30%, 35%)
 - [19] Jade Gown (30%, 35%)
 - [20] Black Robes (100%)
 - [22] Ensanguined Shield\* (3%)
@@ -3282,7 +3291,7 @@ Maps:
 - [53] Addle (100%)
 - [54] Brave Suit\* (25%)
 - [57] Ribbon (15%)
-- [59] Grand Armor (25%)
+- [59] Grand Armor\* (25%)
 - [60] Lordly Robes (100%)
 - [!!] 2x Megalixir, 3x Bacchus's Wine
 
@@ -3398,7 +3407,7 @@ Maps:
 
 ##Station of Ascension
 
-- [SW] Dragon Mail (100%)
+- [SW] Dragon Mail\* (100%)
 - [NE] Sash (100%)
 - (T) Avenger (40% per entry, 6% or 80% Muramasa\*\* steal)
 
