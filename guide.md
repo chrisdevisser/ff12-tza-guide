@@ -519,6 +519,7 @@ Poach rates:
 
 ##Oltam Span
 
+- [N] Onion Bombs\* (75%, 30%)
 - [S] Topkapi Hat\* (75%, 30%)
 - (R) Aerieel (20% chance)
     - 1x Bat Wing (55% steal)
