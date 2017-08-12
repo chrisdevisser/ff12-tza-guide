@@ -223,9 +223,9 @@ Poach rates:
 - Thextera
 - Notice board 40x
 - Blindna, Cure, Fire: 580 gil
-- Magick shop 25x
-- Armour shop 15x
-- Weapon shop 30x
+- Magick shop x25
+- Armour shop x15
+- Weapon shop x30
 - Any shop 100x
 - Unassuming Surcoat, Tail of the Phoenix, Potion Pack
     - 2x Cactus Fruit (done)
@@ -242,12 +242,13 @@ Poach rates:
 
 - 2x Drab Wool (40% at L0 from Giza Rabbit)
 - 9x Water Stone (55% steal or 25% at L0 from Giza Rabbit)
+- 9x Fire Stone (55% steal or 40% at L0 from Hyena)
 
 ##[W] Toam Hills
 
 - [SE] Blind (100%)
 - 8x Snake Skin (55% steal or 40% at L0 from Wildsnake)
-- 9 Wildsnake kills for bestiary
+- 9x Wildsnake
 
 ##[S] Starfall Field
 
@@ -263,26 +264,6 @@ Poach rates:
 ##Galtea Downs
 
 - Thextera
-- Kill 20 Wolves
-
-##Shimmering Horizons
-
-- Steal Gladius* from Lindbur Wolf (3%)
-- [S] Leather Shield\* (60%, 30%)
-
-##Shimmering Horizons
-
-- [SW] Orrachea Armlet (100%)
-
-##Windtrace Dunes
-
-- [NW] Diamond Armlet\* (25%)
-
-##The Midfault
-
-![](https://i.imgur.com/fdkTREM.png)
-
-- [10] Leather Armor\* (65%, 30%)
 
 #Rabanastre
 
@@ -342,12 +323,31 @@ Poach rates:
 
 - Blizzard: 240 gil
 - Dantro's wife x2
-- 5x Semclam Shell from 1S
+- 5x Semclam Shell from here and 1S
 - Dantro's wife
 - Dantro
 - 2x Nebralim in outpost
-- Dantro
 - Dantro's wife
+
+#Westersand
+
+##Shimmering Horizons
+
+- [SW] Orrachea Armlet (100%)
+
+##Windtrace Dunes
+
+- [NW] Diamond Armlet\* (25%)
+
+##The Midfault
+
+![](https://i.imgur.com/fdkTREM.png)
+
+- [10] Leather Armor\* (65%, 30%)
+
+##Shimmering Horizons
+
+- [S] Leather Shield\* (60%, 30%)
 
 #Garamsythe Waterway
 
@@ -405,7 +405,6 @@ Poach rates:
 ![](https://i.imgur.com/D9qUbwY.png)
 
 - 3x Bomb Ashes (40% at L0 or 10% steal from Bomb)
-- 9x Fire Stone (55% steal or 25% at L0 from Bomb)
 - Kilimweave Shirt\* (3% steal from Zombie (female), power drained)
 - [4] Pointy Hat (75%, 30%)
 
@@ -453,6 +452,17 @@ Poach rates:
 ##Banks of the Nebra
 
 - 2x Fish Scale (55% steal or 40% at L0 from Ichthon)
+
+#Westersand
+
+##Galtea Downs
+
+- Kill 20 Wolves
+
+##Shimmering Horizons
+
+- Steal Gladius* from Lindbur Wolf (3%)
+- [S] Leather Shield\* (60%, 30%)
 
 #Skyferry (To Nalbina)
 
