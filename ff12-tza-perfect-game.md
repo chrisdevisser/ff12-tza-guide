@@ -742,15 +742,12 @@ Poach rates:
 ##Trail of Fading Warmth
 
 - 3x Nishijin Belt: 2400 gil
-- First-aid Kit, Tinctures & Tonics, Wooden Pole, Rain of Tears, Large Gloves 
+- First-aid Kit, Tinctures & Tonics, Wooden Pole, Large Gloves 
     - 3x Bent Staff (done)
     - 5x Bone Fragment (done)
     - 4x Earth Stone (1 more)
-    - 3x Green Liquid (done)
     - 3x Large Feather (done)
     - 4x Succulent Fruit (done) 
-    - 4x Water Stone (5 more)
-    - 1x Yensa Scale (done)
 
 - Garuda (dark)
 
@@ -881,6 +878,7 @@ Poach rates:
 - 2/3 Pisces Gem (30% steal from Yensa)
 - 2x Yensa Fin (20% monograph from Yensa)
 - 1x Yensa Scale (95% poach or 80% steal from Yensa)
+    - TODO: Might need 2 - sources are inconsistent
 
 #Tomb of Raithwall
 
@@ -895,6 +893,10 @@ Poach rates:
     - 1/3 Moon Ring
 - Montblanc
 - Oil (clan): 800 gil
+- Rain of Tears
+    - 1x Yensa Scale (done)
+    - 3x Green Liquid (done)
+    - 4x Water Stone (5 more)
 
 #Garamsythe Waterway
 
