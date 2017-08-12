@@ -36,6 +36,8 @@ This guide covers everything needed for a perfect game. This guide's definition 
 - Order of Ambrosia
 - At least one of every equipment obtained without buying it (when possible; bazaar is okay and buying extras is okay)
 - Bestiary second pages complete
+- Not necessarily the earliest opportunities
+    - My first recommendation for this would be [xAshe10x's video guide](https://www.youtube.com/watch?v=qQMTNO6Wnog)
 
 If this is your first time playing, then the guide will be hard to follow. This is meant for someone who's relatively familiar with the game.
 
@@ -190,6 +192,12 @@ Poach rates:
 ##Trial Mode
 
 - Trial Mode isn't included because it takes all the fun out of obtaining items IMO
+
+##Grinding and General Overpoweredness
+
+The guide defers early grinding to Lhusu Mines, and expects the Penelo section to act as some earlier levelling and LP farming as you go around doing things and killing enemies along the way. Early-game opportunities like Dustia and the Burning Bow still work the same way they did in vanilla, though, so that's your choice. In general, the guide doesn't go for big jumps in your party's effectiveness, at least not until after the Dawn Shard. This also means Seitengrat is assumed to be unused.
+
+Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon is found early on in the Garamsythe Waterway and Werewolf drops a Slasher.
 
 #Nalbina
 
