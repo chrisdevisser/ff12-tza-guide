@@ -13,6 +13,8 @@ This guide covers everything needed for a perfect game. This guide's definition 
 - Order of Ambrosia
 - At least one of every equipment obtained without buying it (when possible; bazaar is okay and buying extras is okay)
 - Bestiary second pages complete
+- Not necessarily the earliest opportunities
+    - My first recommendation for this would be [xAshe10x's video guide](https://www.youtube.com/watch?v=qQMTNO6Wnog)
 
 If this is your first time playing, then the guide will be hard to follow. This is meant for someone who's relatively familiar with the game.
 
