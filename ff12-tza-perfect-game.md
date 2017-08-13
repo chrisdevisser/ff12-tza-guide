@@ -369,7 +369,6 @@ Poach rates:
 
 - Balthier: Machinist
 - Fran: White Mage
-- Ghost easier to kill now for bestiary
 - Leather Helm\* (3% steal from Gigantoad)
 - 2x Horn (55% steal or 25% at L0 from Gigantoad)
 - 6x Bat Fang (55% steal from Steeling)
@@ -385,8 +384,13 @@ Poach rates:
 
 ##Southern Sluiceway
 
+- 10% Caramel steal
 - [E] Hi-Potion (100%)
 - [W] Phoenix Down (100%)
+
+##West Sluice Control
+
+- 6x Ghost (clones count)
 
 ##No. 10 Channel
 
@@ -398,7 +402,11 @@ Poach rates:
 
 #Barheim Passage
 
+##The Lightworks
+
+- [NE] 2510 gil (100%)
 - Silver Bow\*, Magick Curch\*: 920 gil
+- Poisona, Vox: 510 gil
 
 ##Op Sector 29
 
@@ -428,6 +436,7 @@ Poach rates:
 
 ![](https://i.imgur.com/B0KD6U2.png)
 
+- Bronze Chestplate\* (3% steal from Skeleton)
 - [20] Oak Staff\* (80%, 35%)
 - [24] Mage Masher\* (85%, 37.5%)
 
@@ -492,7 +501,6 @@ Poach rates:
 
 #Rabanastre
 
-- Poisona, Vox: 510 gil
 - Wraith, Cluckatrice, Rocktoise
 - Ktjn (ashamed)
 - Basch: Shikari
@@ -536,8 +544,7 @@ Poach rates:
 - [N] Onion Bombs\* (75%, 30%)
 - [S] Topkapi Hat\* (75%, 30%)
 - (R) Aerieel (20% chance)
-    - 1x Bat Wing (55% steal)
-- Aevis Killer (3% at L0 from Slaven)
+    - 1x Bat Wing (3% steal)
 
 ##Transitway 1
 
@@ -547,7 +554,6 @@ Poach rates:
 
 - 5x Bone Fragment (55% at L3 or 55% steal from Skeleton)
 - 5x Dark Stone (40% at L3 from Skeleton)
-- Bronze Chestplate\* (3% steal from Skeleton)
 - Iron Helm\* (5% at L3 from Skeleton)
 - Get lots of LP and gil (every monograph ASAP) to do optional stuff earlier
     - Sell extra loot from Skeleton farming
@@ -556,10 +562,13 @@ Poach rates:
 
 ![](https://i.imgur.com/jRYIR6G.png)
 
+There's a bug where the chests and traps in this area don't respawn after the Ba'Gamnan chase triggers. Get everything except the Battle Bamboo and then save. For the Battle Bamboo, get the chest during the Ba'Gamnan fight and reload the autosave if you don't get it.
+
 - [16] Steel Gorget\* (70%, 35%)
 - [17] Serpent Rod (70%, 35%)
 - [20] Assassin's Dagger\* (80%, 35%)
 - [22] Battle Bamboo\* (70%, 35%)
+- Aevis Killer (3% at L0 from Slaven, only spawns after Ba'Gamnan)
 
 #Bhujerba
 
@@ -572,7 +581,6 @@ Poach rates:
 - Warmage's Monograph: 20000 gil
 - Knight's Monograph: 19000 gil
 - Raise, Aqua, Disable: 3200 gil
-- Poach: 5000 gil
 - Nidhogg
 - Rocktoise
 
@@ -601,13 +609,20 @@ Poach rates:
 
 ![](https://i.imgur.com/XM8m7PV.png)
 
+- [5] Reflectga Mote (100%)
+- [6] Reflectga Mote (100%)
 - [9] Ringmail\* (80%, 37.5%)
 - [10] Shepherd's Bolero\* (80%, 37.5%)
 
 ##Brig No. 1
 
 - Ashe: Knight
-- Tourmaline Ring: 300 gil
+
+##Sub-control Room
+
+- [SE] Vega (80%, 30%)
+- [W] Infuse (100%)
+- [W] Zwill Blade\* (75%, 32.5%)
 
 ##Starboard Section
 
@@ -616,22 +631,12 @@ Poach rates:
 - [11] Sleep (100%)
 - [12] Iron Armor\* (75%, 30%)
 
-##Sub-control Room
-
-- [SE] Vega (80%, 30%)
-- [W] Infuse (100%)
-- [W] Zwill Blade\* (75%, 32.5%)
-
-#Bhujerba
-
-- Ondore first
-- Cura, Aero: 3200 gil
-
 #Westersand
 
 - 3x Black Belt: 1800 gil
-- 3x Rose Corsage: 2400 gil
-- Slow: 200 gil
+- 2x Rose Corsage: 2400 gil
+- Slow, Cura, Aero: 3400 gil
+- Poach: 5000 gil
 
 - [The Midfault] (R) Fideliant (20% chance per entry)
 
@@ -655,8 +660,6 @@ Poach rates:
 
 - [1] Bhuj\* (75%, 25%)
 - [3] Wizard's Staff\* (75%, 25%)
-
-
 
 ##Platform 1 - Refinery
 
@@ -696,7 +699,7 @@ Poach rates:
 
 - Chain Urutan-Yensa
 
-##[W] Primary Tank Complex
+##[NW] Primary Tank Complex
 
 ![](https://i.imgur.com/emFJ5ur.png)
 
@@ -706,13 +709,14 @@ Poach rates:
 - [29] Wizard's Robes\* (75%, 40%)
 - [32] Linen Cuirass\* (75%, 40%)
 
-##[W] Platform 2 - Refinery
+##[SW] Platform 2 - Refinery
 
 ![](https://i.imgur.com/ZzAnbfD.png)
 
 - [44] Golden Shield (75%, 37.5%)
 - [46] Leather Gorget\* (75%, 37.5%)
 - (R) Urutan Exile (100 Urutan-Yensa kills, Unknown% chance, 18% Magoroku at L3)
+    - To respawn, stay in Ogir-Yensa and keep zoning two areas and back while killing more
 
 ##Platform 1 - South Tanks
 
@@ -722,7 +726,7 @@ Poach rates:
 
 #Nam-Yensa Sandsea
 
-- Eskir Berries
+- Eksir Berries
 
 ##The Urutan-Yensa Sea
 
@@ -748,6 +752,7 @@ Poach rates:
 - [47] Soldier's Cap (75%, 35%)
 - [48] Chanter's Djellaba (75%, 35%) optional
 - [50] Lambent Hat (75%, 35%)
+- [52] 2918 gil (100%)
 
 ##Trail of Fading Warmth
 
@@ -769,13 +774,13 @@ Poach rates:
 - Demon Wall 2
 - Jewel
 - [Royal Passage] Scathe Mote (100%)
+- Broadaxe\* (5% at L3 from Tallow)
 
 ##Royal Passage
 
-- [Centre] (R) Barmuu (chain 12 seekers, 55% Lamia's Tiara steal)
+- [Centre] (R) Barmuu (chain 12 seekers, 3% Lamia's Tiara steal)
 - [NE] Dispel (100%)
 - [SE] Vanish (100%)
-- Broadaxe (5% at L3 from Tallow)
 
 ##Northfall Passage
 
@@ -789,6 +794,7 @@ Poach rates:
 
 ![](https://i.imgur.com/xTjL3fv.png)
 
+- [12] Hastega Mote (100%)
 - [18] Lambent Hat\* (80%, 35%)
 - [19] Heavy Coat\* (75%, 35%)
 - 2x Broken Spear (15% monograph from Skull Warrior)
