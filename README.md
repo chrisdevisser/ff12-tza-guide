@@ -4,6 +4,8 @@
 
 Have a look at the [Releases page](https://github.com/chrisdevisser/ff12-tza-guide/releases), which contains HTML builds. Simply open the HTML file in a web browser.
 
+If you want a version with updates as I play through, you can keep tabs on the [playthrough branch](https://github.com/chrisdevisser/ff12-tza-guide/tree/playthrough) and view that in a Markdown viewer, convert it to HTML or another convenient format, or live with GitHub disliking my lack of spaces in headers. I'll be collecting all of the changes I make during my playthrough into a release once I'm done.
+
 ## Intro
 
 This guide covers everything needed for a perfect game. This guide's definition is:
