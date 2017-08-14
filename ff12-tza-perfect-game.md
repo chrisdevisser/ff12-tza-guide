@@ -249,6 +249,7 @@ Poach rates:
 - [SE] Blind (100%)
 - 8x Snake Skin (55% steal or 40% at L0 from Wildsnake)
 - 9x Wildsnake
+- 3x Large Feather (40% at L0 from Urstix)
 
 ##[S] Starfall Field
 
@@ -256,7 +257,8 @@ Poach rates:
 
 ##Nomad Village
 
-- Antidote Set
+- First-aid Kit, Antidote Set
+    - 3x Large Feather (done)
     - 2x Drab Wool (done)
 
 #Westersand
@@ -328,6 +330,7 @@ Poach rates:
 - Dantro
 - 2x Nebralim in outpost
 - Dantro's wife
+    - 1/1 Bundle of Needles
 
 #Westersand
 
@@ -367,7 +370,7 @@ Poach rates:
 
 #Garamsythe Waterway
 
-- Balthier: Machinist
+- Balthier: Red Battlemage
 - Fran: White Mage
 - Leather Helm\* (3% steal from Gigantoad)
 - 2x Horn (55% steal or 25% at L0 from Gigantoad)
@@ -391,6 +394,7 @@ Poach rates:
 ##West Sluice Control
 
 - 6x Ghost (clones count)
+- Garchimacera bestiary
 
 ##No. 10 Channel
 
@@ -466,7 +470,7 @@ Poach rates:
 
 ##Galtea Downs
 
-- Kill 20 Wolves
+- Kill 20-22 Wolves
 
 ##Shimmering Horizons
 
@@ -666,7 +670,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 ![](https://i.imgur.com/jMGh7wG.png)
 
 - (R) Pineapple (20% chance)
-    - 25% Storm Staff at L0
+    - 25% Storm Staff\* at L0
 - [5] Ancient Sword\* (75%, 32.5%)
 - [11] Windbreaker\* (75%, 32.5%)
 - [12] Golden Amulet (100%)
@@ -744,7 +748,6 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 ![](https://i.imgur.com/Hs21H45.png)
 
 - Wyvern (no wind)
-- 3x Large Feather (95% poach or 55% steal or 25% at L0 from Bagoly)
 - 3x Bent Staff (15% monograph or 40% at L0 from Bagoly)
 - [44] Lohengrin\* (75%, 35%)
 - [45] Embroidered Tippet (100%)
@@ -757,11 +760,10 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 ##Trail of Fading Warmth
 
 - 3x Nishijin Belt: 2400 gil
-- First-aid Kit, Tinctures & Tonics, Wooden Pole, Large Gloves 
+- Tinctures & Tonics, Wooden Pole, Large Gloves 
     - 3x Bent Staff (done)
     - 5x Bone Fragment (done)
     - 4x Earth Stone (1 more)
-    - 3x Large Feather (done)
     - 4x Succulent Fruit (done) 
 
 - Garuda (dark)
@@ -802,6 +804,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 ##Cloister of Flame
 
+- [NE] Phoenix Down (100%)
 - [SW] Blood Sword\* (100%)
 - [Boss] Shades of Black (100%)
 - [Boss] Elixir (100%)
@@ -811,7 +814,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 #Second Jobs
 
 - Vaan: Foebreaker
-- Balthier: Red Battlemage
+- Balthier: Machinist
 - Fran: Time Battlemage
 - Basch: Bushi
 - Ashe: Archer
@@ -821,7 +824,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 - Wyvern
 - Enkelados, Croakadile, White Mousse, Ring Wyrm, Marilith
-- Orthros, Gil Snapper
+- Gil Snapper
     - 1/2 Electrum
 - Ktjn (never)
 
@@ -842,13 +845,11 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 #Ogir-Yensa Sandsea
 
-##[NW] East Junction
+##Central Junction
 
 ![](https://i.imgur.com/iZQbb31.png)
 
-- [17] Barbut\* (70%, 35%)
-- [23] Healing Rod\* (75%, 42.5%)
-- E
+- NE
 
 #Zertinan Caverns
 
@@ -856,17 +857,20 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 #Ogir-Yensa Sandsea
 
-- [Central Junction] NE
+##East Junction
+
+![](https://i.imgur.com/iZQbb31.png)
+
+- [17] Barbut\* (70%, 35%)
+- [23] Healing Rod\* (75%, 42.5%)
+- NE
 
 #Zertinan Caverns
-
-##[E] Sandfalls
-
-- Diamond Armlet (100%)
 
 ##[W-SE] Sandfalls
 
 - Rocks
+- Diamond Armlet (100%)
 
 ##The Undershore
 
@@ -907,7 +911,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - Marilith, Ring Wyrm
     - 1/4 Serpent Eye
     - 1/3 Moon Ring
-- Montblanc
+- Orthros
 - Oil (clan): 800 gil
 - Rain of Tears
     - 1x Yensa Scale (done)
@@ -922,7 +926,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 #Rabanastre
 
-- Sorbet x2 (White Mousse, key)
+- White Mousse
 
 #Bhujerba
 
@@ -957,10 +961,11 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - Steel Polyens\* (6% steal from Worgen or Alpha Worgen)
 - 18x Fire Magicite (80% steal or 40% at L0 from Worgen)
 - 6x Quality Pelt (95% poach from Worgen)
-- 1x Throat Wolf Blood (10% monograph from Alpha Worgen or 5% poach from Worgen)
+- 1x Throat Wolf Blood (10% monograph or 5% poach from Worgen)
 - (R) Wary Wolf (7% per Worgen, 25% Power Armlet\* drop)
 - [8] Golden Staff\* (75%, 30%)
 - [11] Kiku-ichimonji\* (75%, 30%)
+- 2x Fire Elemental
 
 ##[NE] Rays of Ashen Light
 
@@ -974,7 +979,6 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
     - 1x Throat Wolf Blood (done)
 - Map: 2400 gil
 - [NW] Thief's Cuffs\* (100%)
-- [W] 6636 gil (100%)
 
 ##Trail of Sky-flung Stone
 
@@ -1032,7 +1036,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 ##Corridor of Ages
 
-- (R) Wood Toad (20% per entry)
+- (R) Wood Toad (20% per entry, initially invisible)
 
 #Nabreus Deadlands
 
@@ -1056,16 +1060,11 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - Dran?
 - Tchigri
 
-##North Bank Village
-
-- Map: 2400 gil
-
 ##The Yoma
 
 ![](https://i.imgur.com/Oe3E0sM.png)
 
 - 5x Giant Feather (95% poach or 80% steal from Dive Talon)
-- 1x Bundle of Needles (6% steal or 5% monograph from Cactoid)
 - 2x Tyrant Bone (12% monograph from Wild Saurian)
 - [46] Demonsbane\* (75%, 32.5%)
 - [49] Bone Helm\* (75%, 32.5%)
@@ -1076,6 +1075,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 ![](https://i.imgur.com/CsRHNu4.png)
 
+- 2x Bangaa
 - 9x Tanned Giantskin (95% poach or 80% steal or 40% at L0 from Slaven Wilder)
 - 3x Valeblossom Dew
 - [59] Black Cowl (80%, 32.5%)
@@ -1153,7 +1153,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 - 4x Pointed Horn (95% poach from Suriander)
 - Horned Hat\* (1% at L0 from Suriander)
-- [40] Throned Mace\* (90%, 25%)
+- [40] Thorned Mace\* (90%, 25%)
 - [41] Enchanter's Habit (90%, 25%)
 - [42] Diamond Shield (90%, 25%)
 - [43] Headband (90%, 25%)
@@ -1195,7 +1195,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 - [SE] Cameo Belt\* (25%)
 
-##Challenge
+##Terminus No. 7
 
 - Zalera (minions first, only healing magic, L2 Sleep, L3 Disable, L4 Break, L5 Reverse, LPrime Death)
     - Fran
@@ -1258,6 +1258,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 ##[W] Warrior's Wash
 
 - (R) Rain Dancer (20% per entry)
+- 2x Storm Elemental (rain)
 
 ##Toam Hills
 
@@ -1275,7 +1276,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 ##Gizas South Bank
 
-- [NW] Golden Helm (80%, 30%)
+- [NW peninsula] Golden Helm (80%, 30%)
 
 ##Tracks of the Beast
 
@@ -1302,17 +1303,9 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 - Maps: 1730 gil
 - Stona, Fira: 3500 gil
-- Flame Staff: 2250 gil
 - High-chief Zayalu
 - [W] Pheasant Netsuke (100%)
 - Enkelados
-
-#Giza Plains
-
-- Weather rotation started
-- 1h Rains then 2h Dry (game time)
-- Write down current time to plan for weather
-- Coming back when Dry
 
 #Ozmone Plain
 
@@ -1339,12 +1332,23 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - 2x Braid Wool (40% at L0 from Ozmone Hare or Bull Croc)
 - 3x Water Magicite (80% steal or 25% at L0 from Ozmone Hare)
 
+#Giza Plains
+
+- Weather rotation started
+- 1h Rains then 2h Dry (game time)
+- Write down current time to plan for weather
+- Coming back when Dry
+
 ##The Shred
 
 - Enkelados (wind)
 - (R) Bull Croc (20% when everything killed)
 - (R) Aeros (kill Bull Croc)
-    - 2x Wyvern Wing (6% steal, leave Ozmone Plain between)
+    - 2x Wyvern Wing (6% steal, zone two areas without killing)
+
+##The Greensnake
+
+- 2x Garif
 
 #Golmore Jungle
 
@@ -1377,6 +1381,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 #Jahara
 
 - Judge Hausen
+- Enkelados
 
 #Rabanastre
 
@@ -1385,14 +1390,9 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [Yamoora's Gambits] Viera
 - Montblanc
 - [Sandsea] Viera
-- [Southern Plaza] Viera
-
-#Barheim Passage
-
-- Zalera (minions first, only healing magic, L2 Sleep, L3 Disable, L4 Break, L5 Reverse, LPrime Death)
-    - Basch
-- [W] Reverse Mote (100%)
-- [W] Elixir (100%)
+- [Southern Plaza] Lovestruck Man
+- [Sandsea] Viera
+- [Southern Plaza] Lovestruck Man
 
 #Garamsythe Waterway
 
@@ -1402,7 +1402,8 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 ##No. 3 Cloaca Spur
 
-- 13x Book of Orgain (25% at L0 from Gespent)
+- 13x Book of Orgain (25% at L0 from Gespenst)
+    - Or chain Dustia
 - [S] Jade Collar (100%)
 - Close gate
 
@@ -2133,6 +2134,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 ##Babbling Vale
 
+- [W] 6636 gil (100%)
 - Rock
 - Turtleshell Choker (100%)
 - West Wind
@@ -2792,7 +2794,7 @@ Late-model Rifle
 #Garamsythe Waterway
 
 - [No. 10 Channel] (T) Gavial (15s in W basin)
-- North Spur Sluiceway (R) Razorfin (10% per Ichthon)
+- North Spur Sluiceway (R) Razorfin (10% per Ichthon) TODO: Move to Royal Palace visit
 
 #Giza Plains (Dry)
 
@@ -2829,7 +2831,7 @@ Late-model Rifle
 
 #Westersand
 
-- [Shimmering Horizons] (R) Lindbur Wolf (20 wolf kills)
+- [Shimmering Horizons] (R) Lindbur Wolf (20-22 wolf kills)
 - [Corridor of Sand E] (T) Kaiser Wolf (40% right after Lindbur)
 
 #Golmore Jungle
