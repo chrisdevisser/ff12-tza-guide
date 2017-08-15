@@ -830,6 +830,8 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 #Zertinan Caverns
 
+- If difficult, can be postponed until after armour from Mosphoran Highwaste, but Thief's Cuffs from one of the two are desired before continuing
+
 ##Invitation to Heresy
 
 - Kill 6 minutes
@@ -966,6 +968,10 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [8] Golden Staff\* (75%, 30%)
 - [11] Kiku-ichimonji\* (75%, 30%)
 - 2x Fire Elemental
+
+##Empyrean Way
+
+- Seeq bestiary
 
 ##[NE] Rays of Ashen Light
 
@@ -1337,7 +1343,18 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - Weather rotation started
 - 1h Rains then 2h Dry (game time)
 - Write down current time to plan for weather
-- Coming back when Dry
+
+When Dry:
+
+- Lesina
+- Elder
+- Nanau (Gil Snapper)
+    - 1/1 Phobo's Glaze
+- Come back when Rains (3h after initial rotation)
+
+When Rains:
+
+- Sadeen
 
 ##The Shred
 
@@ -1438,6 +1455,10 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - 2/3 Putrid Liquid (10% monograph from Malboro Overking)
 - [W] Hornito\* (100%)
 
+##West Sluice Control
+
+- 2x Water Elemental
+
 ##Central Waterway Control
 
 - Open 3 and 10
@@ -1445,7 +1466,6 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 ##No. 11 Channel
 
-- 3x Broken Sword (10% monograph from Baritine Croc)
 - [E] Gilt Measure\* (100%)
 
 ##Central Waterway Control
@@ -1457,14 +1477,6 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - Close 3
 - Open 4
 - Dull Fragment
-
-#Giza Plains
-
-- Lesina
-- Elder
-- Nanau (Gil Snapper)
-    - 1/1 Phobo's Glaze
-- Come back when Rains (3h after initial rotation)
 
 #Ozmone Plain
 
@@ -1487,15 +1499,17 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 - 2x Tyrant Hide (95% poach from Tyranorox)
 - [S] Flame Shield\* (75%, 30%)
+- 6x Tyranorox
 
 #Rabanastre
 
 - Oil-Soaked Incendiaries
     - 3x Bomb Ashes (done)
-    - 2x Book of Orgain (12 more)
+    - 2x Book of Orgain (11 more)
     - 3x Fire Crystal (8 more)
 - Ixtab
 - Montblanc
+    - 1/3 High Arcana
 
 #Jahara
 
@@ -1515,7 +1529,6 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 #Rabanastre
 
 - Montblanc
-    - 1/3 High Arcana
 - Bubble (clan): 5000 gil
 - 3x Steel Polyens: 3000 gil
 
@@ -1527,6 +1540,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - 2x Death's-Head (10% monograph from Dark Skeleton)
 - 5x Sturdy Bone (95% poach or 80% steal or 25% at L0 from Dark Skeleton)
 - (R) Grave Lord (40% Diamond Helm\* at L3)
+- 6x Diresaur
 
 #Feywood
 
@@ -1536,23 +1550,27 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 ##Walk of Stolen Truths
 
+- 8x Earth Crystal (25% at L0 from Golem)
+- 4x Quality Lumber (95% poach or 80% steal or 40% at L0 from Golem)
+- (R) Crypt Bunny (kill 6+ cerberus and all Tartarus, 20% chance)
+- 2x Holy Elemental
+
+##Walk of Dancing Shadow
+
 - Mirror Mail\* (12% at L3 from Mirror Knight)
 - 2x Mirror Scale (10% monograph from Mirrorknight)
 - 23x Wind Crystal (80% steal or 25% at L0 from Mirrorknight)
 - 5x Windslicer Pinion (95% poach or 40% at L0 from Mirrorknight)
-- 8x Earth Crystal (25% at L0 from Golem)
-- 4x Quality Lumber (95% poach or 80% steal or 40% at L0 from Golem)
-- (R) Crypt Bunny (kill 6+ cerberus)
-
-##Antiquity's End
-
-- Embroidered Tippet\* (25%)
 
 #Henne Mines
 
 - 2/3 Vampyr Fang (15% monograph from Abysteel)
 - Sage's Ring (25%)
 - Aeroga Mote (100%)
+
+##Antiquity's End
+
+- Embroidered Tippet\* (25%)
 
 #Golmore Jungle
 
@@ -1610,7 +1628,6 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - Maps: 3215 gil
 - 2x Bowline Sash: 2000 gil
 - Blizzara, Berserk, Darkra, Curaga: 10100 gil
-- Sorcerer's Hat\*: 4000 gil
 - Iron-forged Pole, Eye Drop Set, Arrows Alight, Smelling Salts & C., Burning Blade, Golden Garb
     - 3x Coeurl Pelt (4 more)
     - 2x Crooked Fang (4 more)
@@ -1634,7 +1651,6 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - Ktjn (good)
 - Feral Retriever
 - Trickster, Antlion
-- Sadeen in Giza if Rains
 
 #Skyferry (to Bhujerba)
 
@@ -1676,6 +1692,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 - Wait for Monid scene
 - Trickster (changes weakness, sleep, silence, blind)
+- 2x Ice Elemental
 
 ##Karydine Glacier
 
@@ -1683,6 +1700,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 - 7x Fine Wool (95% poach or 40% at L0 from Baritine Croc)
 - 6x Wind Magicite (80% steal or 25% at L0 from Baritine Croc)
+- 3x Broken Sword (10% monograph from Baritine Croc)
 - [39] Power Rod\* (75%, 25%)
 - [40] Six-fluted Pole\* (75%, 25%)
 - [42] Betelgeuse\* (75%, 30%)
@@ -1690,7 +1708,12 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [47] Death (100%)
 - [48] Ice Shield (75%, 30%)
 - (R) Anchag (kill everything)
-    - 4x Damascus Steel (6% or 80% steal)
+    - 4x Damascus Steel (6% steal)
+
+##Silverflow's End (Dead End)
+
+- 2/3 Gemini Gem (30% steal from Slaven Warder)
+- 2x Slaven Harness (24% monograph from Slaven Warder)
 
 ##Spine of the Icewyrm
 
@@ -1702,9 +1725,6 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 ![](https://i.imgur.com/8Oe0Fp6.png)
 
-- 2/3 Gemini Gem (30% steal from Slaven Warder)
-- 2x Slaven Harness (24% monograph from Slaven Warder)
-- 2x Wyrm Carapace (95% poach or 30% steal or 40% at L0 from Emperor Aevis)
 - [28] Sledgehammer\* (80%, 20%)
 - [31] Glacial Staff\* (75%, 20%)
 
@@ -1719,12 +1739,14 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 ##Walk of Mind
 
 - Ice Shield (100%)
-- Sadeen in Giza Plains if Rains
 - Note the game time and add 30 minutes for Negalmuur
 
 ##Ward of Velitation
 
-- Goggle Mask\* (5% at L3)
+- 7x Dragon Aevis
+- 2x Wyrm Carapace (95% poach or 40% at L0 from Dragon Aevis)
+- Goggle Mask\* (5% at L3 from Dragon Aevis)
+    - Easier when sides are open
 - [W] Countdown (100%)
 - [NE] ~65000 gil (5%, 5%)
 - [SE] Megalixir (10%, 2.5%)
@@ -1757,7 +1779,8 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 - (R) Negalmuur (after 30 minutes)
 - 3x Grimoire Togail (95% poach or 30% steal from Darkmare)
-- After Negalmuur, quit and load save to respawn Darkmare for bestiary
+- 8x Darkmare
+    - After Negalmuur, quit and load save to respawn or zone before XP/LP displayed
 - Wear Steel Polyens before entering hidden passage
 
 ##[Hidden] Cold Distance
@@ -1778,6 +1801,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
     - 1/1 Deimos Clay
 - Bio: 4000 gil
 - 2x Fuzzy Miter: 2400 gil
+- Sorcerer's Hat\*: 4000 gil
 - Sipping Wine, Alluring Finery, Monk's Garb, Burnished Protectives, Mysterious Substance, Ninja Footgear, Morbid Urn
     - 1x Bat Wing (done)
     - 4x Coeurl Pelt (done)
@@ -1874,10 +1898,6 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 - Atomos
 
-#Nalbina
-
-- Jovy
-
 #Estersand
 
 - Bloodwing
@@ -1929,7 +1949,9 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [S] Elixir (100%)
 - [N] 4416 gil (100%)
 - [W] Serum (100%)
-- (R) Velelu (HP < 20%, 40% Save the Queen at L3, 7% Durandal\* at L3)
+- (R) Velelu (HP < 20%, 7% Durandal\* at L3)
+    - Use Dustia trick to respawn without leaving Deadlands
+    - After spending half the night killing this for a Durandal, I'm convinced it doesn't drop Save the Queen in TZA
 
 ##Overlooking Eternity
 
@@ -1975,6 +1997,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [8] Giant's Helmet (30%, 35%)
 - [9] Orichalcum Dirk\* (30%, 35%)
 - [12] Faith (100%)
+- 2x Dark Elemental
 
 ##Cloister of the Highborn
 
@@ -2046,6 +2069,8 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 #Nalbina
 
+- Atomos
+- Jovy
 - Roblon
     - 3/3 Mythril
 - Jovy
@@ -2079,7 +2104,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 - 2/3 Libra Gem (30% steal from Silver Lobo)
 - 2x Frogspawn (30% monograph from Iguion)
-- [SE] (R) Apsara (kill 10 Piranha, 6% or 80% Empyrean Rod\* steal)
+- [SE] (R) Apsara (kill 10 Piranha, 6% Empyrean Rod\* steal)
 
 ##Cape Tialan
 
@@ -2114,11 +2139,11 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - Va'Kansa
 - Learned Man
 - Northeast Wind
-- South Wind
+- East Wind
+- Southeast Wind
 
 ##Rays of Ashen Light
 
-- Chocobo
 - [W] Stamp (100%)
 - [W] Blood Sword (80%)
 
@@ -2127,10 +2152,9 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - 1x Eye of the Hawk (10% monograph from Vulture)
 - (R) Grey Molter (game time :10 to :20)
 
-##Skyreach Ridge
+##Rays of Ashen Light
 
-- [N] Dispel Mote (100%)
-- [N] Reflectga Mote (100%)
+- Chocobo
 
 ##Babbling Vale
 
@@ -2142,11 +2166,15 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - Chronos Tear Pack
     - 1x Eye of the Hawk (done)
 
+##Skyreach Ridge
+
+- [N] Dispel Mote (100%)
+- [N] Reflectga Mote (100%)
+
 ##Empyrean Seat
 
 - Exodus (Shear, Opal Ring)
     - Basch
-- 3x total Moon Ring (10% monograph from Ash Wyrm)
 
 #Phon Coast
 
@@ -2349,7 +2377,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - Burning Fangs, Survival Set, Soul of the Fire-bird, War Axe, Warped Blade, Forked Spear 
     - 4x Pointed Horn (done)
     - 8x Blood-darkened Bone (done)
-    - 3x Book of Orgain (9 more)
+    - 3x Book of Orgain (8 more)
     - 6x Bundle of Feathers (done)
     - 6x Demon Feather (done)
     - 6x Fire Magicite (done)
@@ -3074,6 +3102,7 @@ Maps:
 
 ![](https://i.imgur.com/5cw8lmg.png)
 
+- 3x total Moon Ring (10% monograph from Ash Wyrm)
 - L1
 - [21] Ring of Renewal (100%)
 - [22] Meteorite D (5%, 4.5%)
