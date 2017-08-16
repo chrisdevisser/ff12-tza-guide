@@ -231,9 +231,9 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - Thextera
 - Notice board 40x
 - Blindna, Cure, Fire: 580 gil
-- Magick shop 25x
-- Armour shop 15x
-- Weapon shop 30x
+- Magick shop x25
+- Armour shop x15
+- Weapon shop x30
 - Any shop 100x
 - Unassuming Surcoat, Tail of the Phoenix, Potion Pack
     - 2x Cactus Fruit (done)
@@ -250,12 +250,14 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 - 2x Drab Wool (40% at L0 from Giza Rabbit)
 - 9x Water Stone (55% steal or 25% at L0 from Giza Rabbit)
+- 9x Fire Stone (55% steal or 40% at L0 from Hyena)
 
 ##[W] Toam Hills
 
 - [SE] Blind (100%)
 - 8x Snake Skin (55% steal or 40% at L0 from Wildsnake)
-- 9 Wildsnake kills for bestiary
+- 9x Wildsnake
+- 3x Large Feather (40% at L0 from Urstix)
 
 ##[S] Starfall Field
 
@@ -263,7 +265,8 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 ##Nomad Village
 
-- Antidote Set
+- First-aid Kit, Antidote Set
+    - 3x Large Feather (done)
     - 2x Drab Wool (done)
 
 #Westersand
@@ -271,26 +274,6 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 ##Galtea Downs
 
 - Thextera
-- Kill 20 Wolves
-
-##Shimmering Horizons
-
-- Steal Gladius* from Lindbur Wolf (3%)
-- [S] Leather Shield\* (60%, 30%)
-
-##Shimmering Horizons
-
-- [SW] Orrachea Armlet (100%)
-
-##Windtrace Dunes
-
-- [NW] Diamond Armlet\* (25%)
-
-##The Midfault
-
-![](https://i.imgur.com/fdkTREM.png)
-
-- [10] Leather Armor\* (65%, 30%)
 
 #Rabanastre
 
@@ -350,12 +333,32 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 - Blizzard: 240 gil
 - Dantro's wife x2
-- 5x Semclam Shell from 1S
+- 5x Semclam Shell from here and 1S
 - Dantro's wife
 - Dantro
 - 2x Nebralim in outpost
-- Dantro
 - Dantro's wife
+    - 1/1 Bundle of Needles
+
+#Westersand
+
+##Shimmering Horizons
+
+- [SW] Orrachea Armlet (100%)
+
+##Windtrace Dunes
+
+- [NW] Diamond Armlet\* (25%)
+
+##The Midfault
+
+![](https://i.imgur.com/fdkTREM.png)
+
+- [10] Leather Armor\* (65%, 30%)
+
+##Shimmering Horizons
+
+- [S] Leather Shield\* (60%, 30%)
 
 #Garamsythe Waterway
 
@@ -375,9 +378,8 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 #Garamsythe Waterway
 
-- Balthier: Machinist
+- Balthier: Red Battlemage
 - Fran: White Mage
-- Ghost easier to kill now for bestiary
 - Leather Helm\* (3% steal from Gigantoad)
 - 2x Horn (55% steal or 25% at L0 from Gigantoad)
 - 6x Bat Fang (55% steal from Steeling)
@@ -393,8 +395,14 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 ##Southern Sluiceway
 
+- 10% Caramel steal
 - [E] Hi-Potion (100%)
 - [W] Phoenix Down (100%)
+
+##West Sluice Control
+
+- 6x Ghost (clones count)
+- Garchimacera bestiary
 
 ##No. 10 Channel
 
@@ -406,14 +414,17 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 #Barheim Passage
 
+##The Lightworks
+
+- [NE] 2510 gil (100%)
 - Silver Bow\*, Magick Curch\*: 920 gil
+- Poisona, Vox: 510 gil
 
 ##Op Sector 29
 
 ![](https://i.imgur.com/D9qUbwY.png)
 
 - 3x Bomb Ashes (40% at L0 or 10% steal from Bomb)
-- 9x Fire Stone (55% steal or 25% at L0 from Bomb)
 - Kilimweave Shirt\* (3% steal from Zombie (female), power drained)
 - [4] Pointy Hat (75%, 30%)
 
@@ -437,6 +448,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 ![](https://i.imgur.com/B0KD6U2.png)
 
+- Bronze Chestplate\* (3% steal from Skeleton)
 - [20] Oak Staff\* (80%, 35%)
 - [24] Mage Masher\* (85%, 37.5%)
 
@@ -461,6 +473,17 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 ##Banks of the Nebra
 
 - 2x Fish Scale (55% steal or 40% at L0 from Ichthon)
+
+#Westersand
+
+##Galtea Downs
+
+- Kill 20-22 Wolves
+
+##Shimmering Horizons
+
+- Steal Gladius* from Lindbur Wolf (3%)
+- [S] Leather Shield\* (60%, 30%)
 
 #Skyferry (To Nalbina)
 
@@ -490,7 +513,6 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 #Rabanastre
 
-- Poisona, Vox: 510 gil
 - Wraith, Cluckatrice, Rocktoise
 - Ktjn (ashamed)
 - Basch: Shikari
@@ -534,8 +556,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - [N] Onion Bombs\* (75%, 30%)
 - [S] Topkapi Hat\* (75%, 30%)
 - (R) Aerieel (20% chance)
-    - 1x Bat Wing (55% steal)
-- Aevis Killer (3% at L0 from Slaven)
+    - 1x Bat Wing (3% steal)
 
 ##Transitway 1
 
@@ -545,7 +566,6 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 - 5x Bone Fragment (55% at L3 or 55% steal from Skeleton)
 - 5x Dark Stone (40% at L3 from Skeleton)
-- Bronze Chestplate\* (3% steal from Skeleton)
 - Iron Helm\* (5% at L3 from Skeleton)
 - Get lots of LP and gil (every monograph ASAP) to do optional stuff earlier
     - Sell extra loot from Skeleton farming
@@ -554,10 +574,13 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 ![](https://i.imgur.com/jRYIR6G.png)
 
+There's a bug where the chests and traps in this area don't respawn after the Ba'Gamnan chase triggers. Get everything except the Battle Bamboo and then save. For the Battle Bamboo, get the chest during the Ba'Gamnan fight and reload the autosave if you don't get it.
+
 - [16] Steel Gorget\* (70%, 35%)
 - [17] Serpent Rod (70%, 35%)
 - [20] Assassin's Dagger\* (80%, 35%)
 - [22] Battle Bamboo\* (70%, 35%)
+- Aevis Killer (3% at L0 from Slaven, only spawns after Ba'Gamnan)
 
 #Bhujerba
 
@@ -570,7 +593,6 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - Warmage's Monograph: 20000 gil
 - Knight's Monograph: 19000 gil
 - Raise, Aqua, Disable: 3200 gil
-- Poach: 5000 gil
 - Nidhogg
 - Rocktoise
 
@@ -599,13 +621,20 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 ![](https://i.imgur.com/XM8m7PV.png)
 
+- [5] Reflectga Mote (100%)
+- [6] Reflectga Mote (100%)
 - [9] Ringmail\* (80%, 37.5%)
 - [10] Shepherd's Bolero\* (80%, 37.5%)
 
 ##Brig No. 1
 
 - Ashe: Knight
-- Tourmaline Ring: 300 gil
+
+##Sub-control Room
+
+- [SE] Vega (80%, 30%)
+- [W] Infuse (100%)
+- [W] Zwill Blade\* (75%, 32.5%)
 
 ##Starboard Section
 
@@ -614,22 +643,12 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - [11] Sleep (100%)
 - [12] Iron Armor\* (75%, 30%)
 
-##Sub-control Room
-
-- [SE] Vega (80%, 30%)
-- [W] Infuse (100%)
-- [W] Zwill Blade\* (75%, 32.5%)
-
-#Bhujerba
-
-- Ondore first
-- Cura, Aero: 3200 gil
-
 #Westersand
 
 - 3x Black Belt: 1800 gil
-- 3x Rose Corsage: 2400 gil
-- Slow: 200 gil
+- 2x Rose Corsage: 2400 gil
+- Slow, Cura, Aero: 3400 gil
+- Poach: 5000 gil
 
 - [The Midfault] (R) Fideliant (20% chance per entry)
 
@@ -654,14 +673,12 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - [1] Bhuj\* (75%, 25%)
 - [3] Wizard's Staff\* (75%, 25%)
 
-
-
 ##Platform 1 - Refinery
 
 ![](https://i.imgur.com/jMGh7wG.png)
 
 - (R) Pineapple (20% chance)
-    - 25% Storm Staff at L0
+    - 25% Storm Staff\* at L0
 - [5] Ancient Sword\* (75%, 32.5%)
 - [11] Windbreaker\* (75%, 32.5%)
 - [12] Golden Amulet (100%)
@@ -694,7 +711,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 - Chain Urutan-Yensa
 
-##[W] Primary Tank Complex
+##[NW] Primary Tank Complex
 
 ![](https://i.imgur.com/emFJ5ur.png)
 
@@ -704,13 +721,14 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - [29] Wizard's Robes\* (75%, 40%)
 - [32] Linen Cuirass\* (75%, 40%)
 
-##[W] Platform 2 - Refinery
+##[SW] Platform 2 - Refinery
 
 ![](https://i.imgur.com/ZzAnbfD.png)
 
 - [44] Golden Shield (75%, 37.5%)
 - [46] Leather Gorget\* (75%, 37.5%)
 - (R) Urutan Exile (100 Urutan-Yensa kills, Unknown% chance, 18% Magoroku at L3)
+    - To respawn, stay in Ogir-Yensa and keep zoning two areas and back while killing more
 
 ##Platform 1 - South Tanks
 
@@ -720,7 +738,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 #Nam-Yensa Sandsea
 
-- Eskir Berries
+- Eksir Berries
 
 ##The Urutan-Yensa Sea
 
@@ -738,7 +756,6 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 ![](https://i.imgur.com/Hs21H45.png)
 
 - Wyvern (no wind)
-- 3x Large Feather (95% poach or 55% steal or 25% at L0 from Bagoly)
 - 3x Bent Staff (15% monograph or 40% at L0 from Bagoly)
 - [44] Lohengrin\* (75%, 35%)
 - [45] Embroidered Tippet (100%)
@@ -746,15 +763,15 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - [47] Soldier's Cap (75%, 35%)
 - [48] Chanter's Djellaba (75%, 35%) optional
 - [50] Lambent Hat (75%, 35%)
+- [52] 2918 gil (100%)
 
 ##Trail of Fading Warmth
 
 - 3x Nishijin Belt: 2400 gil
-- First-aid Kit, Tinctures & Tonics, Wooden Pole, Large Gloves 
+- Tinctures & Tonics, Wooden Pole, Large Gloves 
     - 3x Bent Staff (done)
     - 5x Bone Fragment (done)
     - 4x Earth Stone (1 more)
-    - 3x Large Feather (done)
     - 4x Succulent Fruit (done) 
 
 - Garuda (dark)
@@ -767,13 +784,13 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - Demon Wall 2
 - Jewel
 - [Royal Passage] Scathe Mote (100%)
+- Broadaxe\* (5% at L3 from Tallow)
 
 ##Royal Passage
 
-- [Centre] (R) Barmuu (chain 12 seekers, 55% Lamia's Tiara steal)
+- [Centre] (R) Barmuu (chain 12 seekers, 3% Lamia's Tiara steal)
 - [NE] Dispel (100%)
 - [SE] Vanish (100%)
-- Broadaxe (5% at L3 from Tallow)
 
 ##Northfall Passage
 
@@ -787,6 +804,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 ![](https://i.imgur.com/xTjL3fv.png)
 
+- [12] Hastega Mote (100%)
 - [18] Lambent Hat\* (80%, 35%)
 - [19] Heavy Coat\* (75%, 35%)
 - 2x Broken Spear (15% monograph from Skull Warrior)
@@ -794,6 +812,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 ##Cloister of Flame
 
+- [NE] Phoenix Down (100%)
 - [SW] Blood Sword\* (100%)
 - [Boss] Shades of Black (100%)
 - [Boss] Elixir (100%)
@@ -803,7 +822,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 #Second Jobs
 
 - Vaan: Foebreaker
-- Balthier: Red Battlemage
+- Balthier: Machinist
 - Fran: Time Battlemage
 - Basch: Bushi
 - Ashe: Archer
@@ -813,11 +832,13 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 - Wyvern
 - Enkelados, Croakadile, White Mousse, Ring Wyrm, Marilith
-- Orthros, Gil Snapper
+- Gil Snapper
     - 1/2 Electrum
 - Ktjn (never)
 
 #Zertinan Caverns
+
+- If difficult, can be postponed until after armour from Mosphoran Highwaste, but Thief's Cuffs from one of the two are desired before continuing
 
 ##Invitation to Heresy
 
@@ -834,13 +855,11 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 #Ogir-Yensa Sandsea
 
-##[NW] East Junction
+##Central Junction
 
 ![](https://i.imgur.com/iZQbb31.png)
 
-- [17] Barbut\* (70%, 35%)
-- [23] Healing Rod\* (75%, 42.5%)
-- E
+- NE
 
 #Zertinan Caverns
 
@@ -848,17 +867,20 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 #Ogir-Yensa Sandsea
 
-- [Central Junction] NE
+##East Junction
+
+![](https://i.imgur.com/iZQbb31.png)
+
+- [17] Barbut\* (70%, 35%)
+- [23] Healing Rod\* (75%, 42.5%)
+- NE
 
 #Zertinan Caverns
-
-##[E] Sandfalls
-
-- Diamond Armlet (100%)
 
 ##[W-SE] Sandfalls
 
 - Rocks
+- Diamond Armlet (100%)
 
 ##The Undershore
 
@@ -899,7 +921,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - Marilith, Ring Wyrm
     - 1/4 Serpent Eye
     - 1/3 Moon Ring
-- Montblanc
+- Orthros
 - Oil (clan): 800 gil
 - Rain of Tears
     - 1x Yensa Scale (done)
@@ -914,7 +936,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 #Rabanastre
 
-- Sorbet x2 (White Mousse, key)
+- White Mousse
 
 #Bhujerba
 
@@ -949,10 +971,15 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - Steel Polyens\* (6% steal from Worgen or Alpha Worgen)
 - 18x Fire Magicite (80% steal or 40% at L0 from Worgen)
 - 6x Quality Pelt (95% poach from Worgen)
-- 1x Throat Wolf Blood (10% monograph from Alpha Worgen or 5% poach from Worgen)
+- 1x Throat Wolf Blood (10% monograph or 5% poach from Worgen)
 - (R) Wary Wolf (7% per Worgen, 25% Power Armlet\* drop)
 - [8] Golden Staff\* (75%, 30%)
 - [11] Kiku-ichimonji\* (75%, 30%)
+- 2x Fire Elemental
+
+##Empyrean Way
+
+- Seeq bestiary
 
 ##[NE] Rays of Ashen Light
 
@@ -966,7 +993,6 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
     - 1x Throat Wolf Blood (done)
 - Map: 2400 gil
 - [NW] Thief's Cuffs\* (100%)
-- [W] 6636 gil (100%)
 
 ##Trail of Sky-flung Stone
 
@@ -1024,7 +1050,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 ##Corridor of Ages
 
-- (R) Wood Toad (20% per entry)
+- (R) Wood Toad (20% per entry, initially invisible)
 
 #Nabreus Deadlands
 
@@ -1048,16 +1074,11 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - Dran?
 - Tchigri
 
-##North Bank Village
-
-- Map: 2400 gil
-
 ##The Yoma
 
 ![](https://i.imgur.com/Oe3E0sM.png)
 
 - 5x Giant Feather (95% poach or 80% steal from Dive Talon)
-- 1x Bundle of Needles (6% steal or 5% monograph from Cactoid)
 - 2x Tyrant Bone (12% monograph from Wild Saurian)
 - [46] Demonsbane\* (75%, 32.5%)
 - [49] Bone Helm\* (75%, 32.5%)
@@ -1068,6 +1089,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 ![](https://i.imgur.com/CsRHNu4.png)
 
+- 2x Bangaa
 - 9x Tanned Giantskin (95% poach or 80% steal or 40% at L0 from Slaven Wilder)
 - 3x Valeblossom Dew
 - [59] Black Cowl (80%, 32.5%)
@@ -1123,6 +1145,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 ##Drybeam Cavern
 
 - 15x Sky Jewel (95% poach or 40% at L0 from Bogey)
+- 2x Death Powder (5% poach from Bogey)
 - 2x Battlewyrm Carapace (40% at L0 from Skulwyrm)
 - 9x Charger Barding (30% steal from Skulwyrm)
 - 3x Wyrm Bone (10% monograph from Skulwyrm)
@@ -1145,7 +1168,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 - 4x Pointed Horn (95% poach from Suriander)
 - Horned Hat\* (1% at L0 from Suriander)
-- [40] Throned Mace\* (90%, 25%)
+- [40] Thorned Mace\* (90%, 25%)
 - [41] Enchanter's Habit (90%, 25%)
 - [42] Diamond Shield (90%, 25%)
 - [43] Headband (90%, 25%)
@@ -1187,7 +1210,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 - [SE] Cameo Belt\* (25%)
 
-##Challenge
+##Terminus No. 7
 
 - Zalera (minions first, only healing magic, L2 Sleep, L3 Disable, L4 Break, L5 Reverse, LPrime Death)
     - Fran
@@ -1250,6 +1273,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 ##[W] Warrior's Wash
 
 - (R) Rain Dancer (20% per entry)
+- 2x Storm Elemental (rain)
 
 ##Toam Hills
 
@@ -1267,7 +1291,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 ##Gizas South Bank
 
-- [NW] Golden Helm (80%, 30%)
+- [NW peninsula] Golden Helm (80%, 30%)
 
 ##Tracks of the Beast
 
@@ -1294,17 +1318,9 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 - Maps: 1730 gil
 - Stona, Fira: 3500 gil
-- Flame Staff: 2250 gil
 - High-chief Zayalu
 - [W] Pheasant Netsuke (100%)
 - Enkelados
-
-#Giza Plains
-
-- Weather rotation started
-- 1h Rains then 2h Dry (game time)
-- Write down current time to plan for weather
-- Coming back when Dry
 
 #Ozmone Plain
 
@@ -1331,12 +1347,34 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - 2x Braid Wool (40% at L0 from Ozmone Hare or Bull Croc)
 - 3x Water Magicite (80% steal or 25% at L0 from Ozmone Hare)
 
+#Giza Plains
+
+- Weather rotation started
+- 1h Rains then 2h Dry (game time)
+- Write down current time to plan for weather
+
+When Dry:
+
+- Lesina
+- Elder
+- Nanau (Gil Snapper)
+    - 1/1 Phobo's Glaze
+- Come back when Rains (3h after initial rotation)
+
+When Rains:
+
+- Sadeen
+
 ##The Shred
 
 - Enkelados (wind)
 - (R) Bull Croc (20% when everything killed)
 - (R) Aeros (kill Bull Croc)
-    - 2x Wyvern Wing (6% steal, leave Ozmone Plain between)
+    - 2x Wyvern Wing (6% steal, zone two areas without killing)
+
+##The Greensnake
+
+- 2x Garif
 
 #Golmore Jungle
 
@@ -1369,6 +1407,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 #Jahara
 
 - Judge Hausen
+- Enkelados
 
 #Rabanastre
 
@@ -1377,14 +1416,9 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - [Yamoora's Gambits] Viera
 - Montblanc
 - [Sandsea] Viera
-- [Southern Plaza] Viera
-
-#Barheim Passage
-
-- Zalera (minions first, only healing magic, L2 Sleep, L3 Disable, L4 Break, L5 Reverse, LPrime Death)
-    - Basch
-- [W] Reverse Mote (100%)
-- [W] Elixir (100%)
+- [Southern Plaza] Lovestruck Man
+- [Sandsea] Viera
+- [Southern Plaza] Lovestruck Man
 
 #Garamsythe Waterway
 
@@ -1394,7 +1428,8 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 ##No. 3 Cloaca Spur
 
-- 13x Book of Orgain (25% at L0 from Gespent)
+- 13x Book of Orgain (25% at L0 from Gespenst)
+    - Or chain Dustia
 - [S] Jade Collar (100%)
 - Close gate
 
@@ -1429,6 +1464,10 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - 2/3 Putrid Liquid (10% monograph from Malboro Overking)
 - [W] Hornito\* (100%)
 
+##West Sluice Control
+
+- 2x Water Elemental
+
 ##Central Waterway Control
 
 - Open 3 and 10
@@ -1436,7 +1475,6 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 ##No. 11 Channel
 
-- 3x Broken Sword (10% monograph from Baritine Croc)
 - [E] Gilt Measure\* (100%)
 
 ##Central Waterway Control
@@ -1448,14 +1486,6 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - Close 3
 - Open 4
 - Dull Fragment
-
-#Giza Plains
-
-- Lesina
-- Elder
-- Nanau (Gil Snapper)
-    - 1/1 Phobo's Glaze
-- Come back when Rains (3h after initial rotation)
 
 #Ozmone Plain
 
@@ -1478,15 +1508,17 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 - 2x Tyrant Hide (95% poach from Tyranorox)
 - [S] Flame Shield\* (75%, 30%)
+- 6x Tyranorox
 
 #Rabanastre
 
 - Oil-Soaked Incendiaries
     - 3x Bomb Ashes (done)
-    - 2x Book of Orgain (12 more)
+    - 2x Book of Orgain (11 more)
     - 3x Fire Crystal (8 more)
 - Ixtab
 - Montblanc
+    - 1/3 High Arcana
 
 #Jahara
 
@@ -1506,7 +1538,6 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 #Rabanastre
 
 - Montblanc
-    - 1/3 High Arcana
 - Bubble (clan): 5000 gil
 - 3x Steel Polyens: 3000 gil
 
@@ -1518,6 +1549,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - 2x Death's-Head (10% monograph from Dark Skeleton)
 - 5x Sturdy Bone (95% poach or 80% steal or 25% at L0 from Dark Skeleton)
 - (R) Grave Lord (40% Diamond Helm\* at L3)
+- 6x Diresaur
 
 #Feywood
 
@@ -1527,23 +1559,27 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 ##Walk of Stolen Truths
 
+- 8x Earth Crystal (25% at L0 from Golem)
+- 4x Quality Lumber (95% poach or 80% steal or 40% at L0 from Golem)
+- (R) Crypt Bunny (kill 6+ cerberus and all Tartarus, 20% chance)
+- 2x Holy Elemental
+
+##Walk of Dancing Shadow
+
 - Mirror Mail\* (12% at L3 from Mirror Knight)
 - 2x Mirror Scale (10% monograph from Mirrorknight)
 - 23x Wind Crystal (80% steal or 25% at L0 from Mirrorknight)
 - 5x Windslicer Pinion (95% poach or 40% at L0 from Mirrorknight)
-- 8x Earth Crystal (25% at L0 from Golem)
-- 4x Quality Lumber (95% poach or 80% steal or 40% at L0 from Golem)
-- (R) Crypt Bunny (kill 6+ cerberus)
-
-##Antiquity's End
-
-- Embroidered Tippet\* (25%)
 
 #Henne Mines
 
 - 2/3 Vampyr Fang (15% monograph from Abysteel)
 - Sage's Ring (25%)
 - Aeroga Mote (100%)
+
+##Antiquity's End
+
+- Embroidered Tippet\* (25%)
 
 #Golmore Jungle
 
@@ -1601,7 +1637,6 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - Maps: 3215 gil
 - 2x Bowline Sash: 2000 gil
 - Blizzara, Berserk, Darkra, Curaga: 10100 gil
-- Sorcerer's Hat\*: 4000 gil
 - Iron-forged Pole, Eye Drop Set, Arrows Alight, Smelling Salts & C., Burning Blade, Golden Garb
     - 3x Coeurl Pelt (4 more)
     - 2x Crooked Fang (4 more)
@@ -1625,7 +1660,6 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - Ktjn (good)
 - Feral Retriever
 - Trickster, Antlion
-- Sadeen in Giza if Rains
 
 #Skyferry (to Bhujerba)
 
@@ -1667,6 +1701,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 - Wait for Monid scene
 - Trickster (changes weakness, sleep, silence, blind)
+- 2x Ice Elemental
 
 ##Karydine Glacier
 
@@ -1674,6 +1709,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 - 7x Fine Wool (95% poach or 40% at L0 from Baritine Croc)
 - 6x Wind Magicite (80% steal or 25% at L0 from Baritine Croc)
+- 3x Broken Sword (10% monograph from Baritine Croc)
 - [39] Power Rod\* (75%, 25%)
 - [40] Six-fluted Pole\* (75%, 25%)
 - [42] Betelgeuse\* (75%, 30%)
@@ -1681,7 +1717,12 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - [47] Death (100%)
 - [48] Ice Shield (75%, 30%)
 - (R) Anchag (kill everything)
-    - 4x Damascus Steel (6% or 80% steal)
+    - 4x Damascus Steel (6% steal)
+
+##Silverflow's End (Dead End)
+
+- 2/3 Gemini Gem (30% steal from Slaven Warder)
+- 2x Slaven Harness (24% monograph from Slaven Warder)
 
 ##Spine of the Icewyrm
 
@@ -1693,9 +1734,6 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 ![](https://i.imgur.com/8Oe0Fp6.png)
 
-- 2/3 Gemini Gem (30% steal from Slaven Warder)
-- 2x Slaven Harness (24% monograph from Slaven Warder)
-- 2x Wyrm Carapace (95% poach or 30% steal or 40% at L0 from Emperor Aevis)
 - [28] Sledgehammer\* (80%, 20%)
 - [31] Glacial Staff\* (75%, 20%)
 
@@ -1710,12 +1748,14 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 ##Walk of Mind
 
 - Ice Shield (100%)
-- Sadeen in Giza Plains if Rains
 - Note the game time and add 30 minutes for Negalmuur
 
 ##Ward of Velitation
 
-- Goggle Mask\* (5% at L3)
+- 7x Dragon Aevis
+- 2x Wyrm Carapace (95% poach or 40% at L0 from Dragon Aevis)
+- Goggle Mask\* (5% at L3 from Dragon Aevis)
+    - Easier when sides are open
 - [W] Countdown (100%)
 - [NE] ~65000 gil (5%, 5%)
 - [SE] Megalixir (10%, 2.5%)
@@ -1748,7 +1788,8 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 - (R) Negalmuur (after 30 minutes)
 - 3x Grimoire Togail (95% poach or 30% steal from Darkmare)
-- After Negalmuur, quit and load save to respawn Darkmare for bestiary
+- 8x Darkmare
+    - After Negalmuur, quit and load save to respawn or zone before XP/LP displayed
 - Wear Steel Polyens before entering hidden passage
 
 ##[Hidden] Cold Distance
@@ -1769,6 +1810,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
     - 1/1 Deimos Clay
 - Bio: 4000 gil
 - 2x Fuzzy Miter: 2400 gil
+- Sorcerer's Hat\*: 4000 gil
 - Sipping Wine, Alluring Finery, Monk's Garb, Burnished Protectives, Mysterious Substance, Ninja Footgear, Morbid Urn
     - 1x Bat Wing (done)
     - 4x Coeurl Pelt (done)
@@ -1865,10 +1907,6 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 - Atomos
 
-#Nalbina
-
-- Jovy
-
 #Estersand
 
 - Bloodwing
@@ -1920,7 +1958,9 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - [S] Elixir (100%)
 - [N] 4416 gil (100%)
 - [W] Serum (100%)
-- (R) Velelu (HP < 20%, 40% Save the Queen at L3, 7% Durandal\* at L3)
+- (R) Velelu (HP < 20%, 7% Durandal\* at L3)
+    - Use Dustia trick to respawn without leaving Deadlands
+    - After spending half the night killing this for a Durandal, I'm convinced it doesn't drop Save the Queen in TZA
 
 ##Overlooking Eternity
 
@@ -1966,6 +2006,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - [8] Giant's Helmet (30%, 35%)
 - [9] Orichalcum Dirk\* (30%, 35%)
 - [12] Faith (100%)
+- 2x Dark Elemental
 
 ##Cloister of the Highborn
 
@@ -2037,6 +2078,8 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 #Nalbina
 
+- Atomos
+- Jovy
 - Roblon
     - 3/3 Mythril
 - Jovy
@@ -2070,7 +2113,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 - 2/3 Libra Gem (30% steal from Silver Lobo)
 - 2x Frogspawn (30% monograph from Iguion)
-- [SE] (R) Apsara (kill 10 Piranha, 6% or 80% Empyrean Rod\* steal)
+- [SE] (R) Apsara (kill 10 Piranha, 6% Empyrean Rod\* steal)
 
 ##Cape Tialan
 
@@ -2093,6 +2136,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 ##Hunters' Camp
 
+- Map: 1800 gil
 - Confuse, Firaga: 8200 gil
 - Hawker
 - Small Key
@@ -2105,11 +2149,11 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - Va'Kansa
 - Learned Man
 - Northeast Wind
-- South Wind
+- East Wind
+- Southeast Wind
 
 ##Rays of Ashen Light
 
-- Chocobo
 - [W] Stamp (100%)
 - [W] Blood Sword (80%)
 
@@ -2118,13 +2162,13 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - 1x Eye of the Hawk (10% monograph from Vulture)
 - (R) Grey Molter (game time :10 to :20)
 
-##Skyreach Ridge
+##Rays of Ashen Light
 
-- [N] Dispel Mote (100%)
-- [N] Reflectga Mote (100%)
+- Chocobo
 
 ##Babbling Vale
 
+- [W] 6636 gil (100%)
 - Rock
 - Turtleshell Choker (100%)
 - West Wind
@@ -2132,18 +2176,22 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - Chronos Tear Pack
     - 1x Eye of the Hawk (done)
 
+##Skyreach Ridge
+
+- [N] Dispel Mote (100%)
+- [N] Reflectga Mote (100%)
+
 ##Empyrean Seat
 
 - Exodus (Shear, Opal Ring)
     - Basch
-- 3x total Moon Ring (10% monograph from Ash Wyrm)
 
 #Phon Coast
 
 ##The Vaddu Strand
 
 - 16x 100% treasures
-    - Warhammer\*
+    - War Hammer\*
     - Round Shield\*
     - Soldier's Cap\*
     - Pointy Hat\*
@@ -2161,20 +2209,24 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 ![](https://i.imgur.com/Fni59pb.png)
 
+- 7x Archaeosaur
 - [90] Francisca (70%, 25%)
 - [94] Judicer's Staff\* (70%, 25%)
 
 #Tchita Uplands
 
+- Seeq bestiary
+
 ##Oliphzak Rise
 
 - [SE] Float (100%)
+- 7x Feral Croc
 - 2x Antarctic Wind (8% monograph from Feral Croc)
 - 9x Blood Wool (80% steal or 40% at L0 or 95% Poach from Feral Croc)
 
 ##Garden of Life's Circle
 
-- (R) Tarasque (chain 22 Serpents, 6% or 80% Hunting Crossbow steal)
+- (R) Tarasque (chain 22 Serpents, 6% Hunting Crossbow steal)
 
 ##The Chosen Path
 
@@ -2192,6 +2244,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 - Equip the Diamond Armlet for all treasure in this area
 - All unlisted treasures are obtained much easier elsewhere
+- Bangaa bestiary
 
 ##Old Elanise Road
 
@@ -2201,7 +2254,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - 4x Ring Wyrm Scale (95% poach or 80% steal or 40% at L0 from Shield Wyrm)
 - 2x Split Armor (8% monograph from Charybterix)
 - [101] Telekinesis (100%)
-- [!!] Equip Seitengrat here
+- [!!] Equip Seitengrat, re-enter area, and come here for easter egg
 
 ##Crossfield
 
@@ -2274,13 +2327,11 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 ##Hall of Lambent Darkness
 
 - Vegetables (fire, wind, water)
-    - TODO: Can you run away and steal again?
     - 1/2 Four-leaf Clover (30% steal from Mandragora Prince)
     - 1/2 Gimble Stalk (30% steal from Alraune King)
     - 1x Jack-o'-Lantern (30% steal from Pumpkin Star)
-    - 1/3 Onion (30% steal from Onion Queen) TODO: Wiki says no steals
+    - 1/3 Onion (30% steal from Onion Queen)
     - 1/2 Tomato Stalk (30% steal from Topstalk)
-    - 7x Screamroot (95% poach and 25%+ at L0 from all)
 
 #Tchita Uplands
 
@@ -2317,7 +2368,6 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 ##Hall of Shadowlight
 
-- 2x Death Powder (30% steal from Ahriman and decoys)
 - 5x 100% treasures
 
 ##Temptation Eluded
@@ -2339,19 +2389,16 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - Burning Fangs, Survival Set, Soul of the Fire-bird, War Axe, Warped Blade, Forked Spear 
     - 4x Pointed Horn (done)
     - 8x Blood-darkened Bone (done)
-    - 3x Book of Orgain (9 more)
+    - 3x Book of Orgain (8 more)
     - 6x Bundle of Feathers (done)
     - 6x Demon Feather (done)
     - 6x Fire Magicite (done)
-    - 5x Iron Ore (done)
     - 1x Jack-o'-Lantern (done)
     - 5x Maggoty Flesh (done)
     - 4x Malboro Fruit (done)
     - 3x Putrid Liquid (done)
     - 4x Quality Lumber (done)
-    - 7x Screamroot (done)
     - 7x Storm Crystal (done)
-    - 10x Water Crystal (done)
     - 7x Wind Crystal (9 more)
     - 6x Wind Magicite (done)
 - July
@@ -2784,7 +2831,7 @@ Late-model Rifle
 #Garamsythe Waterway
 
 - [No. 10 Channel] (T) Gavial (15s in W basin)
-- North Spur Sluiceway (R) Razorfin (10% per Ichthon)
+- North Spur Sluiceway (R) Razorfin (10% per Ichthon) TODO: Move to Royal Palace visit
 
 #Giza Plains (Dry)
 
@@ -2821,7 +2868,7 @@ Late-model Rifle
 
 #Westersand
 
-- [Shimmering Horizons] (R) Lindbur Wolf (20 wolf kills)
+- [Shimmering Horizons] (R) Lindbur Wolf (20-22 wolf kills)
 - [Corridor of Sand E] (T) Kaiser Wolf (40% right after Lindbur)
 
 #Golmore Jungle
@@ -3064,6 +3111,7 @@ Maps:
 
 ![](https://i.imgur.com/5cw8lmg.png)
 
+- 3x total Moon Ring (10% monograph from Ash Wyrm)
 - L1
 - [21] Ring of Renewal (100%)
 - [22] Meteorite D (5%, 4.5%)
@@ -3290,16 +3338,20 @@ Maps:
     - 2/2 Gimble Stalk (10% monograph from Alraune King)
     - 3/3 Onion (15% monograph from Onion Queen)
     - 2/2 Tomato Stalk (18% monograph from Topstalk)
+    - 7x total Screamroot (95% poach and 25%+ at L0 from all)
 
 #Rabanastre
 
-- Shell-worked Collar, Brawler's Fetish, Blush of Light
+- Shell-worked Collar, Brawler's Fetish, Blush of Light, Potion Crate, Samurai's Katana, Water-drop Munitions
 	- 2x Bomb Shell (done)
 	- 2x Four-leaf Clover (done)
 	- 2x Gimble Stalk (done)
-	- 1x Magick Lamp (done)
-	- 1x Snowfly (done)
+    - 5x Iron Ore (done)
+    - 1x Magick Lamp (done)
+    - 7x Screamroot (done)
+    - 1x Snowfly (done)
     - 2x Tomato Stalk (done)
+    - 10x Water Crystal (done)
 - Behemoth King
 
 #Mt Bur-Omisace
