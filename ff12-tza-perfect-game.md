@@ -1137,6 +1137,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 ##Drybeam Cavern
 
 - 15x Sky Jewel (95% poach or 40% at L0 from Bogey)
+- 2x Death Powder (5% poach from Bogey)
 - 2x Battlewyrm Carapace (40% at L0 from Skulwyrm)
 - 9x Charger Barding (30% steal from Skulwyrm)
 - 3x Wyrm Bone (10% monograph from Skulwyrm)
@@ -2127,6 +2128,7 @@ When Rains:
 
 ##Hunters' Camp
 
+- Map: 1800 gil
 - Confuse, Firaga: 8200 gil
 - Hawker
 - Small Key
@@ -2181,7 +2183,7 @@ When Rains:
 ##The Vaddu Strand
 
 - 16x 100% treasures
-    - Warhammer\*
+    - War Hammer\*
     - Round Shield\*
     - Soldier's Cap\*
     - Pointy Hat\*
@@ -2199,20 +2201,24 @@ When Rains:
 
 ![](https://i.imgur.com/Fni59pb.png)
 
+- 7x Archaeosaur
 - [90] Francisca (70%, 25%)
 - [94] Judicer's Staff\* (70%, 25%)
 
 #Tchita Uplands
 
+- Seeq bestiary
+
 ##Oliphzak Rise
 
 - [SE] Float (100%)
+- 7x Feral Croc
 - 2x Antarctic Wind (8% monograph from Feral Croc)
 - 9x Blood Wool (80% steal or 40% at L0 or 95% Poach from Feral Croc)
 
 ##Garden of Life's Circle
 
-- (R) Tarasque (chain 22 Serpents, 6% or 80% Hunting Crossbow steal)
+- (R) Tarasque (chain 22 Serpents, 6% Hunting Crossbow steal)
 
 ##The Chosen Path
 
@@ -2230,6 +2236,7 @@ When Rains:
 
 - Equip the Diamond Armlet for all treasure in this area
 - All unlisted treasures are obtained much easier elsewhere
+- Bangaa bestiary
 
 ##Old Elanise Road
 
@@ -2239,7 +2246,7 @@ When Rains:
 - 4x Ring Wyrm Scale (95% poach or 80% steal or 40% at L0 from Shield Wyrm)
 - 2x Split Armor (8% monograph from Charybterix)
 - [101] Telekinesis (100%)
-- [!!] Equip Seitengrat here
+- [!!] Equip Seitengrat, re-enter area, and come here for easter egg
 
 ##Crossfield
 
@@ -2312,13 +2319,11 @@ When Rains:
 ##Hall of Lambent Darkness
 
 - Vegetables (fire, wind, water)
-    - TODO: Can you run away and steal again?
     - 1/2 Four-leaf Clover (30% steal from Mandragora Prince)
     - 1/2 Gimble Stalk (30% steal from Alraune King)
     - 1x Jack-o'-Lantern (30% steal from Pumpkin Star)
-    - 1/3 Onion (30% steal from Onion Queen) TODO: Wiki says no steals
+    - 1/3 Onion (30% steal from Onion Queen)
     - 1/2 Tomato Stalk (30% steal from Topstalk)
-    - 7x Screamroot (95% poach and 25%+ at L0 from all)
 
 #Tchita Uplands
 
@@ -2355,7 +2360,6 @@ When Rains:
 
 ##Hall of Shadowlight
 
-- 2x Death Powder (30% steal from Ahriman and decoys)
 - 5x 100% treasures
 
 ##Temptation Eluded
@@ -2381,15 +2385,12 @@ When Rains:
     - 6x Bundle of Feathers (done)
     - 6x Demon Feather (done)
     - 6x Fire Magicite (done)
-    - 5x Iron Ore (done)
     - 1x Jack-o'-Lantern (done)
     - 5x Maggoty Flesh (done)
     - 4x Malboro Fruit (done)
     - 3x Putrid Liquid (done)
     - 4x Quality Lumber (done)
-    - 7x Screamroot (done)
     - 7x Storm Crystal (done)
-    - 10x Water Crystal (done)
     - 7x Wind Crystal (9 more)
     - 6x Wind Magicite (done)
 - July
@@ -3329,16 +3330,20 @@ Maps:
     - 2/2 Gimble Stalk (10% monograph from Alraune King)
     - 3/3 Onion (15% monograph from Onion Queen)
     - 2/2 Tomato Stalk (18% monograph from Topstalk)
+    - 7x total Screamroot (95% poach and 25%+ at L0 from all)
 
 #Rabanastre
 
-- Shell-worked Collar, Brawler's Fetish, Blush of Light
+- Shell-worked Collar, Brawler's Fetish, Blush of Light, Potion Crate, Samurai's Katana, Water-drop Munitions
 	- 2x Bomb Shell (done)
 	- 2x Four-leaf Clover (done)
 	- 2x Gimble Stalk (done)
-	- 1x Magick Lamp (done)
-	- 1x Snowfly (done)
+    - 5x Iron Ore (done)
+    - 1x Magick Lamp (done)
+    - 7x Screamroot (done)
+    - 1x Snowfly (done)
     - 2x Tomato Stalk (done)
+    - 10x Water Crystal (done)
 - Behemoth King
 
 #Mt Bur-Omisace
