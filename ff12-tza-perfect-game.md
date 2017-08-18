@@ -183,7 +183,7 @@ Poach rates:
 
 - Every 6-10 enemies is a new chain level
 - Chain level starts at L0 and goes to L3
-- Picking up a piece of loot normally lowers your kill count by 1, meaning a longer chain until the next level
+- Picking up a piece of loot normally lowers your kill count by 1 (more at higher chain levels), meaning a longer chain until the next level
 - A flashing chain number means you can run around and grab all the loot for no penalty
 - Monograph drops are not affected by chain level
 
@@ -363,6 +363,10 @@ Poach rates:
 ![](https://i.imgur.com/Lp9qEIm.png)
 
 - [5] Broadsword\* (75%, 32.5%)
+
+##North Spur Sluiceway
+
+- (R) Razorfin (10% per Ichthon, 2-zone)
 
 #Royal Palace
 
@@ -602,6 +606,8 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - "I've done nothing"
 
 #Leviathan
+
+- Sallet\* (3% steal from Mastiff)
 
 ##Port Section
 
@@ -1231,7 +1237,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
     - 1x Tattered Garment (done)
 - Orthros
     - 1/1 Horakthy's Flame
-    - 1/4 Unpurified Ether
+    - 1/2 Unpurified Ether
 - Montblanc
     - 1/2 Mallet
 - [Westgate] Rimzat
@@ -1347,7 +1353,6 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 When Dry:
 
-- Lesina
 - Elder
 - Nanau (Gil Snapper)
     - 1/1 Phobo's Glaze
@@ -1478,6 +1483,10 @@ When Rains:
 - Close 3
 - Open 4
 - Dull Fragment
+
+##Northern Sluiceway
+
+- 3x Rat Tail (5% poach or 3% monograph from Dire Rat)
 
 #Ozmone Plain
 
@@ -1705,7 +1714,7 @@ When Rains:
 - [39] Power Rod\* (75%, 25%)
 - [40] Six-fluted Pole\* (75%, 25%)
 - [42] Betelgeuse\* (75%, 30%)
-- [46] Baltoro's Seed (1%)
+- [46] Baltoro Seed (1%)
 - [47] Death (100%)
 - [48] Ice Shield (75%, 30%)
 - (R) Anchag (kill everything)
@@ -2261,7 +2270,7 @@ When Rains:
 
 - 2/3 Leo Gem (30% steal from Lv.37-38 Bellwyvern)
 - 4x Spiral Incisor (95% poach or 80% steal or 40% at L0 from Lv.37-38 Bellwyvern)
-- [65] Baltoro's Seed (10%, 1%)
+- [65] Baltoro Seed (10%, 1%)
 - [69] Megalixir (20%, 1%)
 - (R) Etherian (kill everything, 6% Ame-no-Murakumo steal)
 
@@ -2376,9 +2385,9 @@ When Rains:
 
 #Archades
 
-- Maps: 3530 gil
+- [Bulward's Technicks] Maps: 3530 gil
 - Thundaga: 7000 gil
-- Burning Fangs, Survival Set, Soul of the Fire-bird, War Axe, Warped Blade, Forked Spear 
+- Burning Fangs, Survival Set, Soul of the Fire-bird, War Axe, Warped Blade, Forked Spear, Mystic Staff, Fire-bird's Whisper, Elegant Pole 
     - 4x Pointed Horn (done)
     - 8x Blood-darkened Bone (done)
     - 3x Book of Orgain (8 more)
@@ -2409,27 +2418,6 @@ When Rains:
 
 #Archades
 
-- TODO: Add locations of people
-
-##Rienna
-
-- Philosopher of Cuisine - Dangerous Chef
-- Greenseller - Vegetable Seller
-- Good Brother - Waiting Woman
-- Tour Leader - Bhujerban Lady
-- Lucky Man - Romantic Lady
-- Tarot Readed - Happy Novelist
-- Lazy Profiteer - Researcher's Wife
-
-##Trant
-
-- Smitten Man - Smitten Woman
-- Historian - Perceptive Man
-- Farce-Goer - Girl on an Errand
-- Music Appreciator - Lutenist
-- Boutiquere - Moneyed Gentleman
-- Builder - Artistan Architect
-
 ##Nilbasse
 
 - Darksteel
@@ -2437,25 +2425,43 @@ When Rains:
 - Chain-link Belt
     - 1x Adamantite (2 more)
     - 2x Battlewyrm Carapace (done)
-- Aspiring Starlet - Faded Star
-- Determined Researcher - Ex-Researcher
-- Worried Husband - Materialistic Woman
-- Senior Researcher - Failed Researcher
-- Athletic Woman - Avid Reader
-- Gentleman Onlooker - Eager Crier
+- Senior Researcher (shop) - Failed Researcher (centre)
+- Worried Husband (centre) - Materialistic Woman (W)
+- Athletic Woman (centre) - Avid Reader (running around shop)
+- Gentleman Onlooker (centre) - Eager Crier (E shop)
+- Aspiring Starlet (NE) - Faded Star (NE)
+- Determined Researcher (SE) - Ex-Researcher (centre)
 
+##Rienna
+
+- Philosopher of Cuisine (W) - Dangerous Chef (gambit shop)
+- Tarot Reader (E gambit shop) - Happy Novelist (E gambit shop)
+- Lazy Profiteer (SE) - Researcher's Wife (W)
+- Good Brother (SW) - Waiting Woman (SE)
+- Tour Leader (far SE) - Bhujerban Lady (SE)
+- Greenseller (far SE) - Vegetable Seller (SW)
+- Lucky Man (NE) - Romantic Lady (SE)
+
+##Trant
+
+- Historian (E) - Perceptive Man (SW)
+- Smitten Man (SW) - Smitten Woman (SE)
+- Builder (S) - Artistan Architect (SW)
+- Music Appreciator (N) - Lutenist (SW)
+- Boutiquere (NW) - Moneyed Gentleman (NE)
+- Farce-Goer (NW) - Girl on an Errand (SE)
 
 ##Molberry
 
-- Talented Woman - Akademician
-- Would-be Judge - Judge's Wife
-- Ardent Woman - Ardent Man
-- Look-alike - Look-alike
-- Proud Mother - Tutor
-- Avid Traveler - Traveling Gentleman
-- Reminiscing Lady - Family-minded Girl
-- Poor Husband - Poor Wife
-- Daughter-in-Law - Man from Giza
+- Avid Traveler (SE) - Traveling Gentleman (far NW)
+- Reminiscing Lady (far NW) - Family-minded Girl (S)
+- Poor Husband (SW/centre) - Poor Wife (SE)
+- Proud Mother (NE) - Tutor (NE)
+- Ardent Woman (magick shop) - Ardent Man (NW)
+- Daughter-in-Law (NW) - Man from Giza (NW)
+- Would-be Judge (NW) - Judge's Wife (centre)
+- Talented Woman (S/centre) - Akademician (NW)
+- Look-alike (NW) - Look-alike (magick shop)
 
 #Stilshrine of Miriam
 
@@ -2463,20 +2469,6 @@ When Rains:
     - Fran
 
 #Draklor
-
-- Sallet\* (6% steal from Mastiff)
-
-##67th Floor
-
-- [SW] Claymore (100%)
-
-##68th Floor - Room 6811 East
-
-- 2x total Unpurified Ether (10% monograph from Hecteyes)
-
-##68th Floor - Room 6814 East
-
-- 3x Rat Tail (5% poach or 3% monograph or 1% at L0 from Lab Rat)
 
 ##70th Floor
 
@@ -2489,12 +2481,6 @@ When Rains:
 
 #Balfonheim
 
-- Flask of Oily Liquid, Flask of Viscous Liquid
-    - 3x Caramel (done)
-    - 2x Foul Liquid (done)
-    - 1x Slime Oil (done)
-    - 2x Unpurified Ether (done)
-
 ##The Whitecap
 
 - Domaine Calvados (20%, 50%)
@@ -2506,7 +2492,7 @@ When Rains:
 
 ##E 'Port Villa'
 
-- Baltoro's Seed (5%, 0.25%) DA
+- Baltoro Seed (5%, 0.25%) DA
 
 ##Gallerina Marketplace
 
@@ -2532,6 +2518,7 @@ When Rains:
 
 ##Giza Plains (Dry)
 
+- Lesina
 - Terra
 
 ##Eruyt Village
@@ -2639,7 +2626,7 @@ When Rains:
 ##Uazcuff Hills
 
 - (T) Grimalkin (10% per Coeurl)
-    - 2x Coeurl Whisker (6% or 80% steal)
+    - 2x Coeurl Whisker (6% steal)
 
 ##The Highlands
 
@@ -2680,7 +2667,7 @@ When Rains:
 
 ##Hall of the Ivory Covenant
 
-- (T) Vorres (lure Dark Elemental to Door of Loathing)
+- (T) Vorres (lure Dark Elemental to Door of Loathing, spawns a bit NW)
     - 2x total Soul Powder (6% steal)
 - Door of Loathing
 - Fury (water, Power Armlet, slow, silence, dispel)
@@ -2722,12 +2709,12 @@ When Rains:
 
 - [Withering Shores] Benito (water)
 - [Yellow Sands SW] (T) Victanir (40% chance)
-    - 4x Wargod's Band (80% steal)
+    - 4x Wargod's Band (6% steal)
 
 #Ogir-Yensa Sandsea
 
 - [South Tank Approach SE] (T) Bull Chocobo (40% chance)
-- [Primary Tank Complex, Central Junction] 1x Salamand Halcyon (6% steal or 3% at L0 from Salamand Entite, clear weather)
+- [Primary Tank Complex, Central Junction] Salamand Entite bestiary (clear weather)
 
 #Lhusu Mines
 
@@ -2810,7 +2797,7 @@ When Rains:
 
 #Rabanastre
 
-Late-model Rifle
+- Late-model Rifle
     - 1x Salamand Halcyon (done)
     - 2x Wyvern Wing (done)
     - 2x Yensa Fin (done)
@@ -2823,11 +2810,11 @@ Late-model Rifle
 #Garamsythe Waterway
 
 - [No. 10 Channel] (T) Gavial (15s in W basin)
-- North Spur Sluiceway (R) Razorfin (10% per Ichthon) TODO: Move to Royal Palace visit
 
 #Giza Plains (Dry)
 
 - [Starfall Field SE] (T) Nazarnir (40%)
+- Werewolf bestiary
 
 #Estersand
 
@@ -2842,15 +2829,15 @@ Late-model Rifle
 - Red: [Mosphoran Highwaste/Babbling Vale] Quiet Shrine
 - Yellow: [Cerobi Steppe] Turn on windmills 1, 2, 5, 7, 9
 - [Barheim Passage/West Annex] N to small area
-
+    - [The Zeviah Span] (T) Ishteen (2% per 10s)
 ##Fishing
 
 - Ruksel
 - Downstream: 5x perfect
 - Midstream: 5x perfect
-- Upstream: 10% Cactoid Compact (for final fish, hit last button when light brightest)
+- Upstream: 10% Cactoid Compact (for perfect reward, hit last button when light brightest, account for input lag)
 - Hidden Shoals: 10% Cactoid Commendation (55% Adamantite)
-- Den of the River Lord: 9x perfect (50% Adamantite, 50% Scarletite)
+- Den of the River Lord: 9 lives (50% Adamantite, 50% Scarletite)
     - 1/1 Lu Shang's Badge
 
 #Cerobi Steppe
@@ -2903,7 +2890,7 @@ Late-model Rifle
 - Kill Cerberus until soon before :00 game time
 - Go back and chain Golems if want White Masks
 - (R) Juggernaut (:00 to :10 game time, 40% White Mask at L3)
-    - 2x Mystletainn (80% steal)
+    - 2x Mystletainn (6% steal)
 - 2x total Sickle-Blade (10% monograph from Preying Mantis)
 - [E] Dispelga (100%)
 - [SE] Golden Amulet (100%)
@@ -2924,7 +2911,7 @@ Late-model Rifle
 
 - 2x Broken Greataxe (30% steal or 15% monograph from Giruveganus)
 - [58] Defender (100%)
-- [60] Baltoro's Seed (5%, 2.5%)
+- [60] Baltoro Seed (5%, 2.5%)
 - [63] Reflectga (100%)
 - [66] Traitor's Bow\* (75%, 25%)
 
@@ -3038,6 +3025,7 @@ Maps:
     - Balthier
 - Hastega Mote (100%)
 - Reverse Mote (100%)
+- Don't forget Occuria before going back
 - Do not use Tellurian Way Stone
 
 #Great Crystal
@@ -3050,7 +3038,7 @@ Maps:
 
 - [7] Caldera (100%)
 - [8] Meteorite D (5%, 4.5%)
-- (T) Crystal Knight (start at XX, loop around SE back to XX, 6% or 80% Glimmering Robes\*\* steal)
+- (T) Crystal Knight (start at XX, loop around SE back to XX, 6% Glimmering Robes\*\* steal)
 - S1
 - XI
 
@@ -3086,24 +3074,25 @@ Maps:
 - [XIV] (R) Larva Eater (see below, holy, 18% Mina\* at L3)
     - [Leo] Make Necrophobe divide from low HP (kill if stubborn)
     - Kill original and new Necrophobe
-    - Repeat for 5+ total divisions
+    - Repeat for 5+ total divisions (45 kills total)
     - Kill every single Necrophobe
     - Zone between XIV and Leo until spawn (can be ~30+ times)
     - To respawn, go past L1 to dead end and then zone between XIV and Leo
     - Can get L3 from Gargoyle Baron and kill Necrophobe via poison/stone
+    - Could come back later with 3 Ribbons and get while doing Omega Mark XII
 - [17] Crown of Laurels (100%)
 - [18] Meteorite D (5%, 4.5%)
 - [19] Yagyu Darkblade\* (25%)
 - [20] Meteorite D (5%, 4.5%)
 - 3x Ambrosia (8% monograph from Necrophobe)
 - L2
+- 3x total Moon Ring (10% monograph from Ash Wyrm)
 - XV
 
 ##Uldobi
 
 ![](https://i.imgur.com/5cw8lmg.png)
 
-- 3x total Moon Ring (10% monograph from Ash Wyrm)
 - L1
 - [21] Ring of Renewal (100%)
 - [22] Meteorite D (5%, 4.5%)
@@ -3118,7 +3107,7 @@ Maps:
 
 - (R) Evil Spirit (5% per Forbidden, holy, 18% Vrsabha\* at L3, 40% Gungnir at L3)
     - Chain Necrophobe for L3
-    - 3x Lifewick (80% steal)
+    - 3x Lifewick (6% steal)
 - Ultima (dark, Ribbon, holy protection)
     - Vaan
 - [27] Excalibur\* (100%)
@@ -3169,7 +3158,7 @@ Maps:
 - Arise, Shock, Graviga: 21600 gil
 - Traveler, Horology, First Aid: 7400 gil
 - Gigas Gear, Befuddling Incendiaries, Nature's Armory, Golden Battle Axe, Magick Shard, X-Potion Pack 
-    - 1x Behemoth Steak
+    - 1x Behemoth Steak (done)
     - 4x Bomb Shell (2 more)
     - 3x Book of Orgain-Cent (8 more)
     - 2x Broken Greataxe (done)
@@ -3184,6 +3173,48 @@ Maps:
     - 7x Prime Tanned Hide (7 more)
     - 8x Sky Jewel (7 more)
 
+#Ridorana Cateract
+
+##Echoes from Time's Garden
+
+![](https://i.imgur.com/dikzPdo.png)
+
+- 2x Ketu Board (4% monograph from Cassie, also in other areas)
+- 7x Malboro Flower (95% poach or 80% steal from Cassie)
+- 6/7 Virgo Gem (30% steal from Cassie)
+- [2] Cleric's Robes\* (75%, 25%)
+- [8] Celebrant's Miter\* (75%, 25%)
+- (T) Abelisk (30% per entry, 6% Eight-fluted Pole\* steal)
+
+##Colosseum
+
+![](https://i.imgur.com/FhZuekB.png)
+
+- [13] Greataxe\* (75%, 25%)
+- [14] Holy Lance\* (75%, 25%)
+
+##City of Other Days
+
+- [SE] Pheasant Netsuke (100%)
+- [NE] Gillie Boots (100%)
+- (R) Pallicant (kill everything and rezone, 6% or 80% Gastrophetes\* steal)
+
+##Path of Hidden Blessing
+
+- [NE] Sweep\* (100%)
+
+#Pharos - First Ascent
+
+##They Who Thirst Not
+
+![](https://i.imgur.com/2FUdTbz.png)
+
+- Hydro (holy, 30% Corpse Fly steal)
+- [1] Berserker Braces (25%)
+- [2] Cura Mote (75%)
+- [3] Ruby Ring\* (100%)
+- [4] Bubble Mote (75%)
+
 #Necrohol of Nabudis
 
 - Esunaga: 12000 gil
@@ -3191,16 +3222,12 @@ Maps:
 #Barheim Passage
 
 - Scourge, Immobilize: 9000 gil
-- [East-West Bypass] (T) Ishteen (2% per 10s)
-
-#Rabanastre
-
-- Deathgaze, Diabolos, Piscodaemon, Wild Malboro, Catoblepas, Fafnir
 
 #Archades
 
 - Stop, Bleed, Vanishga, Gravity: 13100 gil
-- Deathgaze (back and forth to Nalbina)
+- Deathgaze, Diabolos, Piscodaemon, Wild Malboro, Catoblepas, Fafnir
+- Deathgaze (back and forth to Nalbina, talk to kid between each)
 
 #Skyferry
 
@@ -3352,13 +3379,10 @@ Maps:
 
 #Henne Mines
 
-##Pithead Junction A
-
-- 2x Yellow Liquid (95% poach or 30% steal or 25% at L0 from Jelly)
-
 ##Pithead Junction B
 
-- (T) Melt (Switch)
+- 2x Yellow Liquid (95% poach or 30% steal or 25% at L0 from Jelly)
+- (T) Melt (Switch, 50% chance)
 
 ##Phase 2 Dig
 
@@ -3372,18 +3396,22 @@ Maps:
 - [28] Meteorite D (2%, 5%) DA
 - [29] Makara\* (100%)
 - [31] Mythril Sword (100%)
+- Gizamaluk bestiary
 
 ##Crossover C
 
 ![](https://i.imgur.com/LEStjkX.png)
 
+- 2x total Unpurified Ether (10% monograph from Hecteyes)
 - [39] Bubble Belt (25%)
 - [40] Germinas Boots\* (100%)
-- (R) Glaring Eye (3+ Hecteyes killed, 3% Scorpion Tail\* at L0, 25% Sweep at L0)
+- (R) Glaring Eye (3+ Hecteyes killed, also in Phase 2 Dig, 3% Scorpion Tail\* at L0, 25% Sweep at L0)
+    - Or get Scorpion Tail from 1/1000 chest in Cerobi Steppe
 
 ##Phase 2 Shaft
 
 - [NE] Makara (100%)
+    - Seems to be linked to the other Makara chest (won't spawn if you got that one)
 
 ##Special Charter Shaft
 
@@ -3392,7 +3420,7 @@ Maps:
 - 8x Book of Orgain-Mille (80% steal or 25% at L0 from Etem)
 - [48] Zodiac Spear\* (1%)
 - [52] Renew (100%)
-- [53] Addle (100%)
+- [53] Addle (10%)
 - [54] Brave Suit\* (25%)
 - [57] Ribbon\* (15%)
 - [59] Grand Armor\* (25%)
@@ -3407,50 +3435,10 @@ Maps:
     - 2x dark protection
     - no dispel
     - constant shell
-    - last phase (< 20% HP) Opal Ring
+    - Critical HP: reflect + Opal Ring
     - Basch
 
-#Ridorana Cateract
-
-##Echoes from Time's Garden
-
-![](https://i.imgur.com/dikzPdo.png)
-
-- 2x Ketu Board (4% monograph from Cassie, also in other areas)
-- 7x Malboro Flower (95% poach or 80% steal from Cassie)
-- 6/7 Virgo Gem (30% steal from Cassie)
-- [2] Cleric's Robes\* (75%, 25%)
-- [8] Celebrant's Miter\* (75%, 25%)
-- (T) Abelisk (30% per entry)
-
-##Colosseum
-
-![](https://i.imgur.com/FhZuekB.png)
-
-- [13] Greataxe\* (75%, 25%)
-- [14] Holy Lance\* (75%, 25%)
-
-##City of Other Days
-
-- [SE] Pheasant Netsuke (100%)
-- [NE] Gillie Boots (100%)
-- (R) Pallicant (kill everything and rezone, 6% or 80% Gastrophetes\* steal)
-
-##Path of Hidden Blessing
-
-- [NE] Sweep\* (100%)
-
 #Pharos - First Ascent
-
-##They Who Thirst Not
-
-![](https://i.imgur.com/2FUdTbz.png)
-
-- Hydro (holy)
-- [1] Berserker Braces (25%)
-- [2] Cura Mote (75%)
-- [3] Ruby Ring\* (100%)
-- [4] Bubble Mote (75%)
 
 ##Wellspring Labyrinth
 
@@ -3513,7 +3501,7 @@ Maps:
 
 - [SW] Dragon Mail\* (100%)
 - [NE] Sash (100%)
-- (T) Avenger (40% per entry, 6% or 80% Muramasa\*\* steal)
+- [NW] (T) Avenger (40% per entry, 6% Muramasa\*\* steal)
 
 ##The Bounds of Truth
 
@@ -3522,6 +3510,7 @@ Maps:
 
 ##Cleft of Profaning Wind
 
+- Get while fighting
 - [N] Cura Mote (100%)
 - [N] X-Potion (100%)
 - [N] Phoenix Down (100%)
@@ -3535,6 +3524,7 @@ Maps:
 - Black Sigil
 - [SE] Antares\* (100%)
 - [NE] Flare (100%)
+- Plain sight Green Sigil for map completion
 - [Hidden SE] Green Sigil
 
 ##Spire Ravel - 2nd Flight
@@ -3546,7 +3536,6 @@ Maps:
 - Pink Sigil
 - NW through fake wall for colourless way stone
 - Elixir (100%)
-- Pink Sigil
 - [F88] (R) Tower (20% chance)
     - Rezone between F79 and F88 to retry spawn
 - Hashmal (wind)
@@ -3586,6 +3575,9 @@ Maps:
 
 #Rabanastre
 
+- Ixion, Seer, Yiazmat
+    - 1/3 Serpentarius
+
 ##High Arcana
 
 - If you're unlucky and don't have 3x High Arcana because no rare game dropped one:
@@ -3597,7 +3589,7 @@ Maps:
 - Caution: Do not combine these selling sessions
     - We're making loot that we need for other bazaar unlocks
     - Make sure to buy this loot (Serpentarius, Empyreal Soul, Gemsteel) before doing anything else
-- Hollow-shaft Arrows, Ranger's Crossbow, Phials & Philtres, Phoenix Flight, Double-bladed Knife, Bow of the Moon Goddess, Brilliant Shield, Engraved Spear, Magick Shard, Sturdy Battle Gear, Devasting Incendiaries, Arrows of the Moon Goddess, Serpent Blade, Comfy Headgear, Stone Shot, The Scorpion, Silver Bow, Piercing Bolts, Cursed Necklace, Whisker of the Beast, Saint's Draught, Esoteric Draught, Jewel of the Serpent, Jewel of Creation, Matchless Metal
+- Hollow-shaft Arrows, Ranger's Crossbow, Phials & Philtres, Phoenix Flight, Double-bladed Knife, Bow of the Moon Goddess, Brilliant Shield, Engraved Spear, Magick Shard, Sturdy Battle Gear, Devasting Incendiaries, Arrows of the Moon Goddess, Serpent Blade, Comfy Headgear, Stone Shot, The Scorpion, Silver Bow, Piercing Bolts, Cursed Necklace, Whisker of the Beast, Saint's Draught, Esoteric Draught, Jewel of the Serpent, Jewel of Creation, Matchless Metal, Flask of Oily Liquid, Flask of Viscous Liquid
     - 3x Ambrosia (done)
     - 2x Ancient Turtle Shell (done)
     - 4x Aquarius Gem (done)
@@ -3612,6 +3604,7 @@ Maps:
     - 2x Broken Spear (done)
     - 3x Cancer Gem (done)
     - 3x Capricorn Gem (done)
+    - 3x Caramel (done)
     - 3x Charged Gizzard (done)
     - 4x Charger Barding (5 more)
     - 2x Coeurl Whisker (done)
@@ -3622,6 +3615,7 @@ Maps:
     - 3x Demon Drink (done)
     - 2x Dorsal Fin (done)
     - 2x Einherjarium (done)
+    - 2x Foul Liquid (done)
     - 2x Frog Oil (done)
     - 3x Gemini Gem (done)
     - 2x Great Serpent's Fang (done)
@@ -3646,6 +3640,7 @@ Maps:
     - 4x Scorpio Gem (done)
     - 2x Serpent Eye (2 more)
     - 2x Sickle-Blade (done)
+    - 1x Slime Oil (done)
     - 4x Snake Skin (4 more)
     - 5x Solid Horn (done)
     - 1x Soul Powder (1 more)
@@ -3653,6 +3648,7 @@ Maps:
     - 1x Sylphi Halcyon (done)
     - 2x Tyrant Bone (done)
     - 1x Undin Halcyon (done)
+    - 2x Unpurified Ether (done)
     - 7x Virgo Gem (done)
     - 2x Wargod's Band (2 more)
     - 3x Water Magicite (done)
@@ -3696,7 +3692,6 @@ Maps:
     - 3x Serpentarius (done)
     - 1x Soul of Thamasa (done)
     - 3x Taurus Gem (done)
-- Ixion, Seer
 
 #Pharos - First Ascent
 
@@ -3709,7 +3704,7 @@ Maps:
 #Pharos - Subterra
 
 - Try to spawn Ixion in Abyssal
-- Ixion (holy)
+- Ixion (kill all enemies and take lift from 1st floor and repeat, holy)
 
 ##Penumbra
 
@@ -3767,16 +3762,18 @@ Maps:
 
 ##Abyssal - South
 
-- [28] Baltoro's Seed (40%, 0.15%) DA
-- [29] Baltoro's Seed (40%, 0.15%) DA
-- [30] Baltoro's Seed (40%, 0.15%) DA
+![](https://i.imgur.com/w61eqDo.png)
+
+- [28] Baltoro Seed (40%, 0.15%) DA
+- [29] Baltoro Seed (40%, 0.15%) DA
+- [30] Baltoro Seed (40%, 0.15%) DA
 - [31] Megalixir (100%)
 - [32] Great Trango\* (2%, 1%) DA
     - Use [RNG Manipulation](https://www.youtube.com/watch?v=e1e7Iy96bAI)
-- [33] Baltoro's Seed (40%, 0.15%) DA
-- [34] Baltoro's Seed (40%, 0.15%) DA
-- [35] Baltoro's Seed (40%, 0.15%) DA
-- [36] Baltoro's Seed (40%, 0.15%) DA
+- [33] Baltoro Seed (40%, 0.15%) DA
+- [34] Baltoro Seed (40%, 0.15%) DA
+- [35] Baltoro Seed (40%, 0.15%) DA
+- [36] Baltoro Seed (40%, 0.15%) DA
 
 ##Unknown
 
@@ -3784,11 +3781,11 @@ Maps:
 
 ##Abyssal - North
 
-- [S Centre] (R) Vagrant Soul (Seer hunt done, 25% chance, 6% Shikari's Nagasa\* steal, 80% Eight-fluted Pole\* steal)
+- [S Centre] (R) Vagrant Soul (Seer hunt done, 25% chance, 6% Shikari's Nagasa\* steal)
 
 ##Umbra - South
 
-- [N Centre] (R) Luxollid (Vagrant Soul killed - no saving/leaving, 6% Sagittarius\* steal, 80% Staff of the Magi steal)
+- [N Centre] (R) Luxollid (Vagrant Soul killed - no saving/leaving, 6% Sagittarius\* steal)
 
 #Balfonheim
 
@@ -3797,7 +3794,6 @@ Maps:
 #Rabanastre
 
 - Seer
-- Yiazmat
 
 #Ridorana Cataract
 
@@ -3809,6 +3805,8 @@ Maps:
     - 1/1 Godslayer's Badge
 
 #Great Crystal
+
+- Can use Ribbons now to farm Larva Eater and Evil Spirit
 
 ##Kabonii
 
@@ -3858,3 +3856,4 @@ Maps:
 - Order of Ambrosia
 - [Ozmone Plain/Haulo Green] Lv.99 Red Chocobo (kill 6 chocobos then respawn them, 1/256 chance)
 - Wind Walkers if not unlocked (33x Gysahl Greens, 15x Arcana)
+- Unbought gambits
