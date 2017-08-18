@@ -3456,8 +3456,6 @@ Maps:
 
 #Pharos - First Ascent
 
-- Cataract Aevis bestiary
-
 ##Wellspring Labyrinth
 
 - 2x Chimera Head (10% monograph from Chimera Brain, also in other areas up to 4th Flight)
@@ -3535,6 +3533,8 @@ Maps:
 - [N] Elixir (100%)
 
 #Pharos - Third Ascent
+
+- Cataract Aevis bestiary
 
 ##Spire Ravel - 1st Flight
 
