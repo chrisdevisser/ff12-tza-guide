@@ -1378,7 +1378,7 @@ When Rains:
 
 ##The Greensnake
 
-- 2x Garif
+- Garif bestiary (zone 2 areas to try again, try to stay calm when you kill the last one and the bestiary updates to need 3 more)
 
 #Golmore Jungle
 
@@ -1729,7 +1729,6 @@ When Rains:
 
 ##Silverflow's End (Dead End)
 
-- Emperor Aevis Bestiary
 - 2/3 Gemini Gem (30% steal from Slaven Warder)
 - 2x Slaven Harness (24% monograph from Slaven Warder)
 
@@ -1743,6 +1742,7 @@ When Rains:
 
 ![](https://i.imgur.com/8Oe0Fp6.png)
 
+- Emperor Aevis bestiary
 - [28] Sledgehammer\* (80%, 20%)
 - [31] Glacial Staff\* (75%, 20%)
 
@@ -2116,7 +2116,7 @@ When Rains:
 
 ![](https://i.imgur.com/w9fmQ4Q.png)
 
-- 2x Air Elemental (also in Limatra Hills, rainy weather)
+- 2x Air Elemental (also in Limatra Hills, rainy weather - enter from Salikawood or Tchita Uplands)
 - [21] Sorcerer's Habit\* (70%, 25%)
 - [24] Nishijin Belt\* (70%, 25%)
 
@@ -2125,6 +2125,7 @@ When Rains:
 - 2/3 Libra Gem (30% steal from Silver Lobo)
 - 2x Frogspawn (30% monograph from Iguion)
 - [SE] (R) Apsara (kill 10 Piranha, 6% Empyrean Rod\* steal)
+- Bangaa bestiary (SW area, zone 2 areas away to try)
 
 ##Cape Tialan
 
@@ -2230,7 +2231,7 @@ When Rains:
 
 ##Realm of the Elder Dream
 
-- 2x Earth Elemental (also in Sundered Earth, cloudy weather)
+- 2x Earth Elemental (also in Sundered Earth, cloudy weather - enter from Cerobi Steppe)
 
 ##Oliphzak Rise
 
@@ -2259,7 +2260,6 @@ When Rains:
 
 - Equip the Diamond Armlet for all treasure in this area
 - All unlisted treasures are obtained much easier elsewhere
-- Bangaa bestiary
 
 ##Old Elanise Road
 
@@ -2733,6 +2733,7 @@ When Rains:
 #Lhusu Mines
 
 - Dullahan bestiary
+- 5x Gazer (!!!, 7 minutes in Shunia Twinspan/Site 2/Site 3, initially invisible, leave mines to respawn)
 
 ##Tasche Span
 
