@@ -410,6 +410,8 @@ Poach rates:
 
 #Barheim Passage
 
+- Mimic bestiary
+
 ##The Lightworks
 
 - [NE] 2510 gil (100%)
@@ -775,6 +777,9 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - Garuda (dark)
 
 #Tomb of Raithwall
+
+- Zombie Mage bestiary
+- Skull Warrior bestiary
 
 ##Hall of the Destroyer
 
@@ -1322,6 +1327,8 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 #Ozmone Plain
 
+- Hybrid Gator bestiary
+
 ##Haulo Green
 
 ![](https://i.imgur.com/m8AE5K6.png)
@@ -1722,6 +1729,7 @@ When Rains:
 
 ##Silverflow's End (Dead End)
 
+- Emperor Aevis Bestiary
 - 2/3 Gemini Gem (30% steal from Slaven Warder)
 - 2x Slaven Harness (24% monograph from Slaven Warder)
 
@@ -2103,10 +2111,12 @@ When Rains:
 
 #Phon Coast
 
+
 ##Pora-Pora Sands
 
 ![](https://i.imgur.com/w9fmQ4Q.png)
 
+- 2x Air Elemental (also in Limatra Hills, rainy weather)
 - [21] Sorcerer's Habit\* (70%, 25%)
 - [24] Nishijin Belt\* (70%, 25%)
 
@@ -2217,6 +2227,10 @@ When Rains:
 #Tchita Uplands
 
 - Seeq bestiary
+
+##Realm of the Elder Dream
+
+- 2x Earth Elemental (also in Sundered Earth, cloudy weather)
 
 ##Oliphzak Rise
 
@@ -2717,6 +2731,8 @@ When Rains:
 - [Primary Tank Complex, Central Junction] Salamand Entite bestiary (clear weather)
 
 #Lhusu Mines
+
+- Dullahan bestiary
 
 ##Tasche Span
 
@@ -3439,6 +3455,8 @@ Maps:
     - Basch
 
 #Pharos - First Ascent
+
+- Cataract Aevis bestiary
 
 ##Wellspring Labyrinth
 
