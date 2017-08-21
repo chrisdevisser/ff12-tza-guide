@@ -3859,7 +3859,7 @@ Maps:
 
 #Zertinan Caverns
 
-- [The Balamka Fault] Archaeoaevis (ice)
+- [The Balamka Fault] Archaeoaevis (ice, wither)
     - 2x Emperor Scale (14% monograph)
 
 #Loose Ends
