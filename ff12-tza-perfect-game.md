@@ -3808,7 +3808,7 @@ Maps:
 
 ##Abyssal - North
 
-- [S Centre] (R) Vagrant Soul (Seer hunt done, 25% chance, 6% Shikari's Nagasa\* steal)
+- [S Centre] (R) Vagrant Soul (Seer hunt done, 25% chance, 6% Shikari Nagasa\* steal)
 
 ##Umbra - South
 
