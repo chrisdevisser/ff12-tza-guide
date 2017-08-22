@@ -1135,7 +1135,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - 7x Bomb Shell (95% poach or 12% at L3 from Grenade)
 - 14x Fire Crystal (80% steal or 55% at L3 from Grenade)
 - (R) Molen (15s in hidden area)
-    - 2/3 Mythril (80% steal)
+    - 2/3 Mythril (6% steal)
 
 ##Athroza Quicksands
 
@@ -3130,7 +3130,7 @@ Maps:
 
 ![](https://i.imgur.com/TytSV4Z.png)
 
-- (R) Evil Spirit (5% per Forbidden, holy, 18% Vrsabha\* at L3, 40% Gungnir at L3)
+- (R) Evil Spirit (5% per Forbidden, holy, 18% Vrsabha\* at L3)
     - Chain Necrophobe for L3
     - 3x Lifewick (6% steal)
 - Ultima (dark, Ribbon, holy protection)
