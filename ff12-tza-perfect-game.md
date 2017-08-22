@@ -3222,7 +3222,7 @@ Maps:
 
 - [SE] Pheasant Netsuke (100%)
 - [NE] Gillie Boots (100%)
-- (R) Pallicant (kill everything and rezone, 6% or 80% Gastrophetes\* steal)
+- (R) Pallicant (kill everything and rezone, 6% Gastrophetes\* steal)
 
 ##Path of Hidden Blessing
 
