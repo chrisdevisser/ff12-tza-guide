@@ -17,12 +17,6 @@ chris.n.devisser@gmail.com
 - [Jobs and Esper Assignments](https://www.youtube.com/watch?v=MrgGnzpQJSE): xAshe10x
 - [Great Crystal Naming/Structure Information](http://finalfantasy.istad.org/2013/11/ffxii-giruvegan-map-of-the-great-crystal/): auronlu
 
-#Unfinished Work
-
-- Playtesting (a complete run through, particularly for difficulty balancing)
-- Bestiary second pages
-- Anything marked TODO
-
 #Contributing
 
 Please visit the [GitHub repository](https://github.com/chrisdevisser/ff12-tza-guide) to contribute any objective information as long as it fits the guide's goals.
@@ -919,7 +913,6 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - 2/3 Pisces Gem (30% steal from Yensa)
 - 2x Yensa Fin (20% monograph from Yensa)
 - 1x Yensa Scale (95% poach or 80% steal from Yensa)
-    - TODO: Might need 2 - sources are inconsistent
 
 #Tomb of Raithwall
 
@@ -2165,7 +2158,6 @@ When Rains:
 
 ##Babbling Vale
 
-- TODO: Verify winds
 - Va'Kansa
 - Learned Man
 - Northeast Wind
