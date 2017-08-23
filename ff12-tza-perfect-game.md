@@ -1,6 +1,6 @@
 # Final Fantasy XII: The Zodiac Age - Perfect Game Guide
 
-Version: 1.1.1
+Version: 1.1.2
 
 Guide © 2017 Chris DeVisser
 
