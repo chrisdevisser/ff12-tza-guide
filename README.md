@@ -4,6 +4,8 @@
 
 Have a look at the [Releases page](https://github.com/chrisdevisser/ff12-tza-guide/releases), which contains HTML builds. Simply open the HTML file in a web browser.
 
+If you don't mind viewing through GitHub, you can [view the Markdown file directly](https://github.com/chrisdevisser/ff12-tza-guide/blob/master/ff12-tza-perfect-game.md).
+
 ## Intro
 
 This guide covers everything needed for a perfect game. This guide's definition is:
