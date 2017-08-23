@@ -16,6 +16,7 @@ chris.n.devisser@gmail.com
 - Shops: Wiki
 - [Jobs and Esper Assignments](https://www.youtube.com/watch?v=MrgGnzpQJSE): xAshe10x
 - [Great Crystal Naming/Structure Information](http://finalfantasy.istad.org/2013/11/ffxii-giruvegan-map-of-the-great-crystal/): auronlu
+- GitHub Markdown renderer compatibility: /u/theDaninDanger
 
 # Contributing
 
