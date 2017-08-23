@@ -1,4 +1,4 @@
-#Final Fantasy XII: The Zodiac Age - Perfect Game Guide
+# Final Fantasy XII: The Zodiac Age - Perfect Game Guide
 
 Version: 1.0
 
@@ -6,7 +6,7 @@ Guide © 2017 Chris DeVisser
 
 chris.n.devisser@gmail.com
 
-#Credits
+# Credits
 
 - [Map images](https://www.reddit.com/r/FinalFantasyXII/comments/6of040/izjs_and_therefore_tza_maps_with_chest_placement/): /u/letohorn
 - [Treasures](https://www.gamefaqs.com/ps2/939426-final-fantasy-xii-international-zodiac-job-system/faqs/49691), [Sidequests](https://www.gamefaqs.com/ps2/459841-final-fantasy-xii/faqs/42270), [Hunts](https://www.gamefaqs.com/ps2/459841-final-fantasy-xii/faqs/42270), [Bosses](https://www.gamefaqs.com/ps2/459841-final-fantasy-xii/faqs/42270): Split Infinity
@@ -17,11 +17,11 @@ chris.n.devisser@gmail.com
 - [Jobs and Esper Assignments](https://www.youtube.com/watch?v=MrgGnzpQJSE): xAshe10x
 - [Great Crystal Naming/Structure Information](http://finalfantasy.istad.org/2013/11/ffxii-giruvegan-map-of-the-great-crystal/): auronlu
 
-#Contributing
+# Contributing
 
 Please visit the [GitHub repository](https://github.com/chrisdevisser/ff12-tza-guide) to contribute any objective information as long as it fits the guide's goals.
 
-#Intro
+ # Intro
 
 This guide covers everything needed for a perfect game. This guide's definition is:
 
@@ -37,7 +37,7 @@ If this is your first time playing, then the guide will be hard to follow. This 
 
 For the bazaar in particular, deviating from the guide can easily result in losing track of things. It is expected that the guide is followed wholly.
 
-##Motivation
+ ## Motivation
 
 There are many references out there, including the wiki and individual references for treasures, the bazaar, equipment, rare game, and more. However, there's nothing that combines these into a single chronological format. Perhaps video walkthroughs, but they're hard to follow along with at your own pace and to search, plus have a different definition of perfect game.
 
@@ -45,17 +45,17 @@ Rather than cross-referencing five different guides every time I get to the next
 
 Finally, making my own guide allows me to include personal preferences (e.g., jobs) so that I don't have to research or look them up as I play through.
 
-##Format
+ ## Format
 
 The information is presented minimally. Look elsewhere for explanations. The goal is to present the necessary information that isn't as easy to remember, and for it to be easy to follow.
 
-##Jobs and Espers
+ ## Jobs and Espers
 
 The guide contains specific job and esper assignments. Feel free to use your own, or use these if you don't like picking for yourself. You'll notice that these aren't even my choices, they're xAshe10x's.
 
-#Perfect Game
+ # Perfect Game
 
-##Equipment
+ ## Equipment
 
 A \* beside an equipment name means this is the easiest source apart from a shop purchase. However, there might be earlier opportunities listed. In short, a \* means you should get this equipment now if you don't have it. No \* means that it can be skipped if desired.
 
@@ -63,7 +63,7 @@ A \*\* beside an equipment name means this is the easiest **repeatable** source,
 
 Equipment not listed is obtained through the bazaar or sidequests.
 
-##Loot
+ ## Loot
 
 Some loot (like High Arcana) will be used in combination selling, where multiple bazaar items will be unlocked at once and the loot in question will count toward all of the unlocked bazaar items intead of only one.
 
@@ -137,7 +137,7 @@ Examples:
     - Sell everything listed in that section at once
     - Sell any future Example Loot obtained
 
-##Treasure Notation
+ ## Treasure Notation
 
 - [Location] Item (Spawn%, Obtain% if spawned)
 
@@ -147,13 +147,13 @@ Especially earlier on, some treasures are for convenience - the item can be obta
 
 Each chest has a chance to spawn on each area entry. If spawned, it has a chance to contain gil. If it doesn't contain gil, there are two item possibilities (which can be the same item). Without the Diamond Armlet, it's 50/50 which item is picked if not gil. With the Diamond Armlet, the rare item is 5% and the common is 95%.
 
-##Rare Game
+ ## Rare Game
 
 - Notable drops/steals are listed
 - An (R) before an enemy name indicates a rare game
 - A (T) before an enemy name indicates a trophy rare game
 
-##Rates
+ ## Rates
 
 Some exact rates might be wrong. Steal rates come from the wiki, which has inconsistencies (e.g., the Tarasque page claiming Hunting Crossbow is a common steal vs. the weapons page claiming it's a rare steal). Feel free to submit a PR with concrete evidence of the correct rate.
 
@@ -175,7 +175,7 @@ Poach rates:
 
 - 95% for common or 5% for rare
 
-##Chaining
+ ## Chaining
 
 - Every 6-10 enemies is a new chain level
 - Chain level starts at L0 and goes to L3
@@ -183,29 +183,29 @@ Poach rates:
 - A flashing chain number means you can run around and grab all the loot for no penalty
 - Monograph drops are not affected by chain level
 
-##Trial Mode
+ ## Trial Mode
 
 - Trial Mode isn't included because it takes all the fun out of obtaining items IMO
 
-##Grinding and General Overpoweredness
+ ## Grinding and General Overpoweredness
 
 The guide defers early grinding to Lhusu Mines, and expects the Penelo section to act as some earlier levelling and LP farming as you go around doing things and killing enemies along the way. Early-game opportunities like Dustia and the Burning Bow still work the same way they did in vanilla, though, so that's your choice. In general, the guide doesn't go for big jumps in your party's effectiveness, at least not until after the Dawn Shard. This also means Seitengrat is assumed to be unused.
 
 Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon is found early on in the Garamsythe Waterway and Werewolf drops a Slasher.
 
-#Nalbina
+ # Nalbina
 
 - Save Reks as his own file if you plan on doing any RNG manipulation
 
-#Rabanastre
+ # Rabanastre
 
 - Vaan: Uhlan
 - Small package
 - Rogue Tomato
 
-#Estersand
+ # Estersand
 
-##The Stepping
+ ## The Stepping
 
 - 4x Wolf Pelt (40% at L0 from Wolf)
 - 3x Wind Stone (55% steal or 25% at L0 from Wolf)
@@ -215,11 +215,11 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - Rogue Tomato
 - [NW] Phoenix Down (75%, 65%)
 
-##Outpost
+ ## Outpost
 
 - Firefly (100%)
 
-#Rabanastre
+ # Rabanastre
 
 - Rogue Tomato
 - Thextera
@@ -235,41 +235,41 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
     - 3x Small Feather (done)
     - 2x Wolf Pelt (2 more)
 
-#Giza Plains
+ # Giza Plains
 
 - Penelo: Black Mage
 - Shadestone
 
-##Throne Road
+ ## Throne Road
 
 - 2x Drab Wool (40% at L0 from Giza Rabbit)
 - 9x Water Stone (55% steal or 25% at L0 from Giza Rabbit)
 - 9x Fire Stone (55% steal or 40% at L0 from Hyena)
 
-##[W] Toam Hills
+ ## [W] Toam Hills
 
 - [SE] Blind (100%)
 - 8x Snake Skin (55% steal or 40% at L0 from Wildsnake)
 - 9x Wildsnake
 - 3x Large Feather (40% at L0 from Urstix)
 
-##[S] Starfall Field
+ ## [S] Starfall Field
 
 - 3x Molting (55% steal or 40% at L0 from Sleipnir)
 
-##Nomad Village
+ ## Nomad Village
 
 - First-aid Kit, Antidote Set
     - 3x Large Feather (done)
     - 2x Drab Wool (done)
 
-#Westersand
+ # Westersand
 
-##Galtea Downs
+ ## Galtea Downs
 
 - Thextera
 
-#Rabanastre
+ # Rabanastre
 
 - Thextera
 - Flowering Cactoid
@@ -277,7 +277,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - Maps: 630 gil
 - Libra: 400 gil
 
-##Monographs
+ ## Monographs
 
 - 20000: Warmage (Undead, Amorph)
 - 19000: Knight (Giant, Insect)
@@ -287,43 +287,43 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - 22000: Dragoon (Dragon, Plant)
 - 25000: Sage (Elemental)
 
-#Estersand
+ # Estersand
 
-##Outpost
+ ## Outpost
 
 - Flowering Cactoid
 
-##Yardang Labyrinth
+ ## Yardang Labyrinth
 
 - [NE] Silence (100%)
 - Flowering Cactoid
 - [SW] (R) Ripe Rampager (kill Cactites)
 
-#Nalbina
+ # Nalbina
 
 - Thunder, Dark: 700 gil
 
-#Estersand
+ # Estersand
 
-##Outpost
+ ## Outpost
 
 - Dantro x2
 
-##Sand-Swept Naze
+ ## Sand-Swept Naze
 
 ![](https://i.imgur.com/GvmoNNP.png)
 
 - [SE] Poison (100%)
 - [25] Argyle Armlet (55%, 25%)
 
-##Banks of the Nebra
+ ## Banks of the Nebra
 
 ![](https://i.imgur.com/4txzPpg.png)
 
 - [39] Bangle (55%, 25%)
 - [42] Handaxe\* (55%, 25%)
 
-##South Bank Village
+ ## South Bank Village
 
 - Blizzard: 240 gil
 - Dantro's wife x2
@@ -334,47 +334,47 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - Dantro's wife
     - 1/1 Bundle of Needles
 
-#Westersand
+ # Westersand
 
-##Shimmering Horizons
+ ## Shimmering Horizons
 
 - [SW] Orrachea Armlet (100%)
 
-##Windtrace Dunes
+ ## Windtrace Dunes
 
 - [NW] Diamond Armlet\* (25%)
 
-##The Midfault
+ ## The Midfault
 
 ![](https://i.imgur.com/fdkTREM.png)
 
 - [10] Leather Armor\* (65%, 30%)
 
-##Shimmering Horizons
+ ## Shimmering Horizons
 
 - [S] Leather Shield\* (60%, 30%)
 
-#Garamsythe Waterway
+ # Garamsythe Waterway
 
-##No. 10 Channel
+ ## No. 10 Channel
 
 - [S] Mace\* (70%, 27.5%)
 
-##Northern Sluiceway
+ ## Northern Sluiceway
 
 ![](https://i.imgur.com/Lp9qEIm.png)
 
 - [5] Broadsword\* (75%, 32.5%)
 
-##North Spur Sluiceway
+ ## North Spur Sluiceway
 
 - (R) Razorfin (10% per Ichthon, 2-zone)
 
-#Royal Palace
+ # Royal Palace
 
 - 6+1 chests
 
-#Garamsythe Waterway
+ # Garamsythe Waterway
 
 - Balthier: Red Battlemage
 - Fran: White Mage
@@ -391,18 +391,18 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - [23] Oaken Pole\* (75%, 32.5%)
 - [24] Kotetsu\* (75%, 30%)
 
-##Southern Sluiceway
+ ## Southern Sluiceway
 
 - 10% Caramel steal
 - [E] Hi-Potion (100%)
 - [W] Phoenix Down (100%)
 
-##West Sluice Control
+ ## West Sluice Control
 
 - 6x Ghost (clones count)
 - Garchimacera bestiary
 
-##No. 10 Channel
+ ## No. 10 Channel
 
 ![](https://i.imgur.com/qCkr8LM.png)
 
@@ -410,17 +410,17 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - [30] Bowgun\* (70%, 30%)
 - 3x Demon Eyeball (55% steal or 40% at L0 from Garchimacera)
 
-#Barheim Passage
+ # Barheim Passage
 
 - Mimic bestiary
 
-##The Lightworks
+ ## The Lightworks
 
 - [NE] 2510 gil (100%)
 - Silver Bow\*, Magick Curch\*: 920 gil
 - Poisona, Vox: 510 gil
 
-##Op Sector 29
+ ## Op Sector 29
 
 ![](https://i.imgur.com/D9qUbwY.png)
 
@@ -428,23 +428,23 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - Kilimweave Shirt\* (3% steal from Zombie (female), power drained)
 - [4] Pointy Hat (75%, 30%)
 
-##Great Eastern Passage
+ ## Great Eastern Passage
 
 - 8x Glass Jewel (40% at L0 from Specter, power drained)
 - 4x Foul Flesh (55% steal or 25% at L0 from Zombie (Male), power drained)
 
-##Op Sector 36
+ ## Op Sector 36
 
 ![](https://i.imgur.com/EOJIQJt.png)
 
 - [15] Rod\* (75%, 35%)
 - [16] Battle Harness (100%)
 
-##Special Op Sector 3
+ ## Special Op Sector 3
 
 - 5x Green Liquid (55% steal or 40% at L0 from Flan)
 
-##Op Sector 37
+ ## Op Sector 37
 
 ![](https://i.imgur.com/B0KD6U2.png)
 
@@ -452,7 +452,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - [20] Oak Staff\* (80%, 35%)
 - [24] Mage Masher\* (85%, 37.5%)
 
-##The Zeviah Subterrane
+ ## The Zeviah Subterrane
 
 ![](https://i.imgur.com/oBeuhkV.png)
 
@@ -460,36 +460,36 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - [32] Iron Hammer\* (75%, 30%)
 - [35] Cherry Staff\* (75%, 32.5%)
 
-##Terminus No. 4
+ ## Terminus No. 4
 
 - Mimic Queen (ice)
 
-#Estersand
+ # Estersand
 
-##Sand-swept Naze
+ ## Sand-swept Naze
 
 - (R) Nekhbet (20% with 1+ Cockatrice kill)
 
-##Banks of the Nebra
+ ## Banks of the Nebra
 
 - 2x Fish Scale (55% steal or 40% at L0 from Ichthon)
 
-#Westersand
+ # Westersand
 
-##Galtea Downs
+ ## Galtea Downs
 
 - Kill 20-22 Wolves
 
-##Shimmering Horizons
+ ## Shimmering Horizons
 
 - Steal Gladius* from Lindbur Wolf (3%)
 - [S] Leather Shield\* (60%, 30%)
 
-#Skyferry (To Nalbina)
+ # Skyferry (To Nalbina)
 
-##Sky Saloon
+ ## Sky Saloon
 
-##Observation Parlor
+ ## Observation Parlor
 
 - 33x Gysahl Greens: 3564 gil
 - Wind Walkers, Gilt Shield, Light Spear
@@ -501,40 +501,40 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
     - 3x Molting (done)
     - 3x Wind Stone (done)
 
-##Air Deck
+ ## Air Deck
 
 - Seitengrat (1%, 1%) DA
     - Use [RNG manipulation](https://www.youtube.com/watch?v=vEcD5EjCG_8)
     - The guide assumes this is obtained, but unused
 
-##Sky Saloon
+ ## Sky Saloon
 
 - 7 sisters
 
-#Rabanastre
+ # Rabanastre
 
 - Wraith, Cluckatrice, Rocktoise
 - Ktjn (ashamed)
 - Basch: Shikari
 
-#Garamsythe Waterway
+ # Garamsythe Waterway
 
 - Wraith (thunder)
 
-#Rabanastre
+ # Rabanastre
 
 - Wraith
 - Letter
 - Montblanc
 
-#Giza Plains
+ # Giza Plains
 
 - [Gizas North Bank] Cluckatrice (kill all enemies)
     - 1/1 Rainbow Egg
 - Hi-Potion Pack
     - 1x Rainbow Egg (done)
 
-#Bhujerba
+ # Bhujerba
 
 - Maps: 720 gil
 - Shell, Protect: 500 gil
@@ -542,27 +542,27 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - Spear\*: 1300 gil
 - Bronze Shield\*, Scale Armor\*: 1600 gil
 
-#Lhusu Mines
+ # Lhusu Mines
 
-##Shaft Entry
+ ## Shaft Entry
 
 ![](https://i.imgur.com/Od5B47t.png)
 
 - [2] Bronze Mace\* (70%, 32.5%)
 - [4] Osafune\* (70%, 30%)
 
-##Oltam Span
+ ## Oltam Span
 
 - [N] Onion Bombs\* (75%, 30%)
 - [S] Topkapi Hat\* (75%, 30%)
 - (R) Aerieel (20% chance)
     - 1x Bat Wing (3% steal)
 
-##Transitway 1
+ ## Transitway 1
 
 - [NE] Numerology (100%)
 
-##Shunia Twinspan
+ ## Shunia Twinspan
 
 - 5x Bone Fragment (55% at L3 or 55% steal from Skeleton)
 - 5x Dark Stone (40% at L3 from Skeleton)
@@ -570,7 +570,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 - Get lots of LP and gil (every monograph ASAP) to do optional stuff earlier
     - Sell extra loot from Skeleton farming
 
-##Site 2
+ ## Site 2
 
 ![](https://i.imgur.com/jRYIR6G.png)
 
@@ -582,7 +582,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [22] Battle Bamboo\* (70%, 35%)
 - Aevis Killer (3% at L0 from Slaven, only spawns after Ba'Gamnan)
 
-#Bhujerba
+ # Bhujerba
 
 - Bow & Bodkin, Marksman's Delight
     - 1x Bat Fang (5 more)
@@ -596,12 +596,12 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - Nidhogg
 - Rocktoise
 
-#Lhusu Mines
+ # Lhusu Mines
 
 - Nidhogg (fire)
 - Rocktoise (blind, silence)
 
-#Bhujerba
+ # Bhujerba
 
 - Nidhogg
     - Don't sell the Great Serpentskin if you want another Golden Amulet
@@ -609,17 +609,17 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - Diary in Clio's Technicks
 - "I've done nothing"
 
-#Leviathan
+ # Leviathan
 
 - Sallet\* (3% steal from Mastiff)
 
-##Port Section
+ ## Port Section
 
 ![](https://i.imgur.com/sc8HOjJ.png)
 
 - [3] Partisan\* (80%, 40%)
 
-##Large Freight Stores
+ ## Large Freight Stores
 
 ![](https://i.imgur.com/XM8m7PV.png)
 
@@ -628,24 +628,24 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [9] Ringmail\* (80%, 37.5%)
 - [10] Shepherd's Bolero\* (80%, 37.5%)
 
-##Brig No. 1
+ ## Brig No. 1
 
 - Ashe: Knight
 
-##Sub-control Room
+ ## Sub-control Room
 
 - [SE] Vega (80%, 30%)
 - [W] Infuse (100%)
 - [W] Zwill Blade\* (75%, 32.5%)
 
-##Starboard Section
+ ## Starboard Section
 
 ![](https://i.imgur.com/A4RJ1El.png)
 
 - [11] Sleep (100%)
 - [12] Iron Armor\* (75%, 30%)
 
-#Westersand
+ # Westersand
 
 - 3x Black Belt: 1800 gil
 - 2x Rose Corsage: 2400 gil
@@ -654,28 +654,28 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 - [The Midfault] (R) Fideliant (20% chance per entry)
 
-#Rabanastre
+ # Rabanastre
 
 - Ktjn (should've)
 - Wyvern
 
-#Giza Plains
+ # Giza Plains
 
 - [Starfall Field] 4x Quality Hide (95% poach or 55% steal or 40% at L0 from Werewolf)
 
-#Ogir-Yensa Sandsea
+ # Ogir-Yensa Sandsea
 
 - 4x Earth Magicite (25% at L0 from Urutan-Yensa)
 - 4x Succulent Fruit (95% poach or 55% steal or 40% at L0 from Alraune)
 
-##Platform 1 - East Tanks
+ ## Platform 1 - East Tanks
 
 ![](https://i.imgur.com/9RycsqX.png)
 
 - [1] Bhuj\* (75%, 25%)
 - [3] Wizard's Staff\* (75%, 25%)
 
-##Platform 1 - Refinery
+ ## Platform 1 - Refinery
 
 ![](https://i.imgur.com/jMGh7wG.png)
 
@@ -687,21 +687,21 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [13] Killer Bow\* (75%, 32.5%)
 - [14] Wizard's Hat\* (75%, 32.5%)
 
-##[W] Central Junction
+ ## [W] Central Junction
 
 ![](https://i.imgur.com/EMEDMkc.png)
 
 - [34] Paramina Crossbow\* (80%, 25%)
 - NE
 
-#Zertinan Caverns
+ # Zertinan Caverns
 
 - 2x Frog Oil (10% monograph from Speartongue)
 - [S] Sight Unseeing (100%)
 
-#Nam-Yensa Sandsea
+ # Nam-Yensa Sandsea
 
-##Withering Shores
+ ## Withering Shores
 
 ![](https://i.imgur.com/U4txDsY.png)
 
@@ -709,11 +709,11 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [13] Turtleshell Choker (100%)
 - (R) Imdugud (kill everything and wait W, 3% Shielded Armor steal)
 
-#Ogir-Yensa Sandsea
+ # Ogir-Yensa Sandsea
 
 - Chain Urutan-Yensa
 
-##[NW] Primary Tank Complex
+ ## [NW] Primary Tank Complex
 
 ![](https://i.imgur.com/emFJ5ur.png)
 
@@ -723,7 +723,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [29] Wizard's Robes\* (75%, 40%)
 - [32] Linen Cuirass\* (75%, 40%)
 
-##[SW] Platform 2 - Refinery
+ ## [SW] Platform 2 - Refinery
 
 ![](https://i.imgur.com/ZzAnbfD.png)
 
@@ -732,28 +732,28 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - (R) Urutan Exile (100 Urutan-Yensa kills, Unknown% chance, 18% Magoroku at L3)
     - To respawn, stay in Ogir-Yensa and keep zoning two areas and back while killing more
 
-##Platform 1 - South Tanks
+ ## Platform 1 - South Tanks
 
 ![](https://i.imgur.com/nmXUNqk.png)
 
 - [51] Kogarasumaru\* (75%, 30%)
 
-#Nam-Yensa Sandsea
+ # Nam-Yensa Sandsea
 
 - Eksir Berries
 
-##The Urutan-Yensa Sea
+ ## The Urutan-Yensa Sea
 
 ![](https://i.imgur.com/pLmAHzE.png)
 
 - [5] Heavy Lance (20%, 20%)
 
-##Demesne of the Sandqueen
+ ## Demesne of the Sandqueen
 
 - (R) Megabomb (chain 21)
 - [NW] Balance (100%)
 
-##Simoon Bluff
+ ## Simoon Bluff
 
 ![](https://i.imgur.com/Hs21H45.png)
 
@@ -767,7 +767,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [50] Lambent Hat (75%, 35%)
 - [52] 2918 gil (100%)
 
-##Trail of Fading Warmth
+ ## Trail of Fading Warmth
 
 - 3x Nishijin Belt: 2400 gil
 - Tinctures & Tonics, Wooden Pole, Large Gloves 
@@ -778,12 +778,12 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 - Garuda (dark)
 
-#Tomb of Raithwall
+ # Tomb of Raithwall
 
 - Zombie Mage bestiary
 - Skull Warrior bestiary
 
-##Hall of the Destroyer
+ ## Hall of the Destroyer
 
 - Demon Wall (reflectga mote, aero)
 - Demon Wall 2
@@ -791,13 +791,13 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [Royal Passage] Scathe Mote (100%)
 - Broadaxe\* (5% at L3 from Tallow)
 
-##Royal Passage
+ ## Royal Passage
 
 - [Centre] (R) Barmuu (chain 12 seekers, 3% Lamia's Tiara steal)
 - [NE] Dispel (100%)
 - [SE] Vanish (100%)
 
-##Northfall Passage
+ ## Northfall Passage
 
 ![](https://i.imgur.com/402jBpg.png)
 
@@ -805,7 +805,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [6] Chanter's Djellaba\* (80%, 35%)
 - [11] Flame Staff\* (80%, 35%)
 
-##Southfall Passage
+ ## Southfall Passage
 
 ![](https://i.imgur.com/xTjL3fv.png)
 
@@ -815,7 +815,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - 2x Broken Spear (15% monograph from Skull Warrior)
 - (R) Cultsworn Lich (20% chance from Lich dividing at critical HP)
 
-##Cloister of Flame
+ ## Cloister of Flame
 
 - [NE] Phoenix Down (100%)
 - [SW] Blood Sword\* (100%)
@@ -824,7 +824,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - Belias (water)
     - Vaan
 
-#Second Jobs
+ # Second Jobs
 
 - Vaan: Foebreaker
 - Balthier: Machinist
@@ -833,7 +833,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - Ashe: Archer
 - Penelo: Monk
 
-#Rabanastre
+ # Rabanastre
 
 - Wyvern
 - Enkelados, Croakadile, White Mousse, Ring Wyrm, Marilith
@@ -841,38 +841,38 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
     - 1/2 Electrum
 - Ktjn (never)
 
-#Zertinan Caverns
+ # Zertinan Caverns
 
 - If difficult, can be postponed until after armour from Mosphoran Highwaste, but Thief's Cuffs from one of the two are desired before continuing
 
-##Invitation to Heresy
+ ## Invitation to Heresy
 
 - Kill 6 minutes
 - [N] Firefly (100%)
 - Marilith (water, slow, blind)
 
-#Westersand
+ # Westersand
 
-##Windtrace Dunes
+ ## Windtrace Dunes
 
 - Sandstorm
 - Ring Wyrm (fire, slow, blind)
 
-#Ogir-Yensa Sandsea
+ # Ogir-Yensa Sandsea
 
-##Central Junction
+ ## Central Junction
 
 ![](https://i.imgur.com/iZQbb31.png)
 
 - NE
 
-#Zertinan Caverns
+ # Zertinan Caverns
 
 - Rock
 
-#Ogir-Yensa Sandsea
+ # Ogir-Yensa Sandsea
 
-##East Junction
+ ## East Junction
 
 ![](https://i.imgur.com/iZQbb31.png)
 
@@ -880,24 +880,24 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [23] Healing Rod\* (75%, 42.5%)
 - NE
 
-#Zertinan Caverns
+ # Zertinan Caverns
 
-##[W-SE] Sandfalls
+ ## [W-SE] Sandfalls
 
 - Rocks
 - Diamond Armlet (100%)
 
-##The Undershore
+ ## The Undershore
 
 - [Off-map SW] Thief's Cuffs (25%)
 
-##Hourglass Basin
+ ## Hourglass Basin
 
 - [SW] Miter\* (90%, 42.5%)
 - [SE] Chainmail\* (90%, 45.5%)
 - [NE] Slasher\* (90%, 42.5%)
 
-##Halls of Ardent Darkness
+ ## Halls of Ardent Darkness
 
 ![](https://i.imgur.com/zHHhA22.png)
 
@@ -906,21 +906,21 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [23] Main Gauche (50%, 25%)
 - [24] Flametongue (50%, 25%)
 
-#Nam-Yensa Sandsea
+ # Nam-Yensa Sandsea
 
-##Demesne of the Sandqueen
+ ## Demesne of the Sandqueen
 
 - 2/3 Pisces Gem (30% steal from Yensa)
 - 2x Yensa Fin (20% monograph from Yensa)
 - 1x Yensa Scale (95% poach or 80% steal from Yensa)
 
-#Tomb of Raithwall
+ # Tomb of Raithwall
 
-##Royal Passage
+ ## Royal Passage
 
 - 2/3 Taurus Gem (30% steal from Seeker)
 
-#Rabanastre
+ # Rabanastre
 
 - Marilith, Ring Wyrm
     - 1/4 Serpent Eye
@@ -932,17 +932,17 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
     - 3x Green Liquid (done)
     - 4x Water Stone (5 more)
 
-#Garamsythe Waterway
+ # Garamsythe Waterway
 
-##West Sluice Control
+ ## West Sluice Control
 
 - White Mousse (fire, blind, sleep)
 
-#Rabanastre
+ # Rabanastre
 
 - White Mousse
 
-#Bhujerba
+ # Bhujerba
 
 - Madhu (1 per area = 14, except Staras Residence until Antlion):
 
@@ -961,14 +961,14 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 ![](https://i.imgur.com/N8MIsr3.png)
 ![](https://i.imgur.com/lr63FSm.png)
 
-#Nalbina
+ # Nalbina
 
 - Guards
 - Rent chocobo
 
-#Mosphoran Highwaste
+ # Mosphoran Highwaste
 
-##Summit Path
+ ## Summit Path
 
 ![](https://i.imgur.com/kFSamJv.png)
 
@@ -981,31 +981,31 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [11] Kiku-ichimonji\* (75%, 30%)
 - 2x Fire Elemental
 
-##Empyrean Way
+ ## Empyrean Way
 
 - Seeq bestiary
 
-##[NE] Rays of Ashen Light
+ ## [NE] Rays of Ashen Light
 
 ![](https://i.imgur.com/TyXZMs1.png)
 
 - [18] Avenger\* (70%, 30%)
 
-##Babbling Vale
+ ## Babbling Vale
 
 - Back Harness
     - 1x Throat Wolf Blood (done)
 - Map: 2400 gil
 - [NW] Thief's Cuffs\* (100%)
 
-##Trail of Sky-flung Stone
+ ## Trail of Sky-flung Stone
 
 - 2x Great Serpent's Fang (10% monograph from Python)
 - [N] Gillie Boots (100%)
 - [S] Diamond Armor\* (75%, 30%)
 - [S] Black Garb (75%, 30%)
 
-##Northern Skirts
+ ## Northern Skirts
 
 ![](https://i.imgur.com/u1VgXnJ.png)
 
@@ -1014,13 +1014,13 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [38] Giant Stonebow\* (70%, 30%)
 - 3x Beastlord Horn (8% monograph from Humbaba)
 
-##Halny Crossing
+ ## Halny Crossing
 
 - [SE] Elixir (80%)
 
-#Salikawood
+ # Salikawood
 
-##Trunkwall Road
+ ## Trunkwall Road
 
 ![](https://i.imgur.com/M6Sv9tF.png)
 
@@ -1028,7 +1028,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [4] Gokuu Pole\* (75%, 22.5%)
 - [7] Chaos Mace\* (75%, 22.5%)
 
-##Diverging Way
+ ## Diverging Way
 
 ![](https://i.imgur.com/1XXiehF.png)
 
@@ -1036,39 +1036,39 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [17] Bastard Sword\* (65%, 22.5%)
 - [20] Ras Algethi (65%, 22.5%)
 
-##Sun-dappled Path
+ ## Sun-dappled Path
 
 - (R) Spee (15% per Wyrdhare kill)
 
-##Quietened Trace
+ ## Quietened Trace
 
 - [SW] Charm (100%)
 
-#Challenge
+ # Challenge
 
 - King Bomb (water, silence, disable, slow)
 
-##Piebald Path
+ ## Piebald Path
 
 - [NE] Adamant Hat (75%, 25%)
 
-##Corridor of Ages
+ ## Corridor of Ages
 
 - (R) Wood Toad (20% per entry, initially invisible)
 
-#Nabreus Deadlands
+ # Nabreus Deadlands
 
-##The Muted Scarp
+ ## The Muted Scarp
 
 - All Ma'kleou options
 
-#Estersand
+ # Estersand
 
-##Bank of the Nebra
+ ## Bank of the Nebra
 
 - [NW] (R) Greeden (3 min with no cactus kills)
 
-##South Bank Village
+ ## South Bank Village
 
 - Wing Cord
     - 2x Stardust (done)
@@ -1078,7 +1078,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - Dran?
 - Tchigri
 
-##The Yoma
+ ## The Yoma
 
 ![](https://i.imgur.com/Oe3E0sM.png)
 
@@ -1089,7 +1089,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [50] Bone Mail\* (75%, 32.5%)
 - [56] Hammerhead (75%, 32.5%)
 
-##Broken Sands
+ ## Broken Sands
 
 ![](https://i.imgur.com/CsRHNu4.png)
 
@@ -1103,14 +1103,14 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [70] Berserker Braces\* (100%)
 - [71] Diamond Helm (80%, 25%)
 
-##South Bank Village
+ ## South Bank Village
 
 - Dantro's wife x2
 - Moogle
 
-#Zertinan Caverns
+ # Zertinan Caverns
 
-##Sandfalls
+ ## Sandfalls
 
 - Gaia Hat\* (5% at L3 from Buer)
 - 7x Demon Tail (95% poach or 40% at L0 from Buer)
@@ -1119,7 +1119,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - 1x Ice Stone (80% steal from Buer)
 - 3/4 Scorpio Gem (30% steal from Buer)
 
-##Hourglass Basin
+ ## Hourglass Basin
 
 - 3x Iron Carapace (95% poach or 30% steal or 40% at L0 from Scythe Mantis)
 - 6x Bundle of Feathers (95% poach or 40% at L0 from Gorgimera, also in other areas)
@@ -1130,23 +1130,23 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - (R) Molen (15s in hidden area)
     - 2/3 Mythril (6% steal)
 
-##Athroza Quicksands
+ ## Athroza Quicksands
 
 - Adrammelech (ice, thunder protection, Power Armlet)
     - 2/3 Capricorn Gem (30% steal)
     - Basch
 - 3x Blood-stained Necklace (30% monograph from Shambling Corpse)
 
-##The Balamka Fault
+ ## The Balamka Fault
 
 - [SE] Map (Beeline and get out)
 
-##The Undershore
+ ## The Undershore
 
 - 3x Grimoire Aidhed (95% poach or 30% steal from Mallicant)
 - 1x Magick Lamp (10% monograph from Mallicant)
 
-##Drybeam Cavern
+ ## Drybeam Cavern
 
 - 15x Sky Jewel (95% poach or 40% at L0 from Bogey)
 - 2x Death Powder (5% poach from Bogey)
@@ -1157,16 +1157,16 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - 10x Water Crystal (25% at L0 from Silicon Tortoise)
     - Can save some for a bit later
 
-##The Balamka Fault
+ ## The Balamka Fault
 
 - 2x Insect Husk (95% poach or 80% steal or 40% at L0 from Scythe Mantis)
 - 1x Tattered Garment (12% monograph from Scythe Mantis)
 
-#Barheim Passage
+ # Barheim Passage
 
 - Gigas Hat (6% steal from Dead Bones)
 
-##Special Op Sector 5
+ ## Special Op Sector 5
 
 ![](https://i.imgur.com/UIw4osw.png)
 
@@ -1180,7 +1180,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [45] Arc Scale\* (100%)
 - (R) Ithuno (20% per entry, 6% Deathbringer steal)
 
-##East-West Bypass
+ ## East-West Bypass
 
 - 5x Iron Ore (95% poach or 80% steal or 40% at L0 from Mimeo)
 - [E] Toxify (100%)
@@ -1188,7 +1188,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [E] (R) Minibug (20% chance)
     - 2x Wrath of the Gods (6% steal)
 
-##The Zeviah Span
+ ## The Zeviah Span
 
 ![](https://i.imgur.com/azj7jSI.png)
 
@@ -1199,7 +1199,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [61] Demon Mail\* (90%, 25%)
 - [62] Shear (100%)
 
-##West Annex
+ ## West Annex
 
 ![](https://i.imgur.com/6R1SNbN.png)
 
@@ -1210,26 +1210,26 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [74] Bowline Sash\* (90%, 25%)
 - [75] Agate Ring\* (90%, 25%)
 
-##Terminus No. 7 Adjunct
+ ## Terminus No. 7 Adjunct
 
 - [SE] Cameo Belt\* (25%)
 
-##Terminus No. 7
+ ## Terminus No. 7
 
 - Zalera (minions first, only healing magic, L2 Sleep, L3 Disable, L4 Break, L5 Reverse, LPrime Death)
     - Fran
 - [W] Reverse Mote (100%)
 - [W] Elixir (100%)
 
-#Garamsythe Waterway
+ # Garamsythe Waterway
 
-##Southern Sluiceway
+ ## Southern Sluiceway
 
 - Orthros (fire, blind, sleep)
     - 3x Caramel (30% steal)
     - 1x Slime Oil (6% steal)
 
-#Rabanastre
+ # Rabanastre
 
 - Iron-forged Blade, Emboldening Arms, Noisome Incendiaries, Serum Pack, Gilt Phylactery 
     - 1x Bomb Shell (6 more)
@@ -1250,54 +1250,54 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [Southern Plaza] Cotze
 - [North Sprawl] Northon
 
-#Westersand
+ # Westersand
 
 - [S-NW] Wind Globe
 
-#Rabanastre
+ # Rabanastre
 
 - Rimzat
 
-#Giza Plains
+ # Giza Plains
 
-##Throne Road
+ ## Throne Road
 
 - [S] Withered Tree
 
-##Nomad Village
+ ## Nomad Village
 
 - Croakadile (fire)
 - [E] Regen (100%)
 - [SE] Withered Tree
 
-##Gizas North Bank
+ ## Gizas North Bank
 
 - [NE] Withered Tree
 
-##[W] Warrior's Wash
+ ## [W] Warrior's Wash
 
 - (R) Rain Dancer (20% per entry)
 - 2x Storm Elemental (rain)
 
-##Toam Hills
+ ## Toam Hills
 
 - [SE] Withered Tree
 
-##Starfall Field
+ ## Starfall Field
 
 - [NE] Withered Tree
 - Croakadile
 
-##Crystal Glade
+ ## Crystal Glade
 
 - Withered Tree
 - Gil Snapper
 
-##Gizas South Bank
+ ## Gizas South Bank
 
 - [NW peninsula] Golden Helm (80%, 30%)
 
-##Tracks of the Beast
+ ## Tracks of the Beast
 
 ![](https://i.imgur.com/3moyLQi.png)
 
@@ -1310,15 +1310,15 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - 10x total Water Crystal (25% at L0 from Silicon Tortoise)
 - Officer's Hat (6% steal from Silicon Tortoise)
 
-##Nomad Village
+ ## Nomad Village
 
 - Croakadile
 
-##Crystal Glade
+ ## Crystal Glade
 
 - Letter
 
-#Jahara
+ # Jahara
 
 - Maps: 1730 gil
 - Stona, Fira: 3500 gil
@@ -1326,11 +1326,11 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - [W] Pheasant Netsuke (100%)
 - Enkelados
 
-#Ozmone Plain
+ # Ozmone Plain
 
 - Hybrid Gator bestiary
 
-##Haulo Green
+ ## Haulo Green
 
 ![](https://i.imgur.com/m8AE5K6.png)
 
@@ -1339,13 +1339,13 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - 4x Chocobo Feather (95% poach or 25% at L0 from Red Chocobo, also in other areas)
 - [31] Parallel Arrows (75%, 25%)
 
-##The Switchback
+ ## The Switchback
 
 ![](https://i.imgur.com/VdKgCy6.png)
 
 - [20] Chopper\* (75%, 30%)
 
-##Field of Fallen Wings
+ ## Field of Fallen Wings
 
 ![](https://i.imgur.com/sEXEfDW.png)
 
@@ -1353,7 +1353,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - 2x Braid Wool (40% at L0 from Ozmone Hare or Bull Croc)
 - 3x Water Magicite (80% steal or 25% at L0 from Ozmone Hare)
 
-#Giza Plains
+ # Giza Plains
 
 - Weather rotation started
 - 1h Rains then 2h Dry (game time)
@@ -1370,30 +1370,30 @@ When Rains:
 
 - Sadeen
 
-##The Shred
+ ## The Shred
 
 - Enkelados (wind)
 - (R) Bull Croc (20% when everything killed)
 - (R) Aeros (kill Bull Croc)
     - 2x Wyvern Wing (6% steal, zone two areas without killing)
 
-##The Greensnake
+ ## The Greensnake
 
 - Garif bestiary (zone 2 areas to try again, try to stay calm when you kill the last one and the bestiary updates to need 3 more)
 
-#Golmore Jungle
+ # Golmore Jungle
 
-##Paths of Chained Light
+ ## Paths of Chained Light
 
 - 7x Coeurl Pelt (95% poach or 80% steal or 55% at L3 from Panther, also in other areas)
 - 6x Storm Magicite (30% steal or 25% at L0 from Gargoyle)
 - [Central path] (R) Migardsormr (20% chance)
 
-##The Needlebrake
+ ## The Needlebrake
 
 - 2x Lumber (95% poach or 30% steal or 25% at L0 from Treant)
 
-#Eruyt Village
+ # Eruyt Village
 
 - Map: 60 gil
 - Esuna, Thundara, Break: 6600 gil
@@ -1409,12 +1409,12 @@ When Rains:
     - 2x Wolf Pelt (done)
 - [NE] Haste (100%)
 
-#Jahara
+ # Jahara
 
 - Judge Hausen
 - Enkelados
 
-#Rabanastre
+ # Rabanastre
 
 - [Southgate] Viera
 - [Southern Plaza] Lovestruck Man
@@ -1425,64 +1425,64 @@ When Rains:
 - [Sandsea] Viera
 - [Southern Plaza] Lovestruck Man
 
-#Garamsythe Waterway
+ # Garamsythe Waterway
 
-##Central Waterway Control
+ ## Central Waterway Control
 
 - Close 3
 
-##No. 3 Cloaca Spur
+ ## No. 3 Cloaca Spur
 
 - 13x Book of Orgain (25% at L0 from Gespenst)
     - Or chain Dustia
 - [S] Jade Collar (100%)
 - Close gate
 
-##Central Waterway Control
+ ## Central Waterway Control
 
 - Open 3 and 10
 - Close 4 and 11
 
-##No. 4 Cloaca Spur
+ ## No. 4 Cloaca Spur
 
 - [SE] Achilles (100%)
 - Close gate
 - (R) Drowned (5 mins in Garamsythe, then +5% per 15s, rezone if doesn't appear)
 
-##Central Waterway Control
+ ## Central Waterway Control
 
 - Open 11
 - Close 3
 
-##No. 1 Cloaca
+ ## No. 1 Cloaca
 
 - Cuchulainn (Black Belt)
     - Basch
 
-##Central Waterway Control
+ ## Central Waterway Control
 
 - Open 4
 - Close 10
 
-##No. 10 Channel
+ ## No. 10 Channel
 
 - 2/3 Putrid Liquid (10% monograph from Malboro Overking)
 - [W] Hornito\* (100%)
 
-##West Sluice Control
+ ## West Sluice Control
 
 - 2x Water Elemental
 
-##Central Waterway Control
+ ## Central Waterway Control
 
 - Open 3 and 10
 - Close 4 and 11
 
-##No. 11 Channel
+ ## No. 11 Channel
 
 - [E] Gilt Measure\* (100%)
 
-##Central Waterway Control
+ ## Central Waterway Control
 
 - Open 4 and 11
 - Close 11
@@ -1492,34 +1492,34 @@ When Rains:
 - Open 4
 - Dull Fragment
 
-##Northern Sluiceway
+ ## Northern Sluiceway
 
 - 3x Rat Tail (5% poach or 3% monograph from Dire Rat)
 
-#Ozmone Plain
+ # Ozmone Plain
 
-##The Shred
+ ## The Shred
 
 ![](https://i.imgur.com/QUekqIG.png)
 
 - [48] Green Beret\* (80%, 37.5%)
 
-#Henne Mines
+ # Henne Mines
 
-##Phase 1 Dig
+ ## Phase 1 Dig
 
 - 1x Snowfly (20% monograph from Nightmare)
 - 6x Crooked Fang (95% poach or 80% steal or 40% at L0 from Redmaw, also in other areas)
 - 3x Charged Gizzard (15% monograph from Thunderbug, also in Crossover B)
 - [NE] Bonecrusher (100%)
 
-##Crossover A
+ ## Crossover A
 
 - 2x Tyrant Hide (95% poach from Tyranorox)
 - [S] Flame Shield\* (75%, 30%)
 - 6x Tyranorox
 
-#Rabanastre
+ # Rabanastre
 
 - Oil-Soaked Incendiaries
     - 3x Bomb Ashes (done)
@@ -1529,30 +1529,30 @@ When Rains:
 - Montblanc
     - 1/3 High Arcana
 
-#Jahara
+ # Jahara
 
 - Ixtab
 
-#Henne Mines
+ # Henne Mines
 
-##Phase 1 Shaft
+ ## Phase 1 Shaft
 
 - Ixtab
 
-#Jahara
+ # Jahara
 
 - Ixtab
     - 1/2 Soul Powder
 
-#Rabanastre
+ # Rabanastre
 
 - Montblanc
 - Bubble (clan): 5000 gil
 - 3x Steel Polyens: 3000 gil
 
-#Golmore Jungle
+ # Golmore Jungle
 
-##The Rustling Chapel
+ ## The Rustling Chapel
 
 - 8x Dark Magicite (55% at L3 from Dark Skeleton)
 - 2x Death's-Head (10% monograph from Dark Skeleton)
@@ -1560,73 +1560,73 @@ When Rains:
 - (R) Grave Lord (40% Diamond Helm\* at L3)
 - 6x Diresaur
 
-#Feywood
+ # Feywood
 
-##Walk of Flitting Rifts
+ ## Walk of Flitting Rifts
 
 - 2x Moondust (6% monograph from Mu)
 
-##Walk of Stolen Truths
+ ## Walk of Stolen Truths
 
 - 8x Earth Crystal (25% at L0 from Golem)
 - 4x Quality Lumber (95% poach or 80% steal or 40% at L0 from Golem)
 - (R) Crypt Bunny (kill 6+ cerberus and all Tartarus, 20% chance)
 - 2x Holy Elemental
 
-##Walk of Dancing Shadow
+ ## Walk of Dancing Shadow
 
 - Mirror Mail\* (12% at L3 from Mirror Knight)
 - 2x Mirror Scale (10% monograph from Mirrorknight)
 - 23x Wind Crystal (80% steal or 25% at L0 from Mirrorknight)
 - 5x Windslicer Pinion (95% poach or 40% at L0 from Mirrorknight)
 
-#Henne Mines
+ # Henne Mines
 
 - 2/3 Vampyr Fang (15% monograph from Abysteel)
 - Sage's Ring (25%)
 - Aeroga Mote (100%)
 
-##Antiquity's End
+ ## Antiquity's End
 
 - Embroidered Tippet\* (25%)
 
-#Golmore Jungle
+ # Golmore Jungle
 
-##The Needlebreak
+ ## The Needlebreak
 
 - 2x Foul Liquid (15% monograph from Great Malboro)
 - 4x Malboro Vine (95% poach or 30% steal or 40% at L0 from Great Malboro)
 
-##The Parting Glade
+ ## The Parting Glade
 
 - Amber Armlet (100%)
 
-##Dell of the Dreamer
+ ## Dell of the Dreamer
 
 - 9872 gil (100%)
 
-##The Branchway
+ ## The Branchway
 
 ![](https://i.imgur.com/9fRlpGP.png)
 
 - [W dead ends] (R) Phyllo (20% chance)
 - [14] Black Belt\* (80%, 30%)
 
-##The Greenswathe
+ ## The Greenswathe
 
 ![](https://i.imgur.com/BSdxFJD.png)
 
 - [17] Argyle Amulet\* (80%, 32.5%)
 
-#Paramina Rift
+ # Paramina Rift
 
-##Head of the Silverflow
+ ## Head of the Silverflow
 
 ![](https://i.imgur.com/Yy9F4u6.png)
 
 - [1] Mage's Hat\* (70%, 32.5%)
 
-##Icebound Flow
+ ## Icebound Flow
 
 ![](https://i.imgur.com/Gbo19mH.png)
 
@@ -1635,13 +1635,13 @@ When Rains:
 - [54] Close Helmet\* (75%, 25%)
 - [55] Diamond Shield\* (75%, 25%)
 
-##Freezing Gorge
+ ## Freezing Gorge
 
 ![](https://i.imgur.com/BUVglkZ.png)
 
 - [13] Mage's Habit\* (70%, 32.5%)
 
-#Mt Bur-Omisace
+ # Mt Bur-Omisace
 
 - Maps: 3215 gil
 - 2x Bowline Sash: 2000 gil
@@ -1660,59 +1660,59 @@ When Rains:
     - 5x Sturdy Bone (done)
     - 2x Tanned Hide (done)
 
-##Temple Grounds
+ ## Temple Grounds
 
 - [SE] Dark Energy (5%, 1%) DA (1/2000 overall)
 
-#Rabanastre
+ # Rabanastre
 
 - Ktjn (good)
 - Feral Retriever
 - Trickster, Antlion
 
-#Skyferry (to Bhujerba)
+ # Skyferry (to Bhujerba)
 
 - Teleport Stone: 200 gil
 - 7 sisters
 
-#Bhujerba
+ # Bhujerba
 
 - Antlion
 
-#Lhusu Mines
+ # Lhusu Mines
 
-##Site 3
+ ## Site 3
 
 - [SW] Multiscale\* (100%)
 - [NW] Koga Blade (100%)
 - [NW] Tumulus (100%)
 
-##Site 9
+ ## Site 9
 
 - Antlion (wind)
 - [E] Indigo Pendant\* (100%)
 - [S] Iga Blade\* (100%)
 - [SW] Expose (100%)
 
-#Bhujerba
+ # Bhujerba
 
 - Antlion
     - 1/2 Sickle-Blade
 - Last Madhu
 
-#Mt Bur-Omisace
+ # Mt Bur-Omisace
 
 - Feral Retriever, Trickster
 
-#Paramina Rift
+ # Paramina Rift
 
-##Frozen Brook
+ ## Frozen Brook
 
 - Wait for Monid scene
 - Trickster (changes weakness, sleep, silence, blind)
 - 2x Ice Elemental
 
-##Karydine Glacier
+ ## Karydine Glacier
 
 ![](https://i.imgur.com/hxoC4Kj.png)
 
@@ -1728,18 +1728,18 @@ When Rains:
 - (R) Anchag (kill everything)
     - 4x Damascus Steel (6% steal)
 
-##Silverflow's End (Dead End)
+ ## Silverflow's End (Dead End)
 
 - 2/3 Gemini Gem (30% steal from Slaven Warder)
 - 2x Slaven Harness (24% monograph from Slaven Warder)
 
-##Spine of the Icewyrm
+ ## Spine of the Icewyrm
 
 - Feral Retriever
 - 2x White Incense (10% monograph from Garudi-Egi)
 - [S] Revive (100%)
 
-##Silverflow's End
+ ## Silverflow's End
 
 ![](https://i.imgur.com/8Oe0Fp6.png)
 
@@ -1747,20 +1747,20 @@ When Rains:
 - [28] Sledgehammer\* (80%, 20%)
 - [31] Glacial Staff\* (75%, 20%)
 
-#Stilshrine of Miriam
+ # Stilshrine of Miriam
 
-##Walk of Sky
+ ## Walk of Sky
 
 - [W] Tourmaline Ring\* (100%)
 - [E] Tourmaline Ring (100%)
 - [S] Battle Harness (100%)
 
-##Walk of Mind
+ ## Walk of Mind
 
 - Ice Shield (100%)
 - Note the game time and add 30 minutes for Negalmuur
 
-##Ward of Velitation
+ ## Ward of Velitation
 
 - 7x Dragon Aevis
 - 2x Wyrm Carapace (95% poach or 40% at L0 from Dragon Aevis)
@@ -1771,17 +1771,17 @@ When Rains:
 - [SE] Megalixir (10%, 2.5%)
 - Use these to kill the rest of the 30 minutes while waiting for Negalmuur
 
-##Walk of Revelation
+ ## Walk of Revelation
 
 - 1x Feystone (30% steal from Crystalbug)
 
-##Walk of Prescience
+ ## Walk of Prescience
 
 - Ruby Ring (100%)
 - 3/4 Aquarius Gem (30% steal from Facer)
 - Pirate Hat\* (6% steal from Facer)
 
-##Walk of Reason
+ ## Walk of Reason
 
 ![](https://i.imgur.com/LoWqdsM.png)
 
@@ -1790,11 +1790,11 @@ When Rains:
 - [18] Ras Algethi\* (75%, 25%)
 - [19] Hammerhead\* (75%, 25%)
 
-##Ward of Steel
+ ## Ward of Steel
 
 - [E] Sage's Ring\* (100%)
 
-##Ward of the Sword-King
+ ## Ward of the Sword-King
 
 - (R) Negalmuur (after 30 minutes)
 - 3x Grimoire Togail (95% poach or 30% steal from Darkmare)
@@ -1802,19 +1802,19 @@ When Rains:
     - After Negalmuur, quit and load save to respawn or zone before XP/LP displayed
 - Wear Steel Polyens before entering hidden passage
 
-##[Hidden] Cold Distance
+ ## [Hidden] Cold Distance
 
 - Shell Shield (100%)
 - (R) Matriarch Bomb (20% per Oiling)
 
-##Hall of Worth
+ ## Hall of Worth
 
 - Mateus (thunder)
     - Ashe
 - [W] Elixir (100%)
 - [E] Bubble Mote (100%)
 
-#Mt Bur-Omisace
+ # Mt Bur-Omisace
 
 - Trickster, Feral Retriever
     - 1/1 Deimos Clay
@@ -1839,25 +1839,25 @@ When Rains:
 - Buy Morbid Urn ASAP - 1x High Arcana from rare game will make life easier later
 - Acolyte
 
-#Salikawood
+ # Salikawood
 
 - King Bomb (water, silence, disable, slow)
 
-##Piebald Path
+ ## Piebald Path
 
 - [NE] Adamant Hat (75%, 25%)
 
-##Corridor of Ages
+ ## Corridor of Ages
 
 - Wood Toad (20% per entry)
 
-#Nabreus Deadlands
+ # Nabreus Deadlands
 
-##The Muted Scarp
+ ## The Muted Scarp
 
 - All Ma'kleou options
 
-#Rabanastre
+ # Rabanastre
 
 - Vorpal Bunny, Mindflayer, Bloodwing, Atomos, Roblon, Braegh
 - Ktjn
@@ -1873,82 +1873,82 @@ When Rains:
 - Sotted Imperial
 - Roh'kenmou
 
-#Eruyt Village
+ # Eruyt Village
 
 - Vorpal Bunny
 
-#Golmore Jungle
+ # Golmore Jungle
 
-##Rustling Chapel
+ ## Rustling Chapel
 
 - Vorpal Bunny (berserk)
 
-#Eruyt Village
+ # Eruyt Village
 
 - Vorpal Bunny
 
-#Jahara
+ # Jahara
 
 - Mindflayer
 
-#Henne Mines
+ # Henne Mines
 
-##Phase 1 Dig
+ ## Phase 1 Dig
 
 - \> 90% MP
 - Mindflayer (Power Armlet)
 
-#Jahara
+ # Jahara
 
 - Mindflayer
 
-#Nalbina
+ # Nalbina
 
 - Atomos, Roblon, Carrot
 
-#Mosphoran Highwaste
+ # Mosphoran Highwaste
 
-##Babbling Vale
+ ## Babbling Vale
 
 - Aeroga: 5700 gil
 - Braegh
 
-##Northern Skirts
+ ## Northern Skirts
 
 - Atomos
 
-#Estersand
+ # Estersand
 
 - Bloodwing
 
-#Barheim Passage
+ # Barheim Passage
 
-##West Annex
+ ## West Annex
 
 - Bloodwing
 
-#Estersand
+ # Estersand
 
 - Bloodwing
     - 3/3 Vampyr Fang
 
-#Salikawood
+ # Salikawood
 
 - Braegh (blizzard)
 
-#Nabreus Deadlands
+ # Nabreus Deadlands
 
 - Cameo Belt and black mage to hit things
 - Crown of Laurels (12% at L3 from Crusader)
 - 7x Storm Crystal (25% from Baknamy, also found in Necrohol of Nabudis)
 
-##Echoes of the Past
+ ## Echoes of the Past
 
 - 2x Dorsal Fin (18% monograph from Focalor)
 - 4x Ichthon Scale (95% poach or 80% steal or 40% at L0 from Focalor)
 - [SE] Holy Mote (100%)
 
-##The Slumbermead
+ ## The Slumbermead
 
 ![](https://i.imgur.com/A44bsau.png)
 
@@ -1963,7 +1963,7 @@ When Rains:
 - [20] Mythril Blade (100%)
 - [22] Maduin Gear\* (75%, 25%)
 
-##The Fog Mutters
+ ## The Fog Mutters
 
 - [S] Elixir (100%)
 - [N] 4416 gil (100%)
@@ -1972,7 +1972,7 @@ When Rains:
     - Use Dustia trick to respawn without leaving Deadlands
     - After spending half the night killing this for a Durandal, I'm convinced it doesn't drop Save the Queen in TZA
 
-##Overlooking Eternity
+ ## Overlooking Eternity
 
 - Roblon (water)
 - 3x Ancient Bone (5% monograph or L3 from Dead Bones)
@@ -1980,13 +1980,13 @@ When Rains:
 - 33x Dark Crystal (55% at L3 from Dead Bones)
 - Golden Skullcap (6% steal from Dead Bones)
 
-##Lifeless Strand
+ ## Lifeless Strand
 
 - 8x Destrier Barding (12% at L3 from Leynir)
 - [N] Warp (100%)
 - [SE] Opal Ring (25%)
 
-##Field of the Fallen Lord
+ ## Field of the Fallen Lord
 
 ![](https://i.imgur.com/fpAQN3l.png)
 
@@ -1994,13 +1994,13 @@ When Rains:
 - [42] Barrel Coat\* (75%, 27.5%)
 - Equip Steel Polyens
 
-#Necrohol of Nabudis
+ # Necrohol of Nabudis
 
 - 3x Demon Drink (10% monograph from Elvoret)
 - (R) Helvinek (kill 6 Oversouls, 5% Grand Armor at L3, zone before XP+LP)
 - Maximillian (5% at L3 from Elvoret)
 
-##Hall of Slumbering Might
+ ## Hall of Slumbering Might
 
 ![](https://i.imgur.com/cgh3uaA.png)
 
@@ -2008,7 +2008,7 @@ When Rains:
 - [4] Power Vest (30%, 35%)
 - [6] Jade Collar (100%)
 
-##Hall of the Ivory Covenant
+ ## Hall of the Ivory Covenant
 
 ![](https://i.imgur.com/ZjR3N3m.png)
 
@@ -2018,7 +2018,7 @@ When Rains:
 - [12] Faith (100%)
 - 2x Dark Elemental
 
-##Cloister of the Highborn
+ ## Cloister of the Highborn
 
 ![](https://i.imgur.com/oG6K3Zg.png)
 
@@ -2053,7 +2053,7 @@ When Rains:
     - 7x Wind Crystal (16 more)
     - 1x Zombie Powder (done)
 
-##Cloister of Distant Song
+ ## Cloister of Distant Song
 
 ![](https://i.imgur.com/CWTrhm5.png)
 
@@ -2063,7 +2063,7 @@ When Rains:
 - [33] Hypnocrown\* (30%, 35%)
 - [35] White Mask (100%)
 
-##Hall of Effulgent Light
+ ## Hall of Effulgent Light
 
 ![](https://i.imgur.com/S5QzkIs.png)
 
@@ -2073,20 +2073,20 @@ When Rains:
 - [41] Hermes Sandals (25%)
 - [43] Chakra Band (30%, 35%)
 
-#Salikawood
+ # Salikawood
 
 - Don't kill anything
 
-##Sun-dappled Path
+ ## Sun-dappled Path
 
 - Kill bunnies
 - Carrot (Black Belt, reflect cures)
 
-#Mosphoran Highwaste
+ # Mosphoran Highwaste
 
 - Braegh
 
-#Nalbina
+ # Nalbina
 
 - Atomos
 - Jovy
@@ -2097,23 +2097,23 @@ When Rains:
     - 3/3 Putrid Liquid
 - Jovy
 
-#Westersand
+ # Westersand
 
 - [The Midfault] Gnoma Entite (also in Shimmering Horizons)
     - 1x Gnoma Halcyon (6% steal)
 - [Corridor of Sand] (R) Dustia (< 10% HP)
 - [Wyrm's Nest] Earth Tyrant (wind)
 
-#Salikawood
+ # Salikawood
 
-##Living Chasm
+ ## Living Chasm
 
 - Moogle Boss
 
-#Phon Coast
+ # Phon Coast
 
 
-##Pora-Pora Sands
+ ## Pora-Pora Sands
 
 ![](https://i.imgur.com/w9fmQ4Q.png)
 
@@ -2121,42 +2121,42 @@ When Rains:
 - [21] Sorcerer's Habit\* (70%, 25%)
 - [24] Nishijin Belt\* (70%, 25%)
 
-##The Mauleia Strand
+ ## The Mauleia Strand
 
 - 2/3 Libra Gem (30% steal from Silver Lobo)
 - 2x Frogspawn (30% monograph from Iguion)
 - [SE] (R) Apsara (kill 10 Piranha, 6% Empyrean Rod\* steal)
 - Bangaa bestiary (SW area, zone 2 areas away to try)
 
-##Cape Tialan
+ ## Cape Tialan
 
 ![](https://i.imgur.com/BXG0M6I.png)
 
 - [40] Crystal Shield\* (70%, 25%)
 
-##Cape Uahuk
+ ## Cape Uahuk
 
 ![](https://i.imgur.com/jTrkm5n.png)
 
 - [38] Astrakhan Hat\* (70%, 25%)
 
-##The Hakawea Shore
+ ## The Hakawea Shore
 
 ![](https://i.imgur.com/kPMKVEB.png)
 
 - [50] Magick Gloves\* (70%, 25%)
 - [56] Aldebaran\* (60%, 20%)
 
-##Hunters' Camp
+ ## Hunters' Camp
 
 - Map: 1800 gil
 - Confuse, Firaga: 8200 gil
 - Hawker
 - Small Key
 
-#Mosphoran Highwaste
+ # Mosphoran Highwaste
 
-##Babbling Vale
+ ## Babbling Vale
 
 - Va'Kansa
 - Learned Man
@@ -2164,21 +2164,21 @@ When Rains:
 - East Wind
 - Southeast Wind
 
-##Rays of Ashen Light
+ ## Rays of Ashen Light
 
 - [W] Stamp (100%)
 - [W] Blood Sword (80%)
 
-##Empyrean Way
+ ## Empyrean Way
 
 - 1x Eye of the Hawk (10% monograph from Vulture)
 - (R) Grey Molter (game time :10 to :20)
 
-##Rays of Ashen Light
+ ## Rays of Ashen Light
 
 - Chocobo
 
-##Babbling Vale
+ ## Babbling Vale
 
 - [W] 6636 gil (100%)
 - Rock
@@ -2188,19 +2188,19 @@ When Rains:
 - Chronos Tear Pack
     - 1x Eye of the Hawk (done)
 
-##Skyreach Ridge
+ ## Skyreach Ridge
 
 - [N] Dispel Mote (100%)
 - [N] Reflectga Mote (100%)
 
-##Empyrean Seat
+ ## Empyrean Seat
 
 - Exodus (Shear, Opal Ring)
     - Basch
 
-#Phon Coast
+ # Phon Coast
 
-##The Vaddu Strand
+ ## The Vaddu Strand
 
 - 16x 100% treasures
     - War Hammer\*
@@ -2209,7 +2209,7 @@ When Rains:
     - Pointy Hat\*
     - Calot Hat\*
 
-##Caima Hills
+ ## Caima Hills
 
 ![](https://i.imgur.com/lbeDpCP.png)
 
@@ -2217,7 +2217,7 @@ When Rains:
 - [78] Steel Mask\* (70%, 25%)
 - [83] Mirror Mail (70%, 25%)
 
-##Limatra Hills
+ ## Limatra Hills
 
 ![](https://i.imgur.com/Fni59pb.png)
 
@@ -2225,43 +2225,43 @@ When Rains:
 - [90] Francisca (70%, 25%)
 - [94] Judicer's Staff\* (70%, 25%)
 
-#Tchita Uplands
+ # Tchita Uplands
 
 - Seeq bestiary
 
-##Realm of the Elder Dream
+ ## Realm of the Elder Dream
 
 - 2x Earth Elemental (also in Sundered Earth, cloudy weather - enter from Cerobi Steppe)
 
-##Oliphzak Rise
+ ## Oliphzak Rise
 
 - [SE] Float (100%)
 - 7x Feral Croc
 - 2x Antarctic Wind (8% monograph from Feral Croc)
 - 9x Blood Wool (80% steal or 40% at L0 or 95% Poach from Feral Croc)
 
-##Garden of Life's Circle
+ ## Garden of Life's Circle
 
 - (R) Tarasque (chain 22 Serpents, 6% Hunting Crossbow steal)
 
-##The Chosen Path
+ ## The Chosen Path
 
 - Bill?
 
-##Fields of Eternity
+ ## Fields of Eternity
 
 - Blindga (100%)
 
-#Phon Coast
+ # Phon Coast
 
 - Ride a chocobo to Cerobi Steppe
 
-#Cerobi Steppe
+ # Cerobi Steppe
 
 - Equip the Diamond Armlet for all treasure in this area
 - All unlisted treasures are obtained much easier elsewhere
 
-##Old Elanise Road
+ ## Old Elanise Road
 
 ![](https://i.imgur.com/Y2cryqd.png)
 
@@ -2271,14 +2271,14 @@ When Rains:
 - [101] Telekinesis (100%)
 - [!!] Equip Seitengrat, re-enter area, and come here for easter egg
 
-##Crossfield
+ ## Crossfield
 
 ![](https://i.imgur.com/DtVKWEd.png)
 
 - [80] Scorpion Tail (10%, 1%) - 3% at L0 from Glaring Eye
 - [84] Dark Energy (10%, 1%)
 
-##The Northsward
+ ## The Northsward
 
 ![](https://i.imgur.com/mYGVpct.png)
 
@@ -2288,7 +2288,7 @@ When Rains:
 - [69] Megalixir (20%, 1%)
 - (R) Etherian (kill everything, 6% Ame-no-Murakumo steal)
 
-##Feddik River
+ ## Feddik River
 
 ![](https://i.imgur.com/xSZzPxr.png)
 
@@ -2297,7 +2297,7 @@ When Rains:
 - [55] Megalixir (20%, 1%)
 - [57] Meteorite D (10%, 1%)
 
-##The Terraced Bank
+ ## The Terraced Bank
 
 ![](https://i.imgur.com/AcCNvyM.png)
 
@@ -2305,17 +2305,17 @@ When Rains:
 - [36] Cleanse (20%)
 - [38] Megalixir (20%, 1%)
 
-##North Liavell Hills
+ ## North Liavell Hills
 
 ![](https://i.imgur.com/mC1nki3.png)
 
 - [17] Dark Energy (10%, 1%)
 
-##South Liavell Hills
+ ## South Liavell Hills
 
 - [E] Claymore\* (100%)
 
-#Balfonheim Port
+ # Balfonheim Port
 
 - Keep Diamond Armlet on in case of a lucky mote
 - Maps: 4180 gil
@@ -2330,16 +2330,16 @@ When Rains:
     - 4x Spiral Incisor (done)
     - 2x Tanned Tyrant Hide (done)
 
-#Sochen Cave Palace
+ # Sochen Cave Palace
 
 - Unequip DA
 
-##Doubt Abandoned
+ ## Doubt Abandoned
 
 - 6x Demon Feather (95% poach from Imp or Pit Field, also in other areas)
 - 5x Maggoty Flesh (95% poach or 80% steal or 25% at L0 from Zombie Knight)
 
-##Hall of Lambent Darkness
+ ## Hall of Lambent Darkness
 
 - Vegetables (fire, wind, water)
     - 1/2 Four-leaf Clover (30% steal from Mandragora Prince)
@@ -2348,56 +2348,56 @@ When Rains:
     - 1/3 Onion (30% steal from Onion Queen)
     - 1/2 Tomato Stalk (30% steal from Topstalk)
 
-#Tchita Uplands
+ # Tchita Uplands
 
 - Bill?
 
-#Sochen Cave Palace
+ # Sochen Cave Palace
 
-##The Acolyte's Burden
+ ## The Acolyte's Burden
 
 - 4936 gil (100%)
 - Hastega Mote (100%)
 
-##Mirror of the Soul
+ ## Mirror of the Soul
 
 - Shock Mote (100%)
 
-##Falls of Time
+ ## Falls of Time
 
 - Spiral to unlock centre, starting SE and moving inward on 4th zone change
 - Sakura-saezuri\* (100%)
 - 1000 Needles (100%)
 
-##Mirror of the Soul
+ ## Mirror of the Soul
 
 - Megalixir (100%)
 
-##Falls of Time
+ ## Falls of Time
 
 - NE
 
-##Destiny's March
+ ## Destiny's March
 
 - Start E and go CW one full cycle
 
-##Hall of Shadowlight
+ ## Hall of Shadowlight
 
 - 5x 100% treasures
 
-##Temptation Eluded
+ ## Temptation Eluded
 
 - (R) Cubus (25% for Wendigos and Pit Fiends, kill everything)
 
-#Old Archades
+ # Old Archades
 
-##Alley of Low Whispers
+ ## Alley of Low Whispers
 
 ![](https://i.imgur.com/Uz4UEuk.png)
 
 - [7] Meteorite D (2%, 2.5%) DA
 
-#Archades
+ # Archades
 
 - [Bulward's Technicks] Maps: 3530 gil
 - Thundaga: 7000 gil
@@ -2423,16 +2423,16 @@ When Rains:
 - [Granch's Requisites] Darksteel
 - X-Potion: 520 gil (for Zeromus)
 
-#Sochen Cave Palace
+ # Sochen Cave Palace
 
-##Temptation Eluded
+ ## Temptation Eluded
 
 - Darksteel
     - 1/2 Ancient Turtle Shell (6% steal)
 
-#Archades
+ # Archades
 
-##Nilbasse
+ ## Nilbasse
 
 - Darksteel
     - 1/3 Adamantite
@@ -2446,7 +2446,7 @@ When Rains:
 - Aspiring Starlet (NE) - Faded Star (NE)
 - Determined Researcher (SE) - Ex-Researcher (centre)
 
-##Rienna
+ ## Rienna
 
 - Philosopher of Cuisine (W) - Dangerous Chef (gambit shop)
 - Tarot Reader (E gambit shop) - Happy Novelist (E gambit shop)
@@ -2456,7 +2456,7 @@ When Rains:
 - Greenseller (far SE) - Vegetable Seller (SW)
 - Lucky Man (NE) - Romantic Lady (SE)
 
-##Trant
+ ## Trant
 
 - Historian (E) - Perceptive Man (SW)
 - Smitten Man (SW) - Smitten Woman (SE)
@@ -2465,7 +2465,7 @@ When Rains:
 - Boutiquere (NW) - Moneyed Gentleman (NE)
 - Farce-Goer (NW) - Girl on an Errand (SE)
 
-##Molberry
+ ## Molberry
 
 - Avid Traveler (SE) - Traveling Gentleman (far NW)
 - Reminiscing Lady (far NW) - Family-minded Girl (S)
@@ -2477,65 +2477,65 @@ When Rains:
 - Talented Woman (S/centre) - Akademician (NW)
 - Look-alike (NW) - Look-alike (magick shop)
 
-#Stilshrine of Miriam
+ # Stilshrine of Miriam
 
 - Zeromus (prebuff, Power Armlet, quickening spam)
     - Fran
 
-#Draklor
+ # Draklor
 
-##70th Floor
+ ## 70th Floor
 
 - [SE] Gil Toss (100%)
 
-##Energy Transitarium
+ ## Energy Transitarium
 
 - Holy Mote (100%)
 - Hastega Mote (100%)
 
-#Balfonheim
+ # Balfonheim
 
-##The Whitecap
+ ## The Whitecap
 
 - Domaine Calvados (20%, 50%)
 - Vyraal, Lindwyrm, Overlord, Goliath, Deathscythe
 
-##W 'Port Villa'
+ ## W 'Port Villa'
 
 - Meteorite D (5%, 1.5%) DA
 
-##E 'Port Villa'
+ ## E 'Port Villa'
 
 - Baltoro Seed (5%, 0.25%) DA
 
-##Gallerina Marketplace
+ ## Gallerina Marketplace
 
 - Curaja, Blizzaga, Slowga, Darkga: 29500 gil
 - Fly to Nalbina (7 sisters)
 
-#Nalbina
+ # Nalbina
 
 - Goliath, Deathscythe
 - Fly to Archades
 
-#Archades
+ # Archades
 
 - Overlord, Lindwyrm
 - Fly to Rabanastre
 
-#Rabanastre
+ # Rabanastre
 
 - Gilgamesh, Belito
     - 2/3 High Arcana
 
-#Cockatrice Quest
+ # Cockatrice Quest
 
-##Giza Plains (Dry)
+ ## Giza Plains (Dry)
 
 - Lesina
 - Terra
 
-##Eruyt Village
+ ## Eruyt Village
 
 ![](https://i.imgur.com/lqHXQe1.png)
 ![](https://i.imgur.com/Iyspgqg.png)
@@ -2551,12 +2551,12 @@ When Rains:
 - Dewdrop Pebble
 - Mjrn
 
-##Rabanastre
+ ## Rabanastre
 
 - [North End] Renn x2 (hide behind pillar, "Erm...no?")
 - Renn (original location, first choice)
 
-##Jahara
+ ## Jahara
 
 - [Lull of the Land] Shurry
 - Garif Herder ("It came from Giza Plains")
@@ -2564,16 +2564,16 @@ When Rains:
 - Shurry
 - Garif Herder
 
-##Estersand
+ ## Estersand
 
 - [South Bank Village] Sassan
 - Tchigri
 - Nathyl, no one, Arryl, no one, Sassan
 - Sassan
 
-##Archades
+ ## Archades
 
-###Grand Arcade
+ ### Grand Arcade
 
 ![](https://i.imgur.com/v4Ava6L.png)
 
@@ -2581,32 +2581,32 @@ When Rains:
 - Agytha ("I saw a prim cockatrice in Old Archades")
 - Fly to Balfonheim (7 sisters)
 
-##Balfonheim
+ ## Balfonheim
 
 - [Sea Breeze Lane] Chocobo Wrangler
 - Miffed Moogle
 - Gurdy
 
-##Giza Plains
+ ## Giza Plains
 
 - Terra
 
-#Estersand
+ # Estersand
 
 - [South Bank Village] Ruksel
 
-#Balfonheim
+ # Balfonheim
 
 - [Chivany Breakwater] Fishing Enthusiast
 - Walk away and come back, grab Muramata
 - Fly to Bhujerba (7 sisters complete)
 
-#Estersand
+ # Estersand
 
 - Ruksel
 - Fish after Gilgamesh
 
-#Phon Coast
+ # Phon Coast
 
 - Huntmaster
 - [Vaddu Strand] (T) Thalassinon (10s on cliff)
@@ -2615,12 +2615,12 @@ When Rains:
 - Huntmaster
 - [Cape Tialan] (T) Skullash (40% chance)
 
-#Cerobi Steppe
+ # Cerobi Steppe
 
 - [Crossfield NW] (T) Bluesang (40% chance)
 - [The Northsward] Vyraal (wind)
 
-#Balfonheim
+ # Balfonheim
 
 - Ultimate Blade
     - 2x Adamantite (done)
@@ -2628,58 +2628,58 @@ When Rains:
     - 1x Gnoma Halcyon (done)
 - Vyraal
 
-#Cerobi Steppe
+ # Cerobi Steppe
 
 - Windmill No. 10
 - Go to Tchita Uplands by foot
 
-#Tchita Uplands
+ # Tchita Uplands
 
 - Re-enter until not sunny
 
-##Uazcuff Hills
+ ## Uazcuff Hills
 
 - (T) Grimalkin (10% per Coeurl)
     - 2x Coeurl Whisker (6% steal)
 
-##The Highlands
+ ## The Highlands
 
 - [Buildings] (T) Kris (40% chance)
 
-##The Chosen Path
+ ## The Chosen Path
 
 - Zone until cloudy
 
-##Garden of Life's Circle
+ ## Garden of Life's Circle
 
 - Lindwyrm (wind)
 
-#Sochen Cave Palace
+ # Sochen Cave Palace
 
 - [Doubt Abandoned] Overlord (water)
 
-#Archades
+ # Archades
 
 - Lindwyrm, Overlord
 - Souleater: 6000 gil
 
-#Nabreus Deadlands
+ # Nabreus Deadlands
 
 - [The Muted Scarp] Nu mou
 - [Overlooking Eternity] Shrine
 - [The Slumbermead E] (T) Arioch (40% chance, 6% Sage's Ring\*\* steal)
 
-#Salikawood
+ # Salikawood
 
 - [Piebald Path] (T) Rageclaw (60s, no kills/cannibalize)
 
-#Necrohol of Nabudis
+ # Necrohol of Nabudis
 
-##Hall of Slumbering Might
+ ## Hall of Slumbering Might
 
 - Goliath (dark)
 
-##Hall of the Ivory Covenant
+ ## Hall of the Ivory Covenant
 
 - (T) Vorres (lure Dark Elemental to Door of Loathing, spawns a bit NW)
     - 2x total Soul Powder (6% steal)
@@ -2687,24 +2687,24 @@ When Rains:
 - Fury (water, Power Armlet, slow, silence, dispel)
 - Golden Axe (100%)
 
-##Cloister of the Highborn
+ ## Cloister of the Highborn
 
 - Deathscythe (< 10% HP, holy)
 
-##Cloister of Distant Song
+ ## Cloister of Distant Song
 
 - Door of Horrors
 - Humbaba Mistant (holy, Black Belt, float/Dragon Shield, slow, silence)
 - Scathe Mote (100%)
 
-##Cloister of the Highborn
+ ## Cloister of the Highborn
 
 - Door of Despair
 - Chaos (Black Belt+Rose Corsage, wind protection, mage Chaosjets with weakness/bio, dispel, slow, shear, expose, reflect+bio, souleater/telekinesis)
     - Penelo
 - Megalixir (100%)
 
-#Nalbina
+ # Nalbina
 
 - Deathscythe
     - 1/1 Soul of Thamasa
@@ -2713,35 +2713,35 @@ When Rains:
     - 2/2 Einherjarium
 - Jovy
 
-#Giza Plains (Rain)
+ # Giza Plains (Rain)
 
-##Toam Hills
+ ## Toam Hills
 
 - 1x Mardu Halcyon (6% steal or 3% at L0 from Mardu Entite, heavy rain)
 
-#Nam-Yensa Sandsea
+ # Nam-Yensa Sandsea
 
 - [Withering Shores] Benito (water)
 - [Yellow Sands SW] (T) Victanir (40% chance)
     - 4x Wargod's Band (6% steal)
 
-#Ogir-Yensa Sandsea
+ # Ogir-Yensa Sandsea
 
 - [South Tank Approach SE] (T) Bull Chocobo (40% chance)
 - [Primary Tank Complex, Central Junction] Salamand Entite bestiary (clear weather)
 
-#Lhusu Mines
+ # Lhusu Mines
 
 - Dullahan bestiary
 - 5x Gazer (!!!, 7 minutes in Shunia Twinspan/Site 2/Site 3, initially invisible, leave mines to respawn)
 
-##Tasche Span
+ ## Tasche Span
 
 - Gilgamesh (steal every phase)
     - Genji Shield\* (30% steal)
     - Genji Gloves\* (30% steal)
 
-##Site 11
+ ## Site 11
 
 - (R) Gemhorn (kill everything)
 - [SW] Orochi\* (100%)
@@ -2749,14 +2749,14 @@ When Rains:
 - [W] Golden Skullcap\* (100%)
 - [NW] Renewing Morion\* (100%)
 
-##Lasche Span
+ ## Lasche Span
 
 - 4x Wyvern Fang (95% poach or 80% steal or 40% at L0 from Aeronite)
 - Dragon Whisker\* (100%)
 - (R) Bombshell (20% per entry, 3% Yagyu Darkblade at L0)
     - 2x total Mallet (6% steal)
 
-##Site 5
+ ## Site 5
 
 - [NW] Bone of Byblos\* (25%)
 - [S] Quasimodo Boots (25%)
@@ -2765,40 +2765,40 @@ When Rains:
 - Caution: (T) Disma (5% per Dark Lord, Power Armlet, dark+holy+thunder protection, dispel, 6% Mirage Vest steal - farm Dheed instead)
 - Run E-N
 
-##Site 6 North
+ ## Site 6 North
 
 - Maximillian (100%)
 - Whale Whisker\* (100%)
 
-##Site 6 South
+ ## Site 6 South
 
 - [NE] Magepower Shishak (100%)
 - [SW] Germinas Boots (25%)
 
-##Staging Area
+ ## Staging Area
 
 - Scathe (100%)
 
-##Site 7
+ ## Site 7
 
 - Gilgamesh (steal every phase, Fuzzy Miter, Enkidu first, L2 Sleep, L3 Disable, L4 Break)
     - Genji Helm\* (30% steal)
     - Genji Armor\* (30% steal)
 - Masamune\* (100%)
 
-#Sochen Cave Palace
+ # Sochen Cave Palace
 
 - Could wait for Excalibur
 
-##Destiny's March
+ ## Destiny's March
 
 - [Centre] (T) Wendice (kill Wendigos)
 
-##Mirror of the Soul
+ ## Mirror of the Soul
 
 - (T) Anubys (enter secret room)
 
-##Hall of the Wroth God
+ ## Hall of the Wroth God
 
 ![](https://i.imgur.com/DIvtMi5.png)
 
@@ -2812,7 +2812,7 @@ When Rains:
 - [50] Bubble Mote (100%)
 - [51] Zodiac Escutcheon\* (1%)
 
-#Rabanastre
+ # Rabanastre
 
 - Late-model Rifle
     - 1x Salamand Halcyon (done)
@@ -2824,20 +2824,20 @@ When Rains:
 - Reverse, Syphon, Drain, Decoy (clan): 15800 gil
 - 6x Cat-ear Hood (clan): 300000 gil (equip to reserve party)
 
-#Garamsythe Waterway
+ # Garamsythe Waterway
 
 - [No. 10 Channel] (T) Gavial (15s in W basin)
 
-#Giza Plains (Dry)
+ # Giza Plains (Dry)
 
 - [Starfall Field SE] (T) Nazarnir (40%)
 - Werewolf bestiary
 
-#Estersand
+ # Estersand
 
 - [Broken Sands] (T) Terror Tyrant (40% per Wild Saurian)
 
-##Matamune
+ ## Matamune
 
 - [South Bank Village] Fish for 5 coloured bottles
 - Black: [Garamsythe Waterway/Central Waterway Control] Rats
@@ -2847,7 +2847,7 @@ When Rains:
 - Yellow: [Cerobi Steppe] Turn on windmills 1, 2, 5, 7, 9
 - [Barheim Passage/West Annex] N to small area
     - [The Zeviah Span] (T) Ishteen (2% per 10s)
-##Fishing
+ ## Fishing
 
 - Ruksel
 - Downstream: 5x perfect
@@ -2857,52 +2857,52 @@ When Rains:
 - Den of the River Lord: 9 lives (50% Adamantite, 50% Scarletite)
     - 1/1 Lu Shang's Badge
 
-#Cerobi Steppe
+ # Cerobi Steppe
 
 - [Feddik River] (T) Aspidochelon (40% per entry)
     - 2x total Scarletite (6% steal)
 
-#Westersand
+ # Westersand
 
 - [Shimmering Horizons] (R) Lindbur Wolf (20-22 wolf kills)
 - [Corridor of Sand E] (T) Kaiser Wolf (40% right after Lindbur)
 
-#Golmore Jungle
+ # Golmore Jungle
 
 - [The Needlebrake S] (T) Biding Mantis (:30 to :59)
 
-#Ozmone Plain
+ # Ozmone Plain
 
 - [Field of Light Winds, Haulo Green] 1x Sylphi Halcyon (6% steal or 3% at L0 from Sylphi Entite, cloudy weather)
 
-#Tomb of Raithwall
+ # Tomb of Raithwall
 
 - [Northfall Passage] (T) Zombie Lord (:00 to :29)
 
-#Stilshrine of Miriam
+ # Stilshrine of Miriam
 
 - [Ward of Velitation] (T) Myath (kill all Dragon Aevis and rezone)
 
-#Mosphoran Highwaste
+ # Mosphoran Highwaste
 
 - [Skyreach Ridge] (T) Dheed (40% chance, 6% Mirage Vest\* steal)
 
-#Feywood
+ # Feywood
 
 - 9x Prime Pelt (40% at L0 from Tartarus and Cerberus)
 - 4x Hell-Gate's Flame (5% monograph from Cerberus)
 
-##Walk of Dancing Shadow
+ ## Walk of Dancing Shadow
 
 - (T) Dreadguard (40% per full enemy respawn)
 
-##Redolent Glade
+ ## Redolent Glade
 
 - Rafflesia (wind)
 - Domaine Calvados (100%)
 - X-Potion (100%)
 
-##White Magick's Embrace
+ ## White Magick's Embrace
 
 - Kill Cerberus until soon before :00 game time
 - Go back and chain Golems if want White Masks
@@ -2912,7 +2912,7 @@ When Rains:
 - [E] Dispelga (100%)
 - [SE] Golden Amulet (100%)
 
-##Ice Field of Clearsight
+ ## Ice Field of Clearsight
 
 - [Centre] Bubble Belt (100%)
 - 4x total Serpent Eye (8% monograph from Basilisk)
@@ -2922,7 +2922,7 @@ When Rains:
     - 95% poach or 40% at L0 from Behemoth
     - 80% steal or 40% at L0 from Giruveganus
 
-##The Edge of Reason
+ ## The Edge of Reason
 
 ![](https://i.imgur.com/HUrbHE0.png)
 
@@ -2932,33 +2932,33 @@ When Rains:
 - [63] Reflectga (100%)
 - [66] Traitor's Bow\* (75%, 25%)
 
-#Giruvegan
+ # Giruvegan
 
-##Gate of Water
+ ## Gate of Water
 
 - Daedalus (holy, 6% Damascus Steel steal)
 
-##The Trimahla Water-Steps
+ ## The Trimahla Water-Steps
 
 - 1x Diakon Halcyon (6% steal or 3% at L0 from Diakon Entite, also in Aadha, heavy mist)
 - [SE] Sash (100%)
 
-##The Aadha Water-Steps
+ ## The Aadha Water-Steps
 
 - [SW] Aegis Shield (100%)
 
-##The Haalmikah Water-Steps
+ ## The Haalmikah Water-Steps
 
 - Sleepga (100%)
 
-##Gate of Fire
+ ## Gate of Fire
 
 - [SE] Domaine Calvados (100%)
 - [W] Elixir (100%)
 - [NE] Amber Armlet (100%)
 - Tyrant (ice)
 
-#Great Crystal
+ # Great Crystal
 
 I said no explanations, but this area is special. The area seems thrown together randomly, but there's a method to the madness. [The names are all consistent](http://finalfantasy.istad.org/2013/11/ffxii-giruvegan-map-of-the-great-crystal/), and there's not a ton to know about it:
 
@@ -3011,7 +3011,7 @@ Maps:
 - [Upper (optional) levels with area names](http://finalfantasy.istad.org/wp-content/uploads/2013/11/upper-levels-large.png)
 - Let me know if you find a 3D map that still works (ff12maps had one, but it's no longer around and doesn't render anything through Wayback)
 
-##Kabonii
+ ## Kabonii
 
 ![](https://i.imgur.com/ry5fWuL.png)
 
@@ -3020,23 +3020,23 @@ Maps:
 - 11x Book of Orgain-Cent (30% steal or 25% at L0 from Reaper, all way stone areas)
 - Morning Star\* (12% at L3 from Ose, also in other areas)
 
-##Bhrum
+ ## Bhrum
 
 ![](https://i.imgur.com/lGkjdOp.png)
 
 - [3] Holy Rod\* (100%)
 - [4] Gold Hairpin\* (100%)
 
-##Trahk
+ ## Trahk
 
 ![](https://i.imgur.com/6gCg5ZR.png)
 
 - [5] Ninja Gear\* (100%)
 - [6] Gaia Gear\* (100%)
 
-#Giruvegan
+ # Giruvegan
 
-##Gate of Wind
+ ## Gate of Wind
 
 - Shemhazai (changes weakness)
     - Balthier
@@ -3045,11 +3045,11 @@ Maps:
 - Don't forget Occuria before going back
 - Do not use Tellurian Way Stone
 
-#Great Crystal
+ # Great Crystal
 
 - Wear the Diamond Armlet until leaving the Great Crystal if you want Meteorite D
 
-##Dhebon
+ ## Dhebon
 
 ![](https://i.imgur.com/ddozl3S.png)
 
@@ -3059,7 +3059,7 @@ Maps:
 - S1
 - XI
 
-##Sirhru
+ ## Sirhru
 
 ![](https://i.imgur.com/o7kRVDY.png)
 
@@ -3073,14 +3073,14 @@ Maps:
 - G2
 - XIII
 
-##Dhebon
+ ## Dhebon
 
 ![](https://i.imgur.com/ddozl3S.png)
 
 - S2
 - XII
 
-##Sirhru
+ ## Sirhru
 
 ![](https://i.imgur.com/o7kRVDY.png)
 
@@ -3106,7 +3106,7 @@ Maps:
 - 3x total Moon Ring (10% monograph from Ash Wyrm)
 - XV
 
-##Uldobi
+ ## Uldobi
 
 ![](https://i.imgur.com/5cw8lmg.png)
 
@@ -3118,7 +3118,7 @@ Maps:
 - L2
 - XVII
 
-##Kanbhru
+ ## Kanbhru
 
 ![](https://i.imgur.com/TytSV4Z.png)
 
@@ -3133,7 +3133,7 @@ Maps:
 - Aquarius
 - XVIII
 
-##Uldobi
+ ## Uldobi
 
 ![](https://i.imgur.com/5cw8lmg.png)
 
@@ -3147,30 +3147,30 @@ Maps:
 - [26] Meteorite D (5%, 4.5%)
 - XVII
 
-##Kanbhru
+ ## Kanbhru
 
 ![](https://i.imgur.com/TytSV4Z.png)
 
 - XIX
 
-##Dhebon
+ ## Dhebon
 
 ![](https://i.imgur.com/ddozl3S.png)
 
 - X
 
-##Kabonii
+ ## Kabonii
 
 ![](https://i.imgur.com/ry5fWuL.png)
 
 - Remove Diamond Armlet
 - VIII
 
-#Giruvegan
+ # Giruvegan
 
 - [The Trimahla Water-Steps] Map now spawns
 
-#Balfonheim
+ # Balfonheim
 
 - Arise, Shock, Graviga: 21600 gil
 - Traveler, Horology, First Aid: 7400 gil
@@ -3190,9 +3190,9 @@ Maps:
     - 7x Prime Tanned Hide (7 more)
     - 8x Sky Jewel (7 more)
 
-#Ridorana Cateract
+ # Ridorana Cateract
 
-##Echoes from Time's Garden
+ ## Echoes from Time's Garden
 
 ![](https://i.imgur.com/dikzPdo.png)
 
@@ -3203,26 +3203,26 @@ Maps:
 - [8] Celebrant's Miter\* (75%, 25%)
 - (T) Abelisk (30% per entry, 6% Eight-fluted Pole\* steal)
 
-##Colosseum
+ ## Colosseum
 
 ![](https://i.imgur.com/FhZuekB.png)
 
 - [13] Greataxe\* (75%, 25%)
 - [14] Holy Lance\* (75%, 25%)
 
-##City of Other Days
+ ## City of Other Days
 
 - [SE] Pheasant Netsuke (100%)
 - [NE] Gillie Boots (100%)
 - (R) Pallicant (kill everything and rezone, 6% Gastrophetes\* steal)
 
-##Path of Hidden Blessing
+ ## Path of Hidden Blessing
 
 - [NE] Sweep\* (100%)
 
-#Pharos - First Ascent
+ # Pharos - First Ascent
 
-##They Who Thirst Not
+ ## They Who Thirst Not
 
 ![](https://i.imgur.com/2FUdTbz.png)
 
@@ -3232,98 +3232,98 @@ Maps:
 - [3] Ruby Ring\* (100%)
 - [4] Bubble Mote (75%)
 
-#Necrohol of Nabudis
+ # Necrohol of Nabudis
 
 - Esunaga: 12000 gil
 
-#Barheim Passage
+ # Barheim Passage
 
 - Scourge, Immobilize: 9000 gil
 
-#Archades
+ # Archades
 
 - Stop, Bleed, Vanishga, Gravity: 13100 gil
 - Deathgaze, Diabolos, Piscodaemon, Wild Malboro, Catoblepas, Fafnir
 - Deathgaze (back and forth to Nalbina, talk to kid between each)
 
-#Skyferry
+ # Skyferry
 
 - Serum: 700 gil
 - Deathgaze
 
-#Aerodrome
+ # Aerodrome
 
 - Deathgaze
 
-#Bhujerba
+ # Bhujerba
 
 - Diabolos
 
-#Lhusu Mines
+ # Lhusu Mines
 
 - [Site 11 SW] Diabolos (water)
 
-#Bhujerba
+ # Bhujerba
 
 - Diabolos
 
-#Mt Bur-Omisace
+ # Mt Bur-Omisace
 
 - Piscodaemon, Fafnir
 
-#Paramina Rift
+ # Paramina Rift
 
 - Snowstorm
 - Avoid Frozen Brook
 
-##Head of the Silverflow
+ ## Head of the Silverflow
 
 - 1x Leshach Halcyon (6% steal or 3% at L0 from Leshach Entite, snowstorm)
 
-##Karydine Glacier
+ ## Karydine Glacier
 
 - (T) Ancbolder (kill everything)
 
-##Silverflow's End (Dead End)
+ ## Silverflow's End (Dead End)
 
 - Fafnir (thunder, slow, 2x Ruby Ring and 1x Opal Ring)
 
-#Giruvegan
+ # Giruvegan
 
 - [Gate of Fire] Piscodaemon
 
-#Mt Bur-Omisace
+ # Mt Bur-Omisace
 
 - Piscodaemon, Fafnir
 
-#Eruyt Village
+ # Eruyt Village
 
 - Wild Malboro
 
-#Feywood
+ # Feywood
 
 - [Redolent Glade] Wild Malboro (wind)
 
-#Eruyt Village
+ # Eruyt Village
 
 - Wild Malboro
 
-#Jahara
+ # Jahara
 
 - Catoblepas
 - [Lull of the Land] Geomancer Yugelu
 
-#Ozmone Plain
+ # Ozmone Plain
 
 - [The Switchback] (T) Killbug (:10 to :39)
 
-#Zertinan Caverns
+ # Zertinan Caverns
 
 - [The Undershore] (T) Alteci (chain 12 Mallicants and rezone)
 - [Hourglass Basin] Catoblepas (hidden area, holy)
     - 7x Beastlord Hide (30% steal)
 
-#Jahara
+ # Jahara
 
 - Catoblepas
     - 1/1 Arctic Wind
@@ -3342,32 +3342,32 @@ Maps:
     - 7x Sky Jewel (done)
     - 4x Wyvern Fang (done)
 
-#Rabanastre
+ # Rabanastre
 
 - Behemoth King
 
-#Feywood
+ # Feywood
 
 - Kill every enemy in both areas
 
-##The Edge of Reason
+ ## The Edge of Reason
 
 - 1x Giruveganus
 - 5x Behemoth
 - 9x Preying Mantis
 - 16x Basilisk
 
-##Ice Field of Clearsight
+ ## Ice Field of Clearsight
 
 - 2x Behemoth
 - 15x Preying Mantis
 - 12x Basilisk
 
-##The Edge of Reason
+ ## The Edge of Reason
 
 - Behemoth King (Bubble Belt, shear, expose)
 
-##Ice Field of Clearsight
+ ## Ice Field of Clearsight
 
 - Vegetables (2 areas north to respawn them)
     - 2/2 Four-leaf Clover (4% monograph from Mandragora Prince)
@@ -3376,12 +3376,12 @@ Maps:
     - 2/2 Tomato Stalk (18% monograph from Topstalk)
     - 7x total Screamroot (95% poach and 25%+ at L0 from all)
 
-#Rabanastre
+ # Rabanastre
 
 - Shell-worked Collar, Brawler's Fetish, Blush of Light, Potion Crate, Samurai's Katana, Water-drop Munitions
-	- 2x Bomb Shell (done)
-	- 2x Four-leaf Clover (done)
-	- 2x Gimble Stalk (done)
+    - 2x Bomb Shell (done)
+    - 2x Four-leaf Clover (done)
+    - 2x Gimble Stalk (done)
     - 5x Iron Ore (done)
     - 1x Magick Lamp (done)
     - 7x Screamroot (done)
@@ -3390,18 +3390,18 @@ Maps:
     - 10x Water Crystal (done)
 - Behemoth King
 
-#Mt Bur-Omisace
+ # Mt Bur-Omisace
 
 - Wyrm snout barehanded
 
-#Henne Mines
+ # Henne Mines
 
-##Pithead Junction B
+ ## Pithead Junction B
 
 - 2x Yellow Liquid (95% poach or 30% steal or 25% at L0 from Jelly)
 - (T) Melt (Switch, 50% chance)
 
-##Phase 2 Dig
+ ## Phase 2 Dig
 
 ![](https://i.imgur.com/409oCkp.png)
 
@@ -3415,7 +3415,7 @@ Maps:
 - [31] Mythril Sword (100%)
 - Gizamaluk bestiary
 
-##Crossover C
+ ## Crossover C
 
 ![](https://i.imgur.com/LEStjkX.png)
 
@@ -3425,12 +3425,12 @@ Maps:
 - (R) Glaring Eye (3+ Hecteyes killed, also in Phase 2 Dig, 3% Scorpion Tail\* at L0, 25% Sweep at L0)
     - Or get Scorpion Tail from 1/1000 chest in Cerobi Steppe
 
-##Phase 2 Shaft
+ ## Phase 2 Shaft
 
 - [NE] Makara (100%)
     - Seems to be linked to the other Makara chest (won't spawn if you got that one)
 
-##Special Charter Shaft
+ ## Special Charter Shaft
 
 ![](https://i.imgur.com/1LKni7Q.png)
 
@@ -3444,7 +3444,7 @@ Maps:
 - [60] Lordly Robes\* (100%)
 - [!!] 2x Megalixir, 3x Bacchus's Wine
 
-##Special Charter Dig
+ ## Special Charter Dig
 
 - Zodiark
     - 3/3 Serpentarius (80% steal)
@@ -3455,77 +3455,77 @@ Maps:
     - Critical HP: reflect + Opal Ring
     - Basch
 
-#Pharos - First Ascent
+ # Pharos - First Ascent
 
-##Wellspring Labyrinth
+ ## Wellspring Labyrinth
 
 - 2x Chimera Head (10% monograph from Chimera Brain, also in other areas up to 4th Flight)
 - [E] Hermes Sandals (100%)
 
-##Dunes of Profaning Wind
+ ## Dunes of Profaning Wind
 
 - Pandaemonium (wind)
     - 2x total Ancient Turtle shell (80% steal)
 
-##1st Flight
+ ## 1st Flight
 
 - [NW] Demon Shield (100%)
 - [SE] Dragon Helm\* (100%)
 - Kill 10+ Deidars by F47
 
-##2nd Flight
+ ## 2nd Flight
 
 - [Centre] Chaperon\* (100%)
 - [NW] Perseus Bow (100%)
 
-##3rd Flight
+ ## 3rd Flight
 
 - [NE] Gungnir (100%)
 - [NE] Holy (100%)
 
-##4th Flight
+ ## 4th Flight
 
 - [NE] Scathe Mote (100%)
 - [NW] Elixir (100%)
 - [F47] (R) Vishno (10+ Deidars killed, 1% Ribbon at L0)
     - 3x Orichalcum (6% steal)
 
-##Horizon's Cusp
+ ## Horizon's Cusp
 
 - [NW] Reflectga Mote (100%)
 - [NW] Black Mask (100%)
 
-#Pharos - Second Ascent
+ # Pharos - Second Ascent
 
-##The Reach
+ ## The Reach
 
 - SE door
 
-##Station of Banishment
+ ## Station of Banishment
 
 - [S] Opal Ring (100%)
 - [NE] Quasimodo Boots (100%)
 - [NW] Minerva Bustier (100%)
 
-##Station of Suffering
+ ## Station of Suffering
 
 - 3x Corpse Fly (12% monograph from Dragon Lich, also in Subterra)
 - 5x Solid Horn (95% poach or 80% steal from Abaddon)
 - [SW] Zeus Mace (100%)
 - [NW] Tula\* (100%)
 
-##Station of Ascension
+ ## Station of Ascension
 
 - [SW] Dragon Mail\* (100%)
 - [NE] Sash (100%)
 - [NW] (T) Avenger (40% per entry, 6% Muramasa\*\* steal)
 
-##The Bounds of Truth
+ ## The Bounds of Truth
 
 - [NW] Muramasa\* (100%)
 - [NW] Hastega Mote (100%)
 
-##Cleft of Profaning Wind
+ ## Cleft of Profaning Wind
 
 - Get while fighting
 - [N] Cura Mote (100%)
@@ -3533,11 +3533,11 @@ Maps:
 - [N] Phoenix Down (100%)
 - [N] Elixir (100%)
 
-#Pharos - Third Ascent
+ # Pharos - Third Ascent
 
 - Cataract Aevis bestiary
 
-##Spire Ravel - 1st Flight
+ ## Spire Ravel - 1st Flight
 
 - Green Sigil x2 for map
 - Black Sigil
@@ -3546,7 +3546,7 @@ Maps:
 - Plain sight Green Sigil for map completion
 - [Hidden SE] Green Sigil
 
-##Spire Ravel - 2nd Flight
+ ## Spire Ravel - 2nd Flight
 
 - Ardor (100%)
 - White Robes (100%)
@@ -3560,7 +3560,7 @@ Maps:
 - Hashmal (wind)
     - Ashe
 
-##Empyrean Ravel
+ ## Empyrean Ravel
 
 ![](https://i.imgur.com/h9Uj9eq.png)
 
@@ -3572,13 +3572,13 @@ Maps:
 - Famfrit (fire)
     - Balthier
 
-#Balfonheim
+ # Balfonheim
 
 - Pylraster
 - Rikken
     - win x100
 
-#Phon Coast
+ # Phon Coast
 
 - Hunt Club
     - Atak: 5
@@ -3587,23 +3587,23 @@ Maps:
     - Ribbon
     - Genji Gloves: 447000 gil
 
-#Archades
+ # Archades
 
 - [Highgarden Terrace] Hunt Club owner
     - 1 of every gem
 
-#Rabanastre
+ # Rabanastre
 
 - Ixion, Seer, Yiazmat
     - 1/3 Serpentarius
 
-##High Arcana
+ ## High Arcana
 
 - If you're unlucky and don't have 3x High Arcana because no rare game dropped one:
     - Option 1: Get an extra 1x Feystone and 2x Chimera Head and make High Arcana now instead of combining it with Tournesol
     - Option 2: Farm rare game for a High Arcana
 
-##Bazaar 1
+ ## Bazaar 1
 
 - Caution: Do not combine these selling sessions
     - We're making loot that we need for other bazaar unlocks
@@ -3681,7 +3681,7 @@ Maps:
 - 2/3 Empyreal Soul
 - 2/3 Gemsteel
 
-##Bazaar 2
+ ## Bazaar 2
 
 - Jewel of the Serpent, Jewel of Creation, Matchless Metal
     - 2x Damascus Steel (done)
@@ -3696,7 +3696,7 @@ Maps:
 - 3/3 Empyreal Soul
 - 3/3 Gemsteel
 
-##Bazaar 3 (Tournesol)
+ ## Bazaar 3 (Tournesol)
 
 - Remove Arcana and Feystone and Soul of Thamasa if already made High Arcana
 - Master-crafted Blade, The Sunflower, Life Crystal, Darksteel Blade, Magepower Helm
@@ -3712,66 +3712,66 @@ Maps:
     - 1x Soul of Thamasa (done)
     - 3x Taurus Gem (done)
 
-#Pharos - First Ascent
+ # Pharos - First Ascent
 
 - [They Who Thirst Not] Pylraster (fire)
 
-#Balfonheim
+ # Balfonheim
 
 - Pylraster, Ixion
 
-#Pharos - Subterra
+ # Pharos - Subterra
 
 - Try to spawn Ixion in Abyssal
 - Ixion (kill all enemies and take lift from 1st floor and repeat, holy)
 
-##Penumbra
+ ## Penumbra
 
 - NE: 18
 - NW: 9
 - SE: 3
 - SW: 6
 
-##Penumbra - North
+ ## Penumbra - North
 
 ![](https://i.imgur.com/07DWm6E.png)
 
 - [3] Indigo Pendant (5%)
 - [!!] Phoenix (changes weakness)
 
-##Penumbra - South
+ ## Penumbra - South
 
 - [SE] Golden Amulet (70%, 10%)
 - [SW] Embroidered Tippet (70%, 10%)
 - [NW] Ring of Renewal (20%)
 
-##Umbra
+ ## Umbra
 
 - NE: 15
 - NW: 9
 - SE: 15
 - SW: 18
 
-##Umbra - North
+ ## Umbra - North
 
 ![](https://i.imgur.com/ufredVj.png)
 
 - [10] Cameo Belt (5%)
 
-##Umbra - South
+ ## Umbra - South
 
 ![](https://i.imgur.com/UJ7fSD2.png)
 
 - [18] Nihopalaoa (5%)
 
-##Abyssal
+ ## Abyssal
 
 - NE: 15
 - NW: 21
 - SE: 27
 - SW: 12
 
-##Abyssal - North
+ ## Abyssal - North
 
 ![](https://i.imgur.com/3D9T0JP.png)
 
@@ -3779,7 +3779,7 @@ Maps:
 - [22] Hermes Sandals (70%, 10%)
 - [24] Wither (10%)
 
-##Abyssal - South
+ ## Abyssal - South
 
 ![](https://i.imgur.com/w61eqDo.png)
 
@@ -3794,75 +3794,75 @@ Maps:
 - [35] Baltoro Seed (40%, 0.15%) DA
 - [36] Baltoro Seed (40%, 0.15%) DA
 
-##Unknown
+ ## Unknown
 
 - Seer (holy, holy+dark protection)
 
-##Abyssal - North
+ ## Abyssal - North
 
 - [S Centre] (R) Vagrant Soul (Seer hunt done, 25% chance, 6% Shikari Nagasa\* steal)
 
-##Umbra - South
+ ## Umbra - South
 
 - [N Centre] (R) Luxollid (Vagrant Soul killed - no saving/leaving, 6% Sagittarius\* steal)
 
-#Balfonheim
+ # Balfonheim
 
 - Ixion
 
-#Rabanastre
+ # Rabanastre
 
 - Seer
 
-#Ridorana Cataract
+ # Ridorana Cataract
 
 - Yiazmat (dark, Ribbon, constant shell, shear, expose, wither, addle, 6% Bone of Byblos steal, 30% Yagyu Darkblade steal)
 
-#Rabanastre
+ # Rabanastre
 
 - Yiazmat
     - 1/1 Godslayer's Badge
 
-#Great Crystal
+ # Great Crystal
 
 - Can use Ribbons now to farm Larva Eater and Evil Spirit
 
-##Kabonii
+ ## Kabonii
 
 ![](https://i.imgur.com/ry5fWuL.png)
 
 - IX
 
-##Dhebon
+ ## Dhebon
 
 ![](https://i.imgur.com/ddozl3S.png)
 
 - XX
 
-##Kanbhru
+ ## Kanbhru
 
 ![](https://i.imgur.com/TytSV4Z.png)
 
 - XVIII
 
-##Uldobi
+ ## Uldobi
 
 ![](https://i.imgur.com/5cw8lmg.png)
 
 - XXI (through V1 and C2)
 
-##Dhebon
+ ## Dhebon
 
 - Omega Mark XII (1% Bonebreaker at L0)
     - changes weakness
     - 1/1 Omega Badge
 
-#Zertinan Caverns
+ # Zertinan Caverns
 
 - [The Balamka Fault] Archaeoaevis (ice, wither)
     - 2x Emperor Scale (14% monograph)
 
-#Loose Ends
+ # Loose Ends
 
 - Mudslinger, Dragon Crest
     - 8x Earth Crystal (done)
