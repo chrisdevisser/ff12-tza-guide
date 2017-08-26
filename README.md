@@ -49,6 +49,7 @@ The guide contains specific job and esper assignments. Feel free to use your own
 - [Jobs and Esper Assignments](https://www.youtube.com/watch?v=MrgGnzpQJSE): xAshe10x
 - [Great Crystal Naming/Structure Information](http://finalfantasy.istad.org/2013/11/ffxii-giruvegan-map-of-the-great-crystal/): auronlu
 - GitHub Markdown renderer compatibility: /u/theDaninDanger
+- General help/tips: /u/EchoAlchemy
 
 ## Building
 
