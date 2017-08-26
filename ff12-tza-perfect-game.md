@@ -92,6 +92,7 @@ How much loot is saved through combination selling:
 - Feystone (1)
 - Fire Crystal (10)
 - Fire Stone (4)
+- Foul Flesh (2)
 - Gemsteel (2)
 - Giant Feather (3)
 - High Arcana (4)
@@ -432,7 +433,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
  ## Great Eastern Passage
 
 - 8x Glass Jewel (40% at L0 from Specter, power drained)
-- 4x Foul Flesh (55% steal or 25% at L0 from Zombie (Male), power drained)
+- 2x Foul Flesh (55% steal or 25% at L0 from Zombie (Male), power drained)
 
  ## Op Sector 36
 
@@ -457,6 +458,7 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
 
 ![](https://i.imgur.com/oBeuhkV.png)
 
+- 3x Iron Scraps (40% at L0 from Tiny Mimic)
 - [31] Cypress Pole (75%, 30%)
 - [32] Iron Hammer\* (75%, 30%)
 - [35] Cherry Staff\* (75%, 32.5%)
@@ -493,12 +495,14 @@ Do note that the Werewolf enemy no longer drops a Kotetsu. Instead, this weapon 
  ## Observation Parlor
 
 - 33x Gysahl Greens: 3564 gil
-- Wind Walkers, Gilt Shield, Light Spear
+- Wind Walkers, Gilt Shield, Light Spear, Iron-forged Blade
     - 15x Arcana (sell them as they come to unlock this, then save 10)
+    - 3x Earth Stone (4 more)
     - 3x Fire Stone (6 more)
-    - 2x Foul Flesh (2 more)
+    - 2x Foul Flesh (done)
     - 33x Gysahl Greens (done, but keep extras for wandering chocobos)
     - 2x Horn (done)
+    - 3x Iron Scraps (done)
     - 3x Molting (done)
     - 3x Wind Stone (done)
 
@@ -774,7 +778,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 - Tinctures & Tonics, Wooden Pole, Large Gloves 
     - 3x Bent Staff (done)
     - 5x Bone Fragment (done)
-    - 4x Earth Stone (1 more)
+    - 4x Earth Stone (done)
     - 4x Succulent Fruit (done) 
 
 - Garuda (dark)
@@ -1193,7 +1197,6 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 ![](https://i.imgur.com/azj7jSI.png)
 
-- 3x Iron Scraps (40% at L0 from Tiny Mimic)
 - [52] Icebrand (90%, 25%)
 - [58] Scathe Mote (100%)
 - [60] Kagenui (100%)
@@ -1232,13 +1235,10 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
  # Rabanastre
 
-- Iron-forged Blade, Emboldening Arms, Noisome Incendiaries, Serum Pack, Gilt Phylactery 
+- Emboldening Arms, Noisome Incendiaries, Serum Pack, Gilt Phylactery 
     - 1x Bomb Shell (6 more)
     - 1x Demon's Sigh (done)
-    - 3x Earth Stone (done)
     - 3x Fire Crystal (11 more)
-    - 2x Foul Flesh (done)
-    - 3x Iron Scraps (done)
     - 6x Quality Pelt (done)
     - 4x Tanned Giantskin (5 more)
     - 1x Tattered Garment (done)
