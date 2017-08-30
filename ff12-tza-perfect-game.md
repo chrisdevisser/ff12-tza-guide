@@ -663,7 +663,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
  # Rabanastre
 
 - Ktjn (should've)
-- Wyvern
+- Wyvern Lord
 
  # Giza Plains
 
@@ -698,6 +698,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 ![](https://i.imgur.com/EMEDMkc.png)
 
 - [34] Paramina Crossbow\* (80%, 25%)
+- Danbania bestiary (here and other shores)
 - NE
 
  # Zertinan Caverns
@@ -763,7 +764,8 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
 ![](https://i.imgur.com/Hs21H45.png)
 
-- Wyvern (no wind)
+- Wyvern Lord (no wind)
+- Wyvern bestiary
 - 3x Bent Staff (15% monograph or 40% at L0 from Bagoly)
 - [44] Lohengrin\* (75%, 35%)
 - [45] Embroidered Tippet (100%)
@@ -841,7 +843,7 @@ There's a bug where the chests and traps in this area don't respawn after the Ba
 
  # Rabanastre
 
-- Wyvern
+- Wyvern Lord
 - Enkelados, Croakadile, White Mousse, Ring Wyrm, Marilith
 - Gil Snapper
     - 1/2 Electrum
