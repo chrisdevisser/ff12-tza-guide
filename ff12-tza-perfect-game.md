@@ -2,7 +2,7 @@
 
 Version: 1.1.4
 
-Guide © 2017 Chris DeVisser
+Guide © 2017-2018 Chris DeVisser
 
 chris.n.devisser@gmail.com
 
