@@ -40,7 +40,7 @@ The guide contains specific job and esper assignments. Feel free to use your own
 
 ## Credits
 
-- [Map images](https://www.reddit.com/r/FinalFantasyXII/comments/6of040/izjs_and_therefore_tza_maps_with_chest_placement/): /u/letohorn
+- [Map images](https://www.reddit.com/r/FinalFantasyXII/comments/6of040/izjs_and_therefore_tza_maps_with_chest_placement/): Tirpitz Luminare \[[original post](https://www.neoseeker.com/forums/4605/t1560580-ffxii-international-zodiac-job-system-game-maps/)\] (with thanks to /u/letohorn for making an imgur album and reddit post)
 - [Treasures](https://www.gamefaqs.com/ps2/939426-final-fantasy-xii-international-zodiac-job-system/faqs/49691), [Sidequests](https://www.gamefaqs.com/ps2/459841-final-fantasy-xii/faqs/42270), [Hunts](https://www.gamefaqs.com/ps2/459841-final-fantasy-xii/faqs/42270), [Bosses](https://www.gamefaqs.com/ps2/459841-final-fantasy-xii/faqs/42270): Split Infinity
 - Loot and Bazaar: Wiki
 - Equipment: Wiki
